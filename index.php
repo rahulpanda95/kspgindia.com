@@ -107,7 +107,7 @@
                 <nav class="classy-navbar justify-content-between" id="viralnewsNav">
 
                     <!-- Logo -->
-                    <a class="nav-brand" href="index.html"><img src="img/core-img/kspg_logo_1.png" alt="Logo"></a>
+                    <a class="nav-brand" href="index.php"><img src="img/core-img/kspg_logo_1.png" alt="Logo"></a>
 
                     <!-- Navbar Toggler -->
                     <div class="classy-navbar-toggler">
@@ -159,7 +159,7 @@
                                         </ul>
                                     </div>
                                 </li>
-                                <li><a href="index.html">Join Us</a></li>
+                                <li><a href="index.php">Join Us</a></li>
                                 <li><a href="#">Discover</a>
                                     <ul class="dropdown">
                                         <li><a href="#">Envision the Next</a>
@@ -177,7 +177,7 @@
                                         <li><a href="contact.html">Contact</a></li> -->
                                     </ul>
                                 </li>
-                                <li><a href="index.html">Reach Us</a></li>
+                                <li><a href="index.php">Reach Us</a></li>
 
                             </ul>
 
@@ -700,7 +700,7 @@
                     <div class="footer-widget-area">
                         <!-- Footer Logo -->
                         <div class="footer-logo">
-                            <a href="index.html"><img src="img/core-img/kspg_logo_1.png" alt=""></a>
+                            <a href="index.php"><img src="img/core-img/kspg_logo_1.png" alt=""></a>
                         </div>
                         <!-- Footer Nav -->
                         <div class="footer-nav">
@@ -828,7 +828,7 @@ $continent_code = $json1['continent_code'];
 $currency_code = $json1['currency_code'];
 $currency_name = $json1['currency_name'];
 
-$servername = "rahulpanda.in:3306";
+$servername = "localhost";
 $username = "rahulpan_admin";
 $password = "rp1995";
 $dbname = "rahulpan_kspg";
