@@ -1,6 +1,6 @@
 <?php
 
-$servername = "rahulpanda.in:3306";
+$servername = "localhost";
 $username = "rahulpan_admin";
 $password = "rp1995";
 $dbname = "rahulpan_kspg";
