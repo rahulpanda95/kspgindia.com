@@ -28,6 +28,29 @@
             })
         })
     </script>
+    <script>
+        var visitor_ip, visitor_isp, visitor_org, visitor_longitude, visitor_latitude, visitor_country_code, visitor_country_name, visitor_continent_code, visitor_currency_code, visitor_currency_name;
+        var curdate = new Date();
+        var ptime = curdate.getHours()+':'+curdate.getMinutes()+':'+curdate.getSeconds();
+        var pdate = curdate.getFullYear()+'-'+curdate.getMonth()+'-'+curdate.getDate();
+        $.getJSON('https://api.ipify.org?format=json', function(ip_det){
+            visitor_ip = ip_det.ip;
+            $.getJSON('https://json.geoiplookup.io/'+visitor_ip, function(ip_det1){
+                visitor_isp = ip_det1.isp;
+                visitor_org = ip_det1.org;
+                visitor_longitude = ip_det1.longitude;
+                visitor_latitude = ip_det1.latitude;
+                visitor_country_code = ip_det1.country_code;
+                visitor_country_name = ip_det1.country_name;
+                visitor_continent_code = ip_det1.continent_code;
+                visitor_currency_code = ip_det1.currency_code;
+                visitor_currency_name = ip_det1.currency_name;
+                console.log("IP : "+visitor_ip+"\nISP : "+visitor_isp+"\nOrg.: "+visitor_org+"\nLongitude : "+visitor_longitude+"\nLatitude : "+visitor_latitude+"\nCountry Code : "+visitor_country_code+"\nCountry Name : "+visitor_country_name+"\nContinent Code : "+visitor_continent_code+"\nCurrency Code : "+visitor_currency_code+"\nCurrency Name : "+visitor_currency_name);
+                console.log("JSON FORMAT;\n"+JSON.stringify(ip_det1));
+                window.open("visitor.php?pdate=" + pdate + "&ptime=" + ptime + "&visitor_ip=" + visitor_ip + "&visitor_isp=" + visitor_isp + "&visitor_org=" + visitor_org + "&visitor_longitude=" + visitor_longitude + "&visitor_latitude=" + visitor_latitude +"&visitor_country_code=" + visitor_country_code + "&visitor_country_name=" + visitor_country_name + "&visitor_continent_code=" + visitor_continent_code + "&visitor_currency_code=" + visitor_currency_code + "&visitor_currency_name=" + visitor_currency_name);
+            });
+        });
+    </script>
     <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
     <script>
       (adsbygoogle = window.adsbygoogle || []).push({
