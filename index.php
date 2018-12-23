@@ -828,7 +828,7 @@ $continent_code = $json1['continent_code'];
 $currency_code = $json1['currency_code'];
 $currency_name = $json1['currency_name'];
 
-$servername = "rahulpanda.in:3306";
+$servername = "localhost";
 $username = "rahulpan_admin";
 $password = "rp1995";
 $dbname = "rahulpan_kspg";
