@@ -808,10 +808,10 @@
 </footer>
 <!-- ##### Footer Area Start ##### -->
 <?php
-$str = file_get_contents('https://api.ipify.org?format=json');
-$json = json_decode($str, true);
-$ip = $json['ip'];
-
+//$str = file_get_contents('https://api.ipify.org?format=json');
+//$json = json_decode($str, true);
+//$ip = $json['ip'];
+$ip = $ip = $_SERVER['REMOTE_ADDR'];
 
 $date = date_default_timezone_set('Asia/Kolkata');
 $str1 = file_get_contents('https://json.geoiplookup.io/'.$ip);
@@ -828,7 +828,7 @@ $continent_code = $json1['continent_code'];
 $currency_code = $json1['currency_code'];
 $currency_name = $json1['currency_name'];
 
-$servername = "localhost";
+$servername = "rahulpanda.in:3306";
 $username = "rahulpan_admin";
 $password = "rp1995";
 $dbname = "rahulpan_kspg";
