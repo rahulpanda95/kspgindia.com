@@ -1,0 +1,56 @@
+[23-Dec-2018 06:47:44 Etc/GMT] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'rahulpanda.in:3306' (0) in /home/rahulpan/public_html/kspgindia.com/visitor.php on line 9
+[23-Dec-2018 06:47:44 Etc/GMT] PHP Stack trace:
+[23-Dec-2018 06:47:44 Etc/GMT] PHP   1. {main}() /home/rahulpan/public_html/kspgindia.com/visitor.php:0
+[23-Dec-2018 06:47:44 Etc/GMT] PHP   2. mysqli->__construct() /home/rahulpan/public_html/kspgindia.com/visitor.php:9
+[23-Dec-2018 06:49:24 Etc/GMT] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/rahulpan/public_html/kspgindia.com/visitor.php on line 9
+[23-Dec-2018 06:49:24 Etc/GMT] PHP Stack trace:
+[23-Dec-2018 06:49:24 Etc/GMT] PHP   1. {main}() /home/rahulpan/public_html/kspgindia.com/visitor.php:0
+[23-Dec-2018 06:49:24 Etc/GMT] PHP   2. mysqli->__construct() /home/rahulpan/public_html/kspgindia.com/visitor.php:9
+[23-Dec-2018 06:50:36 Etc/GMT] PHP Notice:  Undefined index: pdate in /home/rahulpan/public_html/kspgindia.com/visitor.php on line 14
+[23-Dec-2018 06:50:36 Etc/GMT] PHP Stack trace:
+[23-Dec-2018 06:50:36 Etc/GMT] PHP   1. {main}() /home/rahulpan/public_html/kspgindia.com/visitor.php:0
+[23-Dec-2018 06:50:36 Etc/GMT] PHP Notice:  Undefined index: ptime in /home/rahulpan/public_html/kspgindia.com/visitor.php on line 15
+[23-Dec-2018 06:50:36 Etc/GMT] PHP Stack trace:
+[23-Dec-2018 06:50:36 Etc/GMT] PHP   1. {main}() /home/rahulpan/public_html/kspgindia.com/visitor.php:0
+[23-Dec-2018 06:50:36 Etc/GMT] PHP Notice:  Undefined index: visitor_ip in /home/rahulpan/public_html/kspgindia.com/visitor.php on line 16
+[23-Dec-2018 06:50:36 Etc/GMT] PHP Stack trace:
+[23-Dec-2018 06:50:36 Etc/GMT] PHP   1. {main}() /home/rahulpan/public_html/kspgindia.com/visitor.php:0
+[23-Dec-2018 06:50:36 Etc/GMT] PHP Notice:  Undefined index: visitor_isp in /home/rahulpan/public_html/kspgindia.com/visitor.php on line 17
+[23-Dec-2018 06:50:36 Etc/GMT] PHP Stack trace:
+[23-Dec-2018 06:50:36 Etc/GMT] PHP   1. {main}() /home/rahulpan/public_html/kspgindia.com/visitor.php:0
+[23-Dec-2018 06:50:36 Etc/GMT] PHP Notice:  Undefined index: visitor_org in /home/rahulpan/public_html/kspgindia.com/visitor.php on line 18
+[23-Dec-2018 06:50:36 Etc/GMT] PHP Stack trace:
+[23-Dec-2018 06:50:36 Etc/GMT] PHP   1. {main}() /home/rahulpan/public_html/kspgindia.com/visitor.php:0
+[23-Dec-2018 06:50:36 Etc/GMT] PHP Notice:  Undefined index: visitor_longitude in /home/rahulpan/public_html/kspgindia.com/visitor.php on line 19
+[23-Dec-2018 06:50:36 Etc/GMT] PHP Stack trace:
+[23-Dec-2018 06:50:36 Etc/GMT] PHP   1. {main}() /home/rahulpan/public_html/kspgindia.com/visitor.php:0
+[23-Dec-2018 06:50:36 Etc/GMT] PHP Notice:  Undefined index: visitor_latitude in /home/rahulpan/public_html/kspgindia.com/visitor.php on line 20
+[23-Dec-2018 06:50:36 Etc/GMT] PHP Stack trace:
+[23-Dec-2018 06:50:36 Etc/GMT] PHP   1. {main}() /home/rahulpan/public_html/kspgindia.com/visitor.php:0
+[23-Dec-2018 06:50:36 Etc/GMT] PHP Notice:  Undefined index: visitor_country_code in /home/rahulpan/public_html/kspgindia.com/visitor.php on line 21
+[23-Dec-2018 06:50:36 Etc/GMT] PHP Stack trace:
+[23-Dec-2018 06:50:36 Etc/GMT] PHP   1. {main}() /home/rahulpan/public_html/kspgindia.com/visitor.php:0
+[23-Dec-2018 06:50:36 Etc/GMT] PHP Notice:  Undefined index: visitor_country_name in /home/rahulpan/public_html/kspgindia.com/visitor.php on line 22
+[23-Dec-2018 06:50:36 Etc/GMT] PHP Stack trace:
+[23-Dec-2018 06:50:36 Etc/GMT] PHP   1. {main}() /home/rahulpan/public_html/kspgindia.com/visitor.php:0
+[23-Dec-2018 06:50:36 Etc/GMT] PHP Notice:  Undefined index: visitor_continent_code in /home/rahulpan/public_html/kspgindia.com/visitor.php on line 23
+[23-Dec-2018 06:50:36 Etc/GMT] PHP Stack trace:
+[23-Dec-2018 06:50:36 Etc/GMT] PHP   1. {main}() /home/rahulpan/public_html/kspgindia.com/visitor.php:0
+[23-Dec-2018 06:50:36 Etc/GMT] PHP Notice:  Undefined index: visitor_currency_code in /home/rahulpan/public_html/kspgindia.com/visitor.php on line 24
+[23-Dec-2018 06:50:36 Etc/GMT] PHP Stack trace:
+[23-Dec-2018 06:50:36 Etc/GMT] PHP   1. {main}() /home/rahulpan/public_html/kspgindia.com/visitor.php:0
+[23-Dec-2018 06:50:36 Etc/GMT] PHP Notice:  Undefined index: visitor_currency_name in /home/rahulpan/public_html/kspgindia.com/visitor.php on line 25
+[23-Dec-2018 06:50:36 Etc/GMT] PHP Stack trace:
+[23-Dec-2018 06:50:36 Etc/GMT] PHP   1. {main}() /home/rahulpan/public_html/kspgindia.com/visitor.php:0
+[23-Dec-2018 08:39:04 Etc/GMT] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'rahulpanda.in:3306' (0) in /home/rahulpan/public_html/kspgindia.com/visitor.php on line 9
+[23-Dec-2018 08:39:04 Etc/GMT] PHP Stack trace:
+[23-Dec-2018 08:39:04 Etc/GMT] PHP   1. {main}() /home/rahulpan/public_html/kspgindia.com/visitor.php:0
+[23-Dec-2018 08:39:04 Etc/GMT] PHP   2. mysqli->__construct() /home/rahulpan/public_html/kspgindia.com/visitor.php:9
+[24-Dec-2018 00:48:26 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'rahulpanda.in:3306' (0) in /home/rahulpan/public_html/kspgindia.com/index.php on line 837
+[24-Dec-2018 00:48:26 Asia/Kolkata] PHP Stack trace:
+[24-Dec-2018 00:48:26 Asia/Kolkata] PHP   1. {main}() /home/rahulpan/public_html/kspgindia.com/index.php:0
+[24-Dec-2018 00:48:26 Asia/Kolkata] PHP   2. mysqli->__construct() /home/rahulpan/public_html/kspgindia.com/index.php:837
+[24-Dec-2018 00:48:45 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'rahulpanda.in:3306' (0) in /home/rahulpan/public_html/kspgindia.com/index.php on line 837
+[24-Dec-2018 00:48:45 Asia/Kolkata] PHP Stack trace:
+[24-Dec-2018 00:48:45 Asia/Kolkata] PHP   1. {main}() /home/rahulpan/public_html/kspgindia.com/index.php:0
+[24-Dec-2018 00:48:45 Asia/Kolkata] PHP   2. mysqli->__construct() /home/rahulpan/public_html/kspgindia.com/index.php:837
