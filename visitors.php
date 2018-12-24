@@ -34,11 +34,23 @@
 </head>
 <body>
 
+<p style="text-align: center"><img src="img/core-img/kspg_banner_visitor.png" width="630" height="70.87"></p>
+<hr>
 <form>
     <p style="color: darkred">Enter Date for Visitor History: <input type = "text" name = "datepicker" id = "datepicker" onchange="showUser(this.value)"></p>
 </form>
-<br>
-<div id="txtHint"><b>Visitor List will be shown here.</b></div>
+<button onclick="myFunction()">Print Page</button>
 
+<script>
+    function myFunction() {
+        window.print();
+    }
+</script>
+<br><br>
+<div id="txtHint"><b>Visitor List will be shown here.</b></div>
+<hr>
+<p style="text-align: center; font-family: Helvetica; color: darkblue"><strong>Site created and maintained by Technology Support Group (TSG), KSPG India.</strong></p>
+<p style="text-align: center; font-family: Helvetica; color: darkblue">For more details, visit us at https://kspgindia.com</p>
+<hr>
 </body>
 </html>
