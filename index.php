@@ -159,7 +159,7 @@
                                         </ul>
                                     </div>
                                 </li>
-                                <li><a href="index.php">Join Us</a></li>
+                                
                                 <li><a href="#">Discover</a>
                                     <ul class="dropdown">
                                         <li><a href="#">Envision the Next</a>
