@@ -107,7 +107,7 @@
                 <nav class="classy-navbar justify-content-between" id="viralnewsNav">
 
                     <!-- Logo -->
-                    <a class="nav-brand" href="index.php"><img src="img/core-img/kspg_logo_1.png" alt="Logo"></a>
+                    <a class="nav-brand" href="index.php"><img src="img/core-img/kspg_logo_2.png" alt="Logo"></a>
 
                     <!-- Navbar Toggler -->
                     <div class="classy-navbar-toggler">
