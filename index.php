@@ -107,7 +107,7 @@
                 <nav class="classy-navbar justify-content-between" id="viralnewsNav">
 
                     <!-- Logo -->
-                    <a class="nav-brand" href="index.php"><img src="img/core-img/kspg_india_resized.png" alt="Logo"></a>
+                    <a class="nav-brand" href="index.php"><img src="img/core-img/kspg_India_resized.png" alt="Logo"></a>
 
                     <!-- Navbar Toggler -->
                     <div class="classy-navbar-toggler">
@@ -700,7 +700,7 @@
                     <div class="footer-widget-area">
                         <!-- Footer Logo -->
                         <div class="footer-logo">
-                            <a href="index.php"><img src="img/core-img/kspg_india_resized.png" alt=""></a>
+                            <a href="index.php"><img src="img/core-img/kspg_India_resized.png" alt=""></a>
                         </div>
                         <!-- Footer Nav -->
                         <div class="footer-nav">
