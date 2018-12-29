@@ -700,7 +700,7 @@
                     <div class="footer-widget-area">
                         <!-- Footer Logo -->
                         <div class="footer-logo">
-                            <a href="index.php"><img src="img/core-img/kspg_logo_1.png" alt=""></a>
+                            <a href="index.php"><img src="img/core-img/kspg_logo_2.png" alt=""></a>
                         </div>
                         <!-- Footer Nav -->
                         <div class="footer-nav">
