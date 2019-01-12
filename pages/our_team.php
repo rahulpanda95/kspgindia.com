@@ -74,7 +74,7 @@
                 <h5 align="center" style="color: #3189e1; padding-top: 2%">Mr. Rahul Panda</h5>
                 <p class="title" align="center" style="color: #e1395a"><strong>Co-Founder</strong></p>
                 <p>Data Analyst, Expert in Systems Architecture & Head of Technology Support</p>
-                <p style="color: darkblue"><a href="mailto:rahul@kspgindia.com">rahul@kspgindia.com</a></p>
+                <a href="mailto:rahul@kspgindia.com"><p style="color: darkblue" align="center">rahul@kspgindia.com</p></a>
                 <p><button class="button" href="mailto:rahul@kspgindia.com">Contact</button></p>
             </div>
         </div>
@@ -87,7 +87,7 @@
                 <h5 align="center" style="color: #3189e1; padding-top: 2%">Dr.Debashisha Panda</h5>
                 <p class="title" align="center" style="color: #e1395a"><strong>Co-Founder</strong></p>
                 <p>Health-care Expert, Head of Production, Strategist & Specialist in Pharmacy</p>
-                <p style="color: darkblue"><a href="mailto:drdebashisha@kspgindia.com">drdebashisha@kspgindia.com</a></p>
+                <a href="mailto:drdebashisha@kspgindia.com"><p style="color: darkblue" align="center">drdebashisha@kspgindia.com</p></a>
                 <p><button class="button" href="mailto:rahul@kspgindia.com">Contact</button></p>
             </div>
         </div>
@@ -100,8 +100,8 @@
                 <h5 align="center" style="color: #3189e1; padding-top: 2%">Smt. Sarita Panda</h5>
                 <p class="title" align="center" style="color: #e1395a"><strong>Co-Founder</strong></p>
                 <p>Author, Health-Counselor, Social-Activist & Head of Business Development and Delivery</p>
-                <p style="color: darkblue"><a href="mailto:sarita@kspgindia.com">sarita@kspgindia.com</a></p>
-                <p><button class="button" href="mailto:rahul@kspgindia.com" formtarget="mailto:rahul@kspgindia.com">Contact</button></p>
+                <a href="mailto:sarita@kspgindia.com"><p style="color: darkblue" align="center">sarita@kspgindia.com</p></a>
+                <p><button class="button">Contact</button></p>
             </div>
         </div>
     </div>
