@@ -353,8 +353,8 @@ $conn->close();
                                 <li><a href="#">Health Counselling</a></li>
                                 <li><a href="https://www.facebook.com/kspgindia/" target="_blank">Facebook</a></li>
                                 <li><a href="#">Career</a></li>
-                                <li><a href="#">LinkedIn</a></li>
-                                <li><a href="#">Reach Us</a></li>
+                                <li><a href="https://www.linkedin.com/company/kspgindia" target="_blank">LinkedIn</a></li>
+                                <li><a href="https://www.kspgindia.com/index.php?page=reach_us">Reach Us</a></li>
                                 <li><a href="#">Events</a></li>
                             </ul>
                         </div>

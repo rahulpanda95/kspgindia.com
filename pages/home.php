@@ -367,11 +367,11 @@
                             </div>
                             <!-- Post Data -->
                             <div class="post-data">
-                                <a href="#" class="post-title">
+                                <a href="https://www.linkedin.com/company/kspgindia" target="_blank" class="post-title">
                                     <h6>Connect with us on LinkedIn for Collaborations and Opportunities</h6>
                                 </a>
                                 <div class="post-meta">
-                                    <p class="post-author">KSPG India @ <a href="#">LinkedIn</a></p>
+                                    <p class="post-author">KSPG India @ <a href="https://www.linkedin.com/company/kspgindia" target="_blank">LinkedIn</a></p>
                                 </div>
                             </div>
                         </div>
