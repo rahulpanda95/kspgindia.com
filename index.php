@@ -221,7 +221,7 @@
                         </div>
                         <div class="post-data">
                             <a href="#" class="post-title">
-                                <h6>KSPG India joins the "Pranam Matrubhumi" movement with Samaj, that aims at the development of our motherland.</h6>
+                                <h6>KS Home-made Products Launch Event is scheduled on 20th January, 2019.</h6>
                             </a>
                             <div class="post-meta">
                                 <p class="post-date"><a href="https://www.facebook.com/kspgindia/posts/1757264187733598" target="_blank">See More</a></p>
