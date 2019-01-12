@@ -40,9 +40,7 @@
                                 <p>K.S. Home-made Products is a group of Health-care driven, Natural Medicine Research and Manufacturing Unit, founder under KSPG India.</p>
                                 <p>It will start its operations soon, serving thousands of patients with cheap and healthy natural Medication. Let's work together for a better and disease free India.</p>
                             </div>
-                            <div class="post-thumb">
-                                <img src="img/core-img/kspg_publication_with_border.png" alt="KSPG Publication" align="center">
-                            </div>
+                            
                         </div>
                         <!-- Login with Facebook to post comments -->
                         <div class="login-with-facebook my-5">
@@ -76,7 +74,7 @@
                                 </div>
                             </div>
 
-                            
+
                         </div>
                     </div>
 
