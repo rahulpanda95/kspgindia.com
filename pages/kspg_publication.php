@@ -17,7 +17,7 @@
 
                     <!-- Related Articles Area -->
                     <div class="related-articles-">
-                        <h5 class="mb-70">Publish your Books, Articles, Journals, etc. with Us</h5>
+<!--                        <h5 class="mb-70">Publish your Books, Articles, Journals, etc. with Us</h5>-->
                         <div class="row">
                             <!-- Single Post -->
                             <div class="col-12">
