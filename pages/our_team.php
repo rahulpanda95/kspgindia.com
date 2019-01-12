@@ -101,7 +101,7 @@
                 <p class="title" align="center" style="color: #e1395a"><strong>Co-Founder</strong></p>
                 <p>Author, Health-Counselor, Social-Activist & Head of Business Development and Delivery</p>
                 <p style="color: darkblue"><a href="mailto:sarita@kspgindia.com">sarita@kspgindia.com</a></p>
-                <p><button class="button" href="mailto:rahul@kspgindia.com">Contact</button></p>
+                <p><button class="button" href="mailto:rahul@kspgindia.com" formtarget="mailto:rahul@kspgindia.com">Contact</button></p>
             </div>
         </div>
     </div>
