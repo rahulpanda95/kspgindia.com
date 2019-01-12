@@ -216,7 +216,7 @@
                     <!-- Single Blog Post -->
                     <div class="single-blog-post d-flex align-items-center mb-50">
                         <div class="post-thumb">
-                            <a href="#"><img src="img/core-img/ks_home_made_products with_border.png" alt="" height="72px" width="72px"></a>
+                            <a href="https://kspgindia.com/index.php?page=ks_homemade_products"><img src="img/core-img/ks_home_made_products with_border.png" alt="" height="72px" width="72px"></a>
                         </div>
                         <div class="post-data">
                             <a href="https://kspgindia.com/index.php?page=ks_homemade_products" class="post-title">
@@ -231,7 +231,7 @@
                     <!-- Single Blog Post -->
                     <div class="single-blog-post d-flex align-items-center mb-50">
                         <div class="post-thumb">
-                            <a href="#"><img src="img/core-img/kspg_india_full_logo_transparent_background.png" alt="KSPG India Logo"></a>
+                            <a href="https://kspgindia.com/index.php?page=home"><img src="img/core-img/kspg_india_full_logo_transparent_background.png" alt="KSPG India Logo"></a>
                         </div>
                         <div class="post-data">
                             <a href="https://kspgindia.com/index.php?page=home" class="post-title">
@@ -246,7 +246,7 @@
                     <!-- Single Blog Post -->
                     <div class="single-blog-post d-flex align-items-center mb-50">
                         <div class="post-thumb">
-                            <a href="#"><img src="img/core-img/kspg_publication_with_border.png" alt=""></a>
+                            <a href="https://kspgindia.com/index.php?page=kspg_publication"><img src="img/core-img/kspg_publication_with_border.png" alt=""></a>
                         </div>
                         <div class="post-data">
                             <a href="https://kspgindia.com/index.php?page=kspg_publication" class="post-title">
@@ -261,7 +261,7 @@
                     <!-- Single Blog Post -->
                     <div class="single-blog-post d-flex align-items-center mb-50">
                         <div class="post-thumb">
-                            <a href="#"><img src="img/core-img/ks_media_group_with_border.png" alt=""></a>
+                            <a href="https://kspgindia.com/index.php?page=ks_media_group"><img src="img/core-img/ks_media_group_with_border.png" alt=""></a>
                         </div>
                         <div class="post-data">
                             <a href="https://kspgindia.com/index.php?page=ks_media_group" class="post-title">
