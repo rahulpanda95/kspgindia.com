@@ -236,7 +236,7 @@
                         </div>
                         <div class="post-data">
                             <a href="#" class="post-title">
-                                <h6>Welcome to our Official Website.</h6>
+                                <h6 style="color: #1e7e34;">Welcome to KSPG India Official Website. Click on "see more" to know about our Mission and Vision.</h6>
                             </a>
                             <div class="post-meta">
                                 <p class="post-date"><a href="https://kspgindia.com/index.php?page=home">See More</a></p>
