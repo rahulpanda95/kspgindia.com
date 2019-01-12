@@ -211,7 +211,7 @@ textarea:focus {
   font-size: 24px;
   height: 40px;
   line-height: 38px;
-  left: 60px;
+  right: 60px;
   text-align: center;
   width: 40px;
   -webkit-transition-duration: 500ms;
