@@ -30,7 +30,7 @@
                                     <div class="post-data">
                                         <a href="#" class="post-catagory" style="background-color: #e1395a;">MEDIA GROUP</a>
                                         <a href="#" class="post-title">
-                                            <h6>KSPG India Multimedia Platform.</h6>
+                                            <h6>KSPG India - Multimedia Platform</h6>
                                         </a>
                                         <div class="post-meta">
                                             <p class="post-author">To know more, write us at:<a href="mailto:drdebashisha@kspgindia.com">drdebashisha@kspgindia.com</a></p>
