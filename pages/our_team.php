@@ -71,8 +71,8 @@
         <div class="card">
             <img src="img1.jpg" alt="Jane" style="width:100%">
             <div class="container">
-                <h2 align="center">Jane Doe</h2>
-                <p class="title">CEO &amp; Founder</p>
+                <h2 align="center">Dr.Debashisha Panda</h2>
+                <p class="title" align="center">Co-Founder</p>
                 <p>Some text that describes me lorem ipsum ipsum lorem.</p>
                 <p>example@example.com</p>
                 <p><button class="button">Contact</button></p>
@@ -84,8 +84,8 @@
         <div class="card">
             <img src="img2.jpg" alt="Mike" style="width:100%">
             <div class="container">
-                <h2>Mike Ross</h2>
-                <p class="title">Art Director</p>
+                <h2 align="center">Smt. Sarita Panda</h2>
+                <p class="title" align="center">Co-Founder</p>
                 <p>Some text that describes me lorem ipsum ipsum lorem.</p>
                 <p>example@example.com</p>
                 <p><button class="button">Contact</button></p>
@@ -97,8 +97,8 @@
         <div class="card">
             <img src="img3.jpg" alt="John" style="width:100%">
             <div class="container">
-                <h2>John Doe</h2>
-                <p class="title">Designer</p>
+                <h2 align="center">Mr. Rahul Panda</h2>
+                <p class="title" align="center">Co-Founder</p>
                 <p>Some text that describes me lorem ipsum ipsum lorem.</p>
                 <p>example@example.com</p>
                 <p><button class="button">Contact</button></p>
