@@ -69,7 +69,7 @@
                                             <h6>We welcome talented Authors to publish their piece of art with us.</h6>
                                         </a>
                                         <div class="post-meta">
-                                            <p class="post-author">Represented By <a href="#">Smt.Sarita Panda</a></p>
+                                            <p class="post-author">To know more write us at:<a href="mailto:drdebashisha@kspgindia.com">drdebashisha@kspgindia.com</a></p>
                                             <p class="post-date">Co-Founder, KSPG India</p>
                                         </div>
                                     </div>
