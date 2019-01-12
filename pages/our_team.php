@@ -77,7 +77,7 @@
                 <p class="title" align="center" style="color: #e1395a"><strong>Co-Founder</strong></p>
                 <p>Data Analyst, Expert in Systems Architecture & Head of Technology Support</p>
                 <a href="mailto:rahul@kspgindia.com"><p style="color: darkblue" align="center">rahul@kspgindia.com</p></a>
-                <p><button class="button" href="mailto:rahul@kspgindia.com">Contact</button></p>
+                <p><button class="button" href="mailto:rahul@kspgindia.com">Know More</button></p>
             </div>
         </div>
     </div>
@@ -90,7 +90,7 @@
                 <p class="title" align="center" style="color: #e1395a"><strong>Co-Founder</strong></p>
                 <p>Health-care Expert, Head of Production, Strategist & Specialist in Pharmacy</p>
                 <a href="mailto:drdebashisha@kspgindia.com"><p style="color: darkblue" align="center">drdebashisha@kspgindia.com</p></a>
-                <p><button class="button" href="mailto:rahul@kspgindia.com">Contact</button></p>
+                <p><button class="button" href="mailto:rahul@kspgindia.com">Know More</button></p>
             </div>
         </div>
     </div>
@@ -103,7 +103,7 @@
                 <p class="title" align="center" style="color: #e1395a"><strong>Co-Founder</strong></p>
                 <p>Author, Health-Counselor, Social-Activist & Head of Business Development and Delivery</p>
                 <a href="mailto:sarita@kspgindia.com"><p style="color: darkblue" align="center">sarita@kspgindia.com</p></a>
-                <p><button class="button">Contact</button></p>
+                <p><button class="button">Know More</button></p>
             </div>
         </div>
     </div>
