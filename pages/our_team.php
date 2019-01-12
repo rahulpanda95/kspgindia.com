@@ -7,23 +7,100 @@
  */
 ?>
 <html lang="en">
-<body>
+<style>
+    .column {
+        float: left;
+        width: 33.3%;
+        margin-bottom: 16px;
+        padding: 0 8px;
+    }
 
-<div class="post-thumb">
-    <a href="#" target="_blank"><img src="img/profile/sarita.png" alt="Sarita Panda" height="400" width="400"></a>
-</div>
-<!-- Post Data -->
-<div class="post-data" align="center">
-    <a href="#" class="post-catagory" style="background-color: #e1395a;">KSPG India Headquarters</a>
-    <a href="https://www.google.com/maps/place/Utkal+Ashram+Rd,+Brahmapur,+Odisha+760001/@19.3094461,84.7938961,17z/data=!3m1!4b1!4m5!3m4!1s0x3a3d5074befaf47f:0xf5861c1b6cdfbff4!8m2!3d19.308983!4d84.7955136" target="_blank" class="post-title">
-        <p><strong>13404, 26 Utkal Ashram Road<br>Subarao Square<br>Berhampur, Odisha.<br>PIN: 760001</strong></p>
-    </a>
-    <div class="post-meta">
-        <p class="post-author">Mobile: <a href="mailto:drdebashisha@kspgindia.com">9437617602</a></p>
-        <p class="post-date">Dr.Debashisha Panda, Co-Founder, KSPG India</p>
+    /* Display the columns below each other instead of side by side on small screens */
+    @media screen and (max-width: 650px) {
+        .column {
+            width: 100%;
+            display: block;
+        }
+    }
+
+    /* Add some shadows to create a card effect */
+    .card {
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    }
+
+    /* Some left and right padding inside the container */
+    .container {
+        padding: 0 16px;
+    }
+
+    /* Clear floats */
+    .container::after, .row::after {
+        content: "";
+        clear: both;
+        display: table;
+    }
+
+    .title {
+        color: grey;
+    }
+
+    .button {
+        border: none;
+        outline: 0;
+        display: inline-block;
+        padding: 8px;
+        color: white;
+        background-color: #000;
+        text-align: center;
+        cursor: pointer;
+        width: 100%;
+    }
+
+    .button:hover {
+        background-color: #555;
+    }
+</style>
+<body>
+<div class="row">
+    <div class="column">
+        <div class="card">
+            <img src="img1.jpg" alt="Jane" style="width:100%">
+            <div class="container">
+                <h2>Jane Doe</h2>
+                <p class="title">CEO &amp; Founder</p>
+                <p>Some text that describes me lorem ipsum ipsum lorem.</p>
+                <p>example@example.com</p>
+                <p><button class="button">Contact</button></p>
+            </div>
+        </div>
+    </div>
+
+    <div class="column">
+        <div class="card">
+            <img src="img2.jpg" alt="Mike" style="width:100%">
+            <div class="container">
+                <h2>Mike Ross</h2>
+                <p class="title">Art Director</p>
+                <p>Some text that describes me lorem ipsum ipsum lorem.</p>
+                <p>example@example.com</p>
+                <p><button class="button">Contact</button></p>
+            </div>
+        </div>
+    </div>
+
+    <div class="column">
+        <div class="card">
+            <img src="img3.jpg" alt="John" style="width:100%">
+            <div class="container">
+                <h2>John Doe</h2>
+                <p class="title">Designer</p>
+                <p>Some text that describes me lorem ipsum ipsum lorem.</p>
+                <p>example@example.com</p>
+                <p><button class="button">Contact</button></p>
+            </div>
+        </div>
     </div>
 </div>
-
 </body>
 
 </html>
