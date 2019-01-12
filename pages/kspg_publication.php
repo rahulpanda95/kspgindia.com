@@ -37,10 +37,9 @@
                                     </div>
                                 </div>
 
-                                <p>K.S. Home-made Products is a group of Health-care driven, Natural Medicine Research and Manufacturing Unit, founder under KSPG India.</p>
-                                <p>It will start its operations soon, serving thousands of patients with cheap and healthy natural Medication. Let's work together for a better and disease free India.</p>
-                            </div>
-                            
+                                <p>KSPG Publication was founded in 2018 by our Co-Founder Dr.Debashisha Panda, with the mission to promote talents of writers.</p>
+                                </div>
+
                         </div>
                         <!-- Login with Facebook to post comments -->
                         <div class="login-with-facebook my-5">
