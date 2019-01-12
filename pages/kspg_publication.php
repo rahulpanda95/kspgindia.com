@@ -64,9 +64,9 @@
                                     </div>
                                     <!-- Post Data -->
                                     <div class="post-data">
-                                        <a href="#" class="post-catagory" style="background-color: #6bc045;">HealthCare</a>
+                                        <a href="#" class="post-catagory" style="background-color: #e1395a;">PUBLICATION</a>
                                         <a href="#" class="post-title">
-                                            <h6>Mother-Earth blessed us with bundles of Gift, but did we forget them with passing days?</h6>
+                                            <h6>We welcome talented Authors to publish their piece of art with us.</h6>
                                         </a>
                                         <div class="post-meta">
                                             <p class="post-author">Represented By <a href="#">Smt.Sarita Panda</a></p>

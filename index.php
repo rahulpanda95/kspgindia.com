@@ -140,6 +140,7 @@
                                             <li><a href="https://kspgindia.com/index.php?page=home">Books</a></li>
                                             <li><a href="https://kspgindia.com/index.php?page=home">Author</a></li>
                                             <li><a href="https://kspgindia.com/index.php?page=home">Place Orders</a></li>
+                                            <li><a href="https://kspgindia.com/index.php?page=home">Publish with Us</a></li>
                                             <li><a href="https://kspgindia.com/index.php?page=home">Enroll as Distributor</a></li>
                                         </ul>
                                         <ul class="single-mega cn-col-4">
