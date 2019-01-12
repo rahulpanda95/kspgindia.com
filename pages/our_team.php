@@ -10,9 +10,10 @@
 <style>
     .column {
         float: left;
-        width: 33.3%;
+        width: 10%;
         margin-bottom: 16px;
-        margin-left: 20px;
+        margin-left: 15px;
+        margin-right: 15px;
         padding-left: 10px;
     }
 
