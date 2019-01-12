@@ -143,8 +143,8 @@
                                             <li><a href="https://kspgindia.com/index.php?page=home">Enroll as Distributor</a></li>
                                         </ul>
                                         <ul class="single-mega cn-col-4">
-                                            <li><p>Section to be disclosed soon</p></li>
-                                            <!-- <li><a href="catagory.html">Catagories</a></li>
+                                            <li><a href="https://kspgindia.com/index.php?page=home"><p style="color: #2d5f9a"><strong>KS Media Group</strong></p></a></li>
+                                            <li><a href="https://youtube.com/c/kspgindia" target="_blank">YouTube Channel</a></li>
                                             <li><a href="single-post.html">Single Article</a></li>
                                             <li><a href="quize-article.html">Quize Article</a></li>
                                             <li><a href="contact.html">Contact</a></li> -->
