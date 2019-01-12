@@ -4,24 +4,39 @@
 
 <url>
   <loc>https://kspgindia.com/</loc>
-  <lastmod>2018-12-29T15:34:24+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://kspgindia.com/index.php</loc>
-  <lastmod>2018-12-29T15:34:24+00:00</lastmod>
+  <loc>https://kspgindia.com/index.php?page=home</loc>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://kspgindia.com/index.php?page=ks_homemade_products</loc>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://kspgindia.com/about_us.html</loc>
-  <lastmod>2018-12-23T19:27:52+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>https://kspgindia.com/index.php?page=our_team</loc>
+  <priority>0.90</priority>
 </url>
 <url>
-  <loc>https://kspgindia.com/ks_homemade_products.html</loc>
-  <lastmod>2018-12-23T19:27:52+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>https://kspgindia.com/index.php?page=reach_us</loc>
+  <priority>0.90</priority>
 </url>
-
+<url>
+  <loc>https://kspgindia.com/index.php?page=ks_publication_books</loc>
+  <priority>0.70</priority>
+</url>
+<url>
+  <loc>https://kspgindia.com/index.php?page=ks_media_group</loc>
+  <priority>0.70</priority>
+</url>
+<url>
+  <loc>https://kspgindia.com/index.php?page=ks_hmp_products</lpoc>
+  <priority>0.70</priority>
+</url>
+<url>
+  <loc>https://kspgindia.com/index.php?page=ks_hmp_health_tips</loc>
+  <priority>0.70</priority>
+</url>
 
 </urlset>
