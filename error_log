@@ -54,3 +54,230 @@
 [24-Dec-2018 00:48:45 Asia/Kolkata] PHP Stack trace:
 [24-Dec-2018 00:48:45 Asia/Kolkata] PHP   1. {main}() /home/rahulpan/public_html/kspgindia.com/index.php:0
 [24-Dec-2018 00:48:45 Asia/Kolkata] PHP   2. mysqli->__construct() /home/rahulpan/public_html/kspgindia.com/index.php:837
+[25-Dec-2018 12:20:25 Asia/Kolkata] PHP Warning:  file_get_contents(https://json.geoiplookup.io/13.57.233.99): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/rahulpan/public_html/kspgindia.com/index.php on line 817
+[25-Dec-2018 12:20:25 Asia/Kolkata] PHP Stack trace:
+[25-Dec-2018 12:20:25 Asia/Kolkata] PHP   1. {main}() /home/rahulpan/public_html/kspgindia.com/index.php:0
+[25-Dec-2018 12:20:25 Asia/Kolkata] PHP   2. file_get_contents() /home/rahulpan/public_html/kspgindia.com/index.php:817
+[26-Dec-2018 08:36:44 Asia/Kolkata] PHP Warning:  file_get_contents(https://json.geoiplookup.io/60.191.38.77): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/rahulpan/public_html/kspgindia.com/index.php on line 817
+[26-Dec-2018 08:36:44 Asia/Kolkata] PHP Stack trace:
+[26-Dec-2018 08:36:44 Asia/Kolkata] PHP   1. {main}() /home/rahulpan/public_html/kspgindia.com/index.php:0
+[26-Dec-2018 08:36:44 Asia/Kolkata] PHP   2. file_get_contents() /home/rahulpan/public_html/kspgindia.com/index.php:817
+[28-Dec-2018 05:09:38 Asia/Kolkata] PHP Warning:  file_get_contents(https://json.geoiplookup.io/138.246.253.5): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/rahulpan/public_html/kspgindia.com/index.php on line 817
+[28-Dec-2018 05:09:38 Asia/Kolkata] PHP Stack trace:
+[28-Dec-2018 05:09:38 Asia/Kolkata] PHP   1. {main}() /home/rahulpan/public_html/kspgindia.com/index.php:0
+[28-Dec-2018 05:09:38 Asia/Kolkata] PHP   2. file_get_contents() /home/rahulpan/public_html/kspgindia.com/index.php:817
+[28-Dec-2018 05:10:38 Asia/Kolkata] PHP Warning:  file_get_contents(https://json.geoiplookup.io/138.246.253.5): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/rahulpan/public_html/kspgindia.com/index.php on line 817
+[28-Dec-2018 05:10:38 Asia/Kolkata] PHP Stack trace:
+[28-Dec-2018 05:10:38 Asia/Kolkata] PHP   1. {main}() /home/rahulpan/public_html/kspgindia.com/index.php:0
+[28-Dec-2018 05:10:38 Asia/Kolkata] PHP   2. file_get_contents() /home/rahulpan/public_html/kspgindia.com/index.php:817
+[28-Dec-2018 08:28:30 Asia/Kolkata] PHP Warning:  file_get_contents(https://json.geoiplookup.io/52.53.201.78): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/rahulpan/public_html/kspgindia.com/index.php on line 817
+[28-Dec-2018 08:28:30 Asia/Kolkata] PHP Stack trace:
+[28-Dec-2018 08:28:30 Asia/Kolkata] PHP   1. {main}() /home/rahulpan/public_html/kspgindia.com/index.php:0
+[28-Dec-2018 08:28:30 Asia/Kolkata] PHP   2. file_get_contents() /home/rahulpan/public_html/kspgindia.com/index.php:817
+[28-Dec-2018 18:13:27 Asia/Kolkata] PHP Warning:  file_get_contents(https://json.geoiplookup.io/13.57.233.99): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/rahulpan/public_html/kspgindia.com/index.php on line 817
+[28-Dec-2018 18:13:27 Asia/Kolkata] PHP Stack trace:
+[28-Dec-2018 18:13:27 Asia/Kolkata] PHP   1. {main}() /home/rahulpan/public_html/kspgindia.com/index.php:0
+[28-Dec-2018 18:13:27 Asia/Kolkata] PHP   2. file_get_contents() /home/rahulpan/public_html/kspgindia.com/index.php:817
+[29-Dec-2018 10:37:05 Asia/Kolkata] PHP Warning:  file_get_contents(https://json.geoiplookup.io/60.191.38.77): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/rahulpan/public_html/kspgindia.com/index.php on line 817
+[29-Dec-2018 10:37:05 Asia/Kolkata] PHP Stack trace:
+[29-Dec-2018 10:37:05 Asia/Kolkata] PHP   1. {main}() /home/rahulpan/public_html/kspgindia.com/index.php:0
+[29-Dec-2018 10:37:05 Asia/Kolkata] PHP   2. file_get_contents() /home/rahulpan/public_html/kspgindia.com/index.php:817
+[29-Dec-2018 14:38:02 Asia/Kolkata] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/rahulpan/public_html/kspgindia.com/index.php on line 817
+[29-Dec-2018 14:38:02 Asia/Kolkata] PHP Stack trace:
+[29-Dec-2018 14:38:02 Asia/Kolkata] PHP   1. {main}() /home/rahulpan/public_html/kspgindia.com/index.php:0
+[29-Dec-2018 14:38:02 Asia/Kolkata] PHP   2. file_get_contents() /home/rahulpan/public_html/kspgindia.com/index.php:817
+[29-Dec-2018 14:38:02 Asia/Kolkata] PHP Warning:  file_get_contents(https://json.geoiplookup.io/115.98.49.38): failed to open stream: operation failed in /home/rahulpan/public_html/kspgindia.com/index.php on line 817
+[29-Dec-2018 14:38:02 Asia/Kolkata] PHP Stack trace:
+[29-Dec-2018 14:38:02 Asia/Kolkata] PHP   1. {main}() /home/rahulpan/public_html/kspgindia.com/index.php:0
+[29-Dec-2018 14:38:02 Asia/Kolkata] PHP   2. file_get_contents() /home/rahulpan/public_html/kspgindia.com/index.php:817
+[29-Dec-2018 14:38:02 Asia/Kolkata] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/rahulpan/public_html/kspgindia.com/index.php on line 817
+[29-Dec-2018 14:38:02 Asia/Kolkata] PHP Stack trace:
+[29-Dec-2018 14:38:02 Asia/Kolkata] PHP   1. {main}() /home/rahulpan/public_html/kspgindia.com/index.php:0
+[29-Dec-2018 14:38:02 Asia/Kolkata] PHP   2. file_get_contents() /home/rahulpan/public_html/kspgindia.com/index.php:817
+[29-Dec-2018 14:38:02 Asia/Kolkata] PHP Warning:  file_get_contents(https://json.geoiplookup.io/203.134.216.120): failed to open stream: operation failed in /home/rahulpan/public_html/kspgindia.com/index.php on line 817
+[29-Dec-2018 14:38:02 Asia/Kolkata] PHP Stack trace:
+[29-Dec-2018 14:38:02 Asia/Kolkata] PHP   1. {main}() /home/rahulpan/public_html/kspgindia.com/index.php:0
+[29-Dec-2018 14:38:02 Asia/Kolkata] PHP   2. file_get_contents() /home/rahulpan/public_html/kspgindia.com/index.php:817
+[29-Dec-2018 14:38:02 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/rahulpan/public_html/kspgindia.com/index.php on line 837
+[29-Dec-2018 14:38:02 Asia/Kolkata] PHP Stack trace:
+[29-Dec-2018 14:38:02 Asia/Kolkata] PHP   1. {main}() /home/rahulpan/public_html/kspgindia.com/index.php:0
+[29-Dec-2018 14:38:02 Asia/Kolkata] PHP   2. mysqli->__construct() /home/rahulpan/public_html/kspgindia.com/index.php:837
+[29-Dec-2018 14:38:02 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/rahulpan/public_html/kspgindia.com/index.php on line 837
+[29-Dec-2018 14:38:02 Asia/Kolkata] PHP Stack trace:
+[29-Dec-2018 14:38:02 Asia/Kolkata] PHP   1. {main}() /home/rahulpan/public_html/kspgindia.com/index.php:0
+[29-Dec-2018 14:38:02 Asia/Kolkata] PHP   2. mysqli->__construct() /home/rahulpan/public_html/kspgindia.com/index.php:837
+[30-Dec-2018 16:42:11 Asia/Kolkata] PHP Warning:  file_get_contents(https://json.geoiplookup.io/52.53.201.78): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/rahulpan/public_html/kspgindia.com/index.php on line 817
+[30-Dec-2018 16:42:11 Asia/Kolkata] PHP Stack trace:
+[30-Dec-2018 16:42:11 Asia/Kolkata] PHP   1. {main}() /home/rahulpan/public_html/kspgindia.com/index.php:0
+[30-Dec-2018 16:42:11 Asia/Kolkata] PHP   2. file_get_contents() /home/rahulpan/public_html/kspgindia.com/index.php:817
+[01-Jan-2019 00:27:15 Asia/Kolkata] PHP Warning:  file_get_contents(https://json.geoiplookup.io/13.57.233.99): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/rahulpan/public_html/kspgindia.com/index.php on line 817
+[01-Jan-2019 00:27:15 Asia/Kolkata] PHP Stack trace:
+[01-Jan-2019 00:27:15 Asia/Kolkata] PHP   1. {main}() /home/rahulpan/public_html/kspgindia.com/index.php:0
+[01-Jan-2019 00:27:15 Asia/Kolkata] PHP   2. file_get_contents() /home/rahulpan/public_html/kspgindia.com/index.php:817
+[02-Jan-2019 07:55:35 Asia/Kolkata] PHP Warning:  file_get_contents(https://json.geoiplookup.io/208.100.26.248): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/rahulpan/public_html/kspgindia.com/index.php on line 817
+[02-Jan-2019 07:55:35 Asia/Kolkata] PHP Stack trace:
+[02-Jan-2019 07:55:35 Asia/Kolkata] PHP   1. {main}() /home/rahulpan/public_html/kspgindia.com/index.php:0
+[02-Jan-2019 07:55:35 Asia/Kolkata] PHP   2. file_get_contents() /home/rahulpan/public_html/kspgindia.com/index.php:817
+[04-Jan-2019 06:32:42 Asia/Kolkata] PHP Warning:  file_get_contents(https://json.geoiplookup.io/13.57.233.99): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/rahulpan/public_html/kspgindia.com/index.php on line 817
+[04-Jan-2019 06:32:42 Asia/Kolkata] PHP Stack trace:
+[04-Jan-2019 06:32:42 Asia/Kolkata] PHP   1. {main}() /home/rahulpan/public_html/kspgindia.com/index.php:0
+[04-Jan-2019 06:32:42 Asia/Kolkata] PHP   2. file_get_contents() /home/rahulpan/public_html/kspgindia.com/index.php:817
+[06-Jan-2019 00:44:35 Asia/Kolkata] PHP Warning:  file_get_contents(https://json.geoiplookup.io/52.165.148.51): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/rahulpan/public_html/kspgindia.com/index.php on line 817
+[06-Jan-2019 00:44:35 Asia/Kolkata] PHP Stack trace:
+[06-Jan-2019 00:44:35 Asia/Kolkata] PHP   1. {main}() /home/rahulpan/public_html/kspgindia.com/index.php:0
+[06-Jan-2019 00:44:35 Asia/Kolkata] PHP   2. file_get_contents() /home/rahulpan/public_html/kspgindia.com/index.php:817
+[10-Jan-2019 15:12:14 Asia/Kolkata] PHP Warning:  file_get_contents(https://json.geoiplookup.io/13.57.233.99): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/rahulpan/public_html/kspgindia.com/index.php on line 817
+[10-Jan-2019 15:12:14 Asia/Kolkata] PHP Stack trace:
+[10-Jan-2019 15:12:14 Asia/Kolkata] PHP   1. {main}() /home/rahulpan/public_html/kspgindia.com/index.php:0
+[10-Jan-2019 15:12:14 Asia/Kolkata] PHP   2. file_get_contents() /home/rahulpan/public_html/kspgindia.com/index.php:817
+[10-Jan-2019 19:11:51 Asia/Kolkata] PHP Warning:  file_get_contents(https://json.geoiplookup.io/157.55.39.141): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/rahulpan/public_html/kspgindia.com/index.php on line 817
+[10-Jan-2019 19:11:51 Asia/Kolkata] PHP Stack trace:
+[10-Jan-2019 19:11:51 Asia/Kolkata] PHP   1. {main}() /home/rahulpan/public_html/kspgindia.com/index.php:0
+[10-Jan-2019 19:11:51 Asia/Kolkata] PHP   2. file_get_contents() /home/rahulpan/public_html/kspgindia.com/index.php:817
+[10-Jan-2019 21:32:59 Asia/Kolkata] PHP Warning:  file_get_contents(https://json.geoiplookup.io/52.53.201.78): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/rahulpan/public_html/kspgindia.com/index.php on line 817
+[10-Jan-2019 21:32:59 Asia/Kolkata] PHP Stack trace:
+[10-Jan-2019 21:32:59 Asia/Kolkata] PHP   1. {main}() /home/rahulpan/public_html/kspgindia.com/index.php:0
+[10-Jan-2019 21:32:59 Asia/Kolkata] PHP   2. file_get_contents() /home/rahulpan/public_html/kspgindia.com/index.php:817
+[11-Jan-2019 02:34:51 Asia/Kolkata] PHP Warning:  file_get_contents(https://json.geoiplookup.io/5.45.207.82): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/rahulpan/public_html/kspgindia.com/index.php on line 817
+[11-Jan-2019 02:34:51 Asia/Kolkata] PHP Stack trace:
+[11-Jan-2019 02:34:51 Asia/Kolkata] PHP   1. {main}() /home/rahulpan/public_html/kspgindia.com/index.php:0
+[11-Jan-2019 02:34:51 Asia/Kolkata] PHP   2. file_get_contents() /home/rahulpan/public_html/kspgindia.com/index.php:817
+[12-Jan-2019 12:19:50 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'rahulpanda.in:3306' (0) in /home/rahulpan/public_html/kspgindia.com/index.php on line 421
+[12-Jan-2019 12:19:50 Asia/Kolkata] PHP Stack trace:
+[12-Jan-2019 12:19:50 Asia/Kolkata] PHP   1. {main}() /home/rahulpan/public_html/kspgindia.com/index.php:0
+[12-Jan-2019 12:19:50 Asia/Kolkata] PHP   2. mysqli->__construct() /home/rahulpan/public_html/kspgindia.com/index.php:421
+[12-Jan-2019 12:19:55 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'rahulpanda.in:3306' (0) in /home/rahulpan/public_html/kspgindia.com/index.php on line 421
+[12-Jan-2019 12:19:55 Asia/Kolkata] PHP Stack trace:
+[12-Jan-2019 12:19:55 Asia/Kolkata] PHP   1. {main}() /home/rahulpan/public_html/kspgindia.com/index.php:0
+[12-Jan-2019 12:19:55 Asia/Kolkata] PHP   2. mysqli->__construct() /home/rahulpan/public_html/kspgindia.com/index.php:421
+[12-Jan-2019 12:20:02 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'rahulpanda.in:3306' (0) in /home/rahulpan/public_html/kspgindia.com/index.php on line 421
+[12-Jan-2019 12:20:02 Asia/Kolkata] PHP Stack trace:
+[12-Jan-2019 12:20:02 Asia/Kolkata] PHP   1. {main}() /home/rahulpan/public_html/kspgindia.com/index.php:0
+[12-Jan-2019 12:20:02 Asia/Kolkata] PHP   2. mysqli->__construct() /home/rahulpan/public_html/kspgindia.com/index.php:421
+[12-Jan-2019 12:20:05 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'rahulpanda.in:3306' (0) in /home/rahulpan/public_html/kspgindia.com/index.php on line 421
+[12-Jan-2019 12:20:05 Asia/Kolkata] PHP Stack trace:
+[12-Jan-2019 12:20:05 Asia/Kolkata] PHP   1. {main}() /home/rahulpan/public_html/kspgindia.com/index.php:0
+[12-Jan-2019 12:20:05 Asia/Kolkata] PHP   2. mysqli->__construct() /home/rahulpan/public_html/kspgindia.com/index.php:421
+[12-Jan-2019 06:50:06 Etc/GMT] PHP Warning:  include(new.php): failed to open stream: No such file or directory in /home/rahulpan/public_html/kspgindia.com/index.php on line 272
+[12-Jan-2019 06:50:06 Etc/GMT] PHP Stack trace:
+[12-Jan-2019 06:50:06 Etc/GMT] PHP   1. {main}() /home/rahulpan/public_html/kspgindia.com/index.php:0
+[12-Jan-2019 06:50:06 Etc/GMT] PHP Warning:  include(new.php): failed to open stream: No such file or directory in /home/rahulpan/public_html/kspgindia.com/index.php on line 272
+[12-Jan-2019 06:50:06 Etc/GMT] PHP Stack trace:
+[12-Jan-2019 06:50:06 Etc/GMT] PHP   1. {main}() /home/rahulpan/public_html/kspgindia.com/index.php:0
+[12-Jan-2019 06:50:06 Etc/GMT] PHP Warning:  include(): Failed opening 'new.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/rahulpan/public_html/kspgindia.com/index.php on line 272
+[12-Jan-2019 06:50:06 Etc/GMT] PHP Stack trace:
+[12-Jan-2019 06:50:06 Etc/GMT] PHP   1. {main}() /home/rahulpan/public_html/kspgindia.com/index.php:0
+[12-Jan-2019 12:20:07 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'rahulpanda.in:3306' (0) in /home/rahulpan/public_html/kspgindia.com/index.php on line 421
+[12-Jan-2019 12:20:07 Asia/Kolkata] PHP Stack trace:
+[12-Jan-2019 12:20:07 Asia/Kolkata] PHP   1. {main}() /home/rahulpan/public_html/kspgindia.com/index.php:0
+[12-Jan-2019 12:20:07 Asia/Kolkata] PHP   2. mysqli->__construct() /home/rahulpan/public_html/kspgindia.com/index.php:421
+[12-Jan-2019 06:50:25 Etc/GMT] PHP Warning:  include(new.php): failed to open stream: No such file or directory in /home/rahulpan/public_html/kspgindia.com/index.php on line 272
+[12-Jan-2019 06:50:25 Etc/GMT] PHP Stack trace:
+[12-Jan-2019 06:50:25 Etc/GMT] PHP   1. {main}() /home/rahulpan/public_html/kspgindia.com/index.php:0
+[12-Jan-2019 06:50:25 Etc/GMT] PHP Warning:  include(new.php): failed to open stream: No such file or directory in /home/rahulpan/public_html/kspgindia.com/index.php on line 272
+[12-Jan-2019 06:50:25 Etc/GMT] PHP Stack trace:
+[12-Jan-2019 06:50:25 Etc/GMT] PHP   1. {main}() /home/rahulpan/public_html/kspgindia.com/index.php:0
+[12-Jan-2019 06:50:25 Etc/GMT] PHP Warning:  include(): Failed opening 'new.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/rahulpan/public_html/kspgindia.com/index.php on line 272
+[12-Jan-2019 06:50:25 Etc/GMT] PHP Stack trace:
+[12-Jan-2019 06:50:25 Etc/GMT] PHP   1. {main}() /home/rahulpan/public_html/kspgindia.com/index.php:0
+[12-Jan-2019 12:20:25 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'rahulpanda.in:3306' (0) in /home/rahulpan/public_html/kspgindia.com/index.php on line 421
+[12-Jan-2019 12:20:25 Asia/Kolkata] PHP Stack trace:
+[12-Jan-2019 12:20:25 Asia/Kolkata] PHP   1. {main}() /home/rahulpan/public_html/kspgindia.com/index.php:0
+[12-Jan-2019 12:20:25 Asia/Kolkata] PHP   2. mysqli->__construct() /home/rahulpan/public_html/kspgindia.com/index.php:421
+[12-Jan-2019 12:20:26 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'rahulpanda.in:3306' (0) in /home/rahulpan/public_html/kspgindia.com/index.php on line 421
+[12-Jan-2019 12:20:26 Asia/Kolkata] PHP Stack trace:
+[12-Jan-2019 12:20:26 Asia/Kolkata] PHP   1. {main}() /home/rahulpan/public_html/kspgindia.com/index.php:0
+[12-Jan-2019 12:20:26 Asia/Kolkata] PHP   2. mysqli->__construct() /home/rahulpan/public_html/kspgindia.com/index.php:421
+[12-Jan-2019 12:20:29 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'rahulpanda.in:3306' (0) in /home/rahulpan/public_html/kspgindia.com/index.php on line 421
+[12-Jan-2019 12:20:29 Asia/Kolkata] PHP Stack trace:
+[12-Jan-2019 12:20:29 Asia/Kolkata] PHP   1. {main}() /home/rahulpan/public_html/kspgindia.com/index.php:0
+[12-Jan-2019 12:20:29 Asia/Kolkata] PHP   2. mysqli->__construct() /home/rahulpan/public_html/kspgindia.com/index.php:421
+[12-Jan-2019 12:21:04 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'rahulpanda.in:3306' (0) in /home/rahulpan/public_html/kspgindia.com/index.php on line 421
+[12-Jan-2019 12:21:04 Asia/Kolkata] PHP Stack trace:
+[12-Jan-2019 12:21:04 Asia/Kolkata] PHP   1. {main}() /home/rahulpan/public_html/kspgindia.com/index.php:0
+[12-Jan-2019 12:21:04 Asia/Kolkata] PHP   2. mysqli->__construct() /home/rahulpan/public_html/kspgindia.com/index.php:421
+[12-Jan-2019 12:21:04 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'rahulpanda.in:3306' (0) in /home/rahulpan/public_html/kspgindia.com/index.php on line 421
+[12-Jan-2019 12:21:04 Asia/Kolkata] PHP Stack trace:
+[12-Jan-2019 12:21:04 Asia/Kolkata] PHP   1. {main}() /home/rahulpan/public_html/kspgindia.com/index.php:0
+[12-Jan-2019 12:21:04 Asia/Kolkata] PHP   2. mysqli->__construct() /home/rahulpan/public_html/kspgindia.com/index.php:421
+[12-Jan-2019 12:21:15 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'rahulpanda.in:3306' (0) in /home/rahulpan/public_html/kspgindia.com/index.php on line 421
+[12-Jan-2019 12:21:15 Asia/Kolkata] PHP Stack trace:
+[12-Jan-2019 12:21:15 Asia/Kolkata] PHP   1. {main}() /home/rahulpan/public_html/kspgindia.com/index.php:0
+[12-Jan-2019 12:21:15 Asia/Kolkata] PHP   2. mysqli->__construct() /home/rahulpan/public_html/kspgindia.com/index.php:421
+[12-Jan-2019 06:51:16 Etc/GMT] PHP Warning:  include(/home/rahulpan/public_html/kspgindia.com/new.php): failed to open stream: No such file or directory in /home/rahulpan/public_html/kspgindia.com/index.php on line 272
+[12-Jan-2019 06:51:16 Etc/GMT] PHP Stack trace:
+[12-Jan-2019 06:51:16 Etc/GMT] PHP   1. {main}() /home/rahulpan/public_html/kspgindia.com/index.php:0
+[12-Jan-2019 06:51:16 Etc/GMT] PHP Warning:  include(/home/rahulpan/public_html/kspgindia.com/new.php): failed to open stream: No such file or directory in /home/rahulpan/public_html/kspgindia.com/index.php on line 272
+[12-Jan-2019 06:51:16 Etc/GMT] PHP Stack trace:
+[12-Jan-2019 06:51:16 Etc/GMT] PHP   1. {main}() /home/rahulpan/public_html/kspgindia.com/index.php:0
+[12-Jan-2019 06:51:16 Etc/GMT] PHP Warning:  include(): Failed opening '/home/rahulpan/public_html/kspgindia.com/new.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/rahulpan/public_html/kspgindia.com/index.php on line 272
+[12-Jan-2019 06:51:16 Etc/GMT] PHP Stack trace:
+[12-Jan-2019 06:51:16 Etc/GMT] PHP   1. {main}() /home/rahulpan/public_html/kspgindia.com/index.php:0
+[12-Jan-2019 12:21:16 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'rahulpanda.in:3306' (0) in /home/rahulpan/public_html/kspgindia.com/index.php on line 421
+[12-Jan-2019 12:21:16 Asia/Kolkata] PHP Stack trace:
+[12-Jan-2019 12:21:16 Asia/Kolkata] PHP   1. {main}() /home/rahulpan/public_html/kspgindia.com/index.php:0
+[12-Jan-2019 12:21:16 Asia/Kolkata] PHP   2. mysqli->__construct() /home/rahulpan/public_html/kspgindia.com/index.php:421
+[12-Jan-2019 06:51:16 Etc/GMT] PHP Warning:  include(/home/rahulpan/public_html/kspgindia.com/new.php): failed to open stream: No such file or directory in /home/rahulpan/public_html/kspgindia.com/index.php on line 272
+[12-Jan-2019 06:51:16 Etc/GMT] PHP Stack trace:
+[12-Jan-2019 06:51:16 Etc/GMT] PHP   1. {main}() /home/rahulpan/public_html/kspgindia.com/index.php:0
+[12-Jan-2019 06:51:17 Etc/GMT] PHP Warning:  include(/home/rahulpan/public_html/kspgindia.com/new.php): failed to open stream: No such file or directory in /home/rahulpan/public_html/kspgindia.com/index.php on line 272
+[12-Jan-2019 06:51:17 Etc/GMT] PHP Stack trace:
+[12-Jan-2019 06:51:17 Etc/GMT] PHP   1. {main}() /home/rahulpan/public_html/kspgindia.com/index.php:0
+[12-Jan-2019 06:51:17 Etc/GMT] PHP Warning:  include(): Failed opening '/home/rahulpan/public_html/kspgindia.com/new.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/rahulpan/public_html/kspgindia.com/index.php on line 272
+[12-Jan-2019 06:51:17 Etc/GMT] PHP Stack trace:
+[12-Jan-2019 06:51:17 Etc/GMT] PHP   1. {main}() /home/rahulpan/public_html/kspgindia.com/index.php:0
+[12-Jan-2019 12:21:17 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'rahulpanda.in:3306' (0) in /home/rahulpan/public_html/kspgindia.com/index.php on line 421
+[12-Jan-2019 12:21:17 Asia/Kolkata] PHP Stack trace:
+[12-Jan-2019 12:21:17 Asia/Kolkata] PHP   1. {main}() /home/rahulpan/public_html/kspgindia.com/index.php:0
+[12-Jan-2019 12:21:17 Asia/Kolkata] PHP   2. mysqli->__construct() /home/rahulpan/public_html/kspgindia.com/index.php:421
+[12-Jan-2019 06:52:02 Etc/GMT] PHP Warning:  include(/home/rahulpan/public_html/kspgindia.com/new.php): failed to open stream: No such file or directory in /home/rahulpan/public_html/kspgindia.com/index.php on line 272
+[12-Jan-2019 06:52:02 Etc/GMT] PHP Stack trace:
+[12-Jan-2019 06:52:02 Etc/GMT] PHP   1. {main}() /home/rahulpan/public_html/kspgindia.com/index.php:0
+[12-Jan-2019 06:52:02 Etc/GMT] PHP Warning:  include(/home/rahulpan/public_html/kspgindia.com/new.php): failed to open stream: No such file or directory in /home/rahulpan/public_html/kspgindia.com/index.php on line 272
+[12-Jan-2019 06:52:02 Etc/GMT] PHP Stack trace:
+[12-Jan-2019 06:52:02 Etc/GMT] PHP   1. {main}() /home/rahulpan/public_html/kspgindia.com/index.php:0
+[12-Jan-2019 06:52:02 Etc/GMT] PHP Warning:  include(): Failed opening '/home/rahulpan/public_html/kspgindia.com/new.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/rahulpan/public_html/kspgindia.com/index.php on line 272
+[12-Jan-2019 06:52:02 Etc/GMT] PHP Stack trace:
+[12-Jan-2019 06:52:02 Etc/GMT] PHP   1. {main}() /home/rahulpan/public_html/kspgindia.com/index.php:0
+[12-Jan-2019 12:22:03 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/rahulpan/public_html/kspgindia.com/index.php on line 421
+[12-Jan-2019 12:22:03 Asia/Kolkata] PHP Stack trace:
+[12-Jan-2019 12:22:03 Asia/Kolkata] PHP   1. {main}() /home/rahulpan/public_html/kspgindia.com/index.php:0
+[12-Jan-2019 12:22:03 Asia/Kolkata] PHP   2. mysqli->__construct() /home/rahulpan/public_html/kspgindia.com/index.php:421
+[12-Jan-2019 12:22:12 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/rahulpan/public_html/kspgindia.com/index.php on line 421
+[12-Jan-2019 12:22:12 Asia/Kolkata] PHP Stack trace:
+[12-Jan-2019 12:22:12 Asia/Kolkata] PHP   1. {main}() /home/rahulpan/public_html/kspgindia.com/index.php:0
+[12-Jan-2019 12:22:12 Asia/Kolkata] PHP   2. mysqli->__construct() /home/rahulpan/public_html/kspgindia.com/index.php:421
+[12-Jan-2019 06:52:16 Etc/GMT] PHP Warning:  include(/home/rahulpan/public_html/kspgindia.com/new.php): failed to open stream: No such file or directory in /home/rahulpan/public_html/kspgindia.com/index.php on line 272
+[12-Jan-2019 06:52:16 Etc/GMT] PHP Stack trace:
+[12-Jan-2019 06:52:16 Etc/GMT] PHP   1. {main}() /home/rahulpan/public_html/kspgindia.com/index.php:0
+[12-Jan-2019 06:52:16 Etc/GMT] PHP Warning:  include(/home/rahulpan/public_html/kspgindia.com/new.php): failed to open stream: No such file or directory in /home/rahulpan/public_html/kspgindia.com/index.php on line 272
+[12-Jan-2019 06:52:16 Etc/GMT] PHP Stack trace:
+[12-Jan-2019 06:52:16 Etc/GMT] PHP   1. {main}() /home/rahulpan/public_html/kspgindia.com/index.php:0
+[12-Jan-2019 06:52:16 Etc/GMT] PHP Warning:  include(): Failed opening '/home/rahulpan/public_html/kspgindia.com/new.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/rahulpan/public_html/kspgindia.com/index.php on line 272
+[12-Jan-2019 06:52:16 Etc/GMT] PHP Stack trace:
+[12-Jan-2019 06:52:16 Etc/GMT] PHP   1. {main}() /home/rahulpan/public_html/kspgindia.com/index.php:0
+[12-Jan-2019 06:52:25 Etc/GMT] PHP Warning:  include(/home/rahulpan/public_html/kspgindia.com/new.php): failed to open stream: No such file or directory in /home/rahulpan/public_html/kspgindia.com/index.php on line 272
+[12-Jan-2019 06:52:25 Etc/GMT] PHP Stack trace:
+[12-Jan-2019 06:52:25 Etc/GMT] PHP   1. {main}() /home/rahulpan/public_html/kspgindia.com/index.php:0
+[12-Jan-2019 06:52:25 Etc/GMT] PHP Warning:  include(/home/rahulpan/public_html/kspgindia.com/new.php): failed to open stream: No such file or directory in /home/rahulpan/public_html/kspgindia.com/index.php on line 272
+[12-Jan-2019 06:52:25 Etc/GMT] PHP Stack trace:
+[12-Jan-2019 06:52:25 Etc/GMT] PHP   1. {main}() /home/rahulpan/public_html/kspgindia.com/index.php:0
+[12-Jan-2019 06:52:25 Etc/GMT] PHP Warning:  include(): Failed opening '/home/rahulpan/public_html/kspgindia.com/new.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/rahulpan/public_html/kspgindia.com/index.php on line 272
+[12-Jan-2019 06:52:25 Etc/GMT] PHP Stack trace:
+[12-Jan-2019 06:52:25 Etc/GMT] PHP   1. {main}() /home/rahulpan/public_html/kspgindia.com/index.php:0
