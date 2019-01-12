@@ -16,7 +16,7 @@
                 <div class="blog-posts-area">
 
                     <!-- Single Featured Post -->
-                    <div class="single-blog-post-details">
+<!--                    <div class="single-blog-post-details">-->
 
                         <div class="post-data">
                             <a href="#" class="post-catagory cat-2" style="background-color: #e1395a">Publication</a>
@@ -108,8 +108,8 @@
                 </div>
             </div>
 
-            
-        </div>
+
+<!--        </div>-->
     </div>
 </div>
 <!-- ##### Blog Area End ##### -->
