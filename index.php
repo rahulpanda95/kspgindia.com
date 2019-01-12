@@ -300,7 +300,7 @@ if ($conn->connect_error) {
     die("Connection failed: " . $conn->connect_error);
 }
 
-$sql = "INSERT INTO rahulpan_kspg.visitors (visit_date, visit_time, ip, isp, org, longitude, latitude, country_code, country_name, continent_code, currency_code, currency_name)
+$sql = "INSERT INTO rahulpan_kspg.visitors (visit_date, visit_time, page, ip, isp, org, longitude, latitude, country_code, country_name, continent_code, currency_code, currency_name)
     VALUES ('$pdate','$ptime','$page','$ip','$isp','$org','$longitude','$latitude','$country_code','$country_name','$continent_code','$currency_code','$currency_name')";
 
 if ($conn->query($sql) === TRUE) {
