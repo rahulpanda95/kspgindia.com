@@ -175,7 +175,7 @@
                                         <li><a href="contact.html">Contact</a></li> -->
                                     </ul>
                                 </li>
-                                <li><a href="https://kspgindia.com/index.php?page=home">Reach Us</a></li>
+                                <li><a href="https://www.kspgindia.com/index.php?page=reach_us">Reach Us</a></li>
 
                             </ul>
 
