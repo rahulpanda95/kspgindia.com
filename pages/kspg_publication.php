@@ -130,7 +130,7 @@
                                     <h6>Saunderya Samahar</h6>
                                 </a>
                                 <div class="post-meta">
-                                    <p class="post-author">KSPG India @ <a href="https://www.youtube.com/channel/UCKRVduaQsWlVUsha6lxhnDw" target="_blank">YouTube</a></p>
+                                    <p class="post-author">Top Seller @ <a href="https://www.youtube.com/channel/UCKRVduaQsWlVUsha6lxhnDw" target="_blank">KSPG Publication</a></p>
                                 </div>
                             </div>
                         </div>
