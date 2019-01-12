@@ -15,34 +15,7 @@
             <div class="col-12 col-lg-8">
                 <div class="blog-posts-area">
 
-                    <!-- Single Featured Post -->
-                    <div class="single-blog-post-details">
 
-                        <div class="post-data">
-                            <a href="#" class="post-catagory cat-2" style="background-color: #e1395a">Publication</a>
-                            <h2 class="post-title">Welcome to KSPG Publication</h2>
-                            <div class="post-meta">
-
-                                <!-- Post Details Meta Data -->
-                                <div class="post-details-meta-data mb-50 d-flex align-items-center justify-content-between">
-                                    <!-- Post Author & Date -->
-                                    <div class="post-authors-date">
-                                        <p class="post-author">A Part of <a href="#">KSPG India</a></p>
-                                        <p class="post-date">Since 2018</p>
-                                    </div>
-                                    <!-- View Comments -->
-                                    <div class="view-comments">
-                                        <p class="views">For more info, write us at;</p>
-                                        <a href="mailto:sarita@kspgindia.com" class="comments">drdebashisha@kspgindia.com</a>
-                                    </div>
-                                </div>
-
-                                <p>KSPG Publication was founded in 2018 by our Co-Founder Dr.Debashisha Panda, with the mission to promote talents of writers.</p>
-                            </div>
-
-                        </div>
-
-                    </div>
 
                     <!-- Related Articles Area -->
                     <div class="related-articles-">
@@ -69,9 +42,7 @@
 
                                 </div>
                             </div>
-                            <div class="login-with-facebook my-5">
-                                <a href="https://www.google.com/maps/place/Utkal+Ashram+Rd,+Brahmapur,+Odisha+760001/@19.3094461,84.7938961,17z/data=!3m1!4b1!4m5!3m4!1s0x3a3d5074befaf47f:0xf5861c1b6cdfbff4!8m2!3d19.308983!4d84.7955136" target="_blank">Find us on Map</a>
-                            </div>
+
 
                         </div>
                     </div>
