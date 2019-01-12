@@ -84,7 +84,7 @@
         <div class="card">
             <img src="img/profile/debashisha.png" alt="Jane" style="width:100%">
             <div class="container">
-                <h5 align="center" style="color: #3189e1; padding-top: "2px"">Dr.Debashisha Panda</h5>
+                <h5 align="center" style="color: #3189e1; padding-top: 2%">Dr.Debashisha Panda</h5>
                 <p class="title" align="center" style="color: #e1395a"><strong>Co-Founder</strong></p>
                 <p>Some text that describes me lorem ipsum ipsum lorem.</p>
                 <p>example@example.com</p>
