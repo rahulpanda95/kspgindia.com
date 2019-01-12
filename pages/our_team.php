@@ -66,7 +66,7 @@
     }
 </style>
 <body>
-<div class="row" style="margin-left: 15%; margin-right: 15%">
+<div class="row" style="margin-left: 15%; margin-right: 10%">
     <div class="column">
         <div class="card">
             <img src="img/profile/rahul.png" alt="John" style="width:100%">
