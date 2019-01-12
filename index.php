@@ -136,7 +136,7 @@
                                             <li><a href="https://kspgindia.com/index.php?page=ks_homemade_products">Enroll as Distributor</a></li>
                                         </ul>
                                         <ul class="single-mega cn-col-4">
-                                            <li><a href="https://kspgindia.com/index.php?page=home"><p style="color: #2d5f9a"><strong>KSPG Publication</strong></p></a></li>
+                                            <li><a href="https://www.kspgindia.com/index.php?page=kspg_publication"><p style="color: #2d5f9a"><strong>KSPG Publication</strong></p></a></li>
                                             <li><a href="https://kspgindia.com/index.php?page=home">Books</a></li>
                                             <li><a href="https://kspgindia.com/index.php?page=home">Author</a></li>
                                             <li><a href="https://kspgindia.com/index.php?page=home">Place Orders</a></li>
