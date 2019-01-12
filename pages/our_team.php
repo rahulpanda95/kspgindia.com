@@ -71,8 +71,8 @@
         <div class="card">
             <img src="img/profile/rahul.png" alt="John" style="width:100%">
             <div class="container">
-                <h5 align="center" style="color: #e1395a">Mr. Rahul Panda</h5>
-                <p class="title" align="center">Co-Founder</p>
+                <h5 align="center" style="color: #3189e1">Mr. Rahul Panda</h5>
+                <p class="title" align="center" style="color: #e1395a"><strong>Co-Founder</strong></p>
                 <p>Some text that describes me lorem ipsum ipsum lorem.</p>
                 <p>example@example.com</p>
                 <p><button class="button">Contact</button></p>
@@ -84,8 +84,8 @@
         <div class="card">
             <img src="img/profile/debashisha.png" alt="Jane" style="width:100%">
             <div class="container">
-                <h5 align="center" style="color: #e1395a">Dr.Debashisha Panda</h5>
-                <p class="title" align="center">Co-Founder</p>
+                <h5 align="center" style="color: #3189e1">Dr.Debashisha Panda</h5>
+                <p class="title" align="center" style="color: #e1395a"><strong>Co-Founder</strong></p>
                 <p>Some text that describes me lorem ipsum ipsum lorem.</p>
                 <p>example@example.com</p>
                 <p><button class="button">Contact</button></p>
@@ -97,8 +97,8 @@
         <div class="card">
             <img src="img/profile/sarita.png" alt="Mike" style="width:100%">
             <div class="container">
-                <h5 align="center" style="color: #e1395a">Smt. Sarita Panda</h5>
-                <p class="title" align="center">Co-Founder</p>
+                <h5 align="center" style="color: #3189e1">Smt. Sarita Panda</h5>
+                <p class="title" align="center" style="color: #e1395a"><strong>Co-Founder</strong></p>
                 <p>Some text that describes me lorem ipsum ipsum lorem.</p>
                 <p>example@example.com</p>
                 <p><button class="button">Contact</button></p>
