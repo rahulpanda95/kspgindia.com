@@ -79,10 +79,10 @@
             </div>
         </div>
     </div>
-    
+
     <div class="column">
         <div class="card">
-            <img src="img/profile/sarita.png" alt="Jane" style="width:100%">
+            <img src="img/profile/debashisha.png" alt="Jane" style="width:100%">
             <div class="container">
                 <h2 align="center">Dr.Debashisha Panda</h2>
                 <p class="title" align="center">Co-Founder</p>
