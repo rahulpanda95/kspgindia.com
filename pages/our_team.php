@@ -71,7 +71,7 @@
         <div class="card">
             <img src="img/profile/rahul.png" alt="John" style="width:100%">
             <div class="container">
-                <h2 align="center">Mr. Rahul Panda</h2>
+                <h4 align="center">Mr. Rahul Panda</h4>
                 <p class="title" align="center">Co-Founder</p>
                 <p>Some text that describes me lorem ipsum ipsum lorem.</p>
                 <p>example@example.com</p>
@@ -84,7 +84,7 @@
         <div class="card">
             <img src="img/profile/debashisha.png" alt="Jane" style="width:100%">
             <div class="container">
-                <h2 align="center">Dr.Debashisha Panda</h2>
+                <h4 align="center">Dr.Debashisha Panda</h4>
                 <p class="title" align="center">Co-Founder</p>
                 <p>Some text that describes me lorem ipsum ipsum lorem.</p>
                 <p>example@example.com</p>
@@ -97,7 +97,7 @@
         <div class="card">
             <img src="img/profile/sarita.png" alt="Mike" style="width:100%">
             <div class="container">
-                <h2 align="center">Smt. Sarita Panda</h2>
+                <h4 align="center">Smt. Sarita Panda</h4>
                 <p class="title" align="center">Co-Founder</p>
                 <p>Some text that describes me lorem ipsum ipsum lorem.</p>
                 <p>example@example.com</p>
