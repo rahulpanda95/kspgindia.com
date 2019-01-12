@@ -232,7 +232,7 @@
                     <!-- Single Blog Post -->
                     <div class="single-blog-post d-flex align-items-center mb-50">
                         <div class="post-thumb">
-                            <a href="#"><img src="img/core-img/kspg_india_full_logo_transparent_background.png" alt=""></a>
+                            <a href="#"><img src="img/core-img/kspg_india_full_logo_transparent_background.png" alt="KSPG India Logo"></a>
                         </div>
                         <div class="post-data">
                             <a href="#" class="post-title">
