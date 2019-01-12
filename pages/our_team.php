@@ -69,7 +69,7 @@
 <div class="row" style="margin-left: 2%; margin-right: 2%">
     <div class="column">
         <div class="card">
-            <img src="img1.jpg" alt="Jane" style="width:100%">
+            <img src="img/profile/sarita.png" alt="Jane" style="width:100%">
             <div class="container">
                 <h2 align="center">Dr.Debashisha Panda</h2>
                 <p class="title" align="center">Co-Founder</p>
@@ -82,7 +82,7 @@
 
     <div class="column">
         <div class="card">
-            <img src="img2.jpg" alt="Mike" style="width:100%">
+            <img src="img/profile/sarita.png" alt="Mike" style="width:100%">
             <div class="container">
                 <h2 align="center">Smt. Sarita Panda</h2>
                 <p class="title" align="center">Co-Founder</p>
@@ -95,7 +95,7 @@
 
     <div class="column">
         <div class="card">
-            <img src="img3.jpg" alt="John" style="width:100%">
+            <img src="img/profile/sarita.png" alt="John" style="width:100%">
             <div class="container">
                 <h2 align="center">Mr. Rahul Panda</h2>
                 <p class="title" align="center">Co-Founder</p>
