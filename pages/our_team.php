@@ -69,12 +69,12 @@
 <div class="row" style="margin-left: 10%; margin-right: 10%">
     <div class="column">
         <div class="card">
-            <img src="img/profile/rahul.png" alt="John" style="width:100%">
+            <img src="img/profile/rahul.png" alt="Rahul Panda" style="width:100%">
             <div class="container">
-                <h5 align="center" style="color: #3189e1">Mr. Rahul Panda</h5>
+                <h5 align="center" style="color: #3189e1; padding-top: 2%">Mr. Rahul Panda</h5>
                 <p class="title" align="center" style="color: #e1395a"><strong>Co-Founder</strong></p>
-                <p>Some text that describes me lorem ipsum ipsum lorem.</p>
-                <p>example@example.com</p>
+                <p>Data Analyst, Expert in Systems Architecture & Head of Technology Support</p>
+                <p style="color: darkblue"><a href="mailto:rahul@kspgindia.com"></a>rahul@kspgindia.com</p>
                 <p><button class="button">Contact</button></p>
             </div>
         </div>
@@ -82,12 +82,12 @@
 
     <div class="column">
         <div class="card">
-            <img src="img/profile/debashisha.png" alt="Jane" style="width:100%">
+            <img src="img/profile/debashisha.png" alt="Debashisha Panda" style="width:100%">
             <div class="container">
                 <h5 align="center" style="color: #3189e1; padding-top: 2%">Dr.Debashisha Panda</h5>
                 <p class="title" align="center" style="color: #e1395a"><strong>Co-Founder</strong></p>
-                <p>Some text that describes me lorem ipsum ipsum lorem.</p>
-                <p>example@example.com</p>
+                <p>Health-care Expert, Head of Production, Strategist & Specialist in Pharmacy</p>
+                <p style="color: darkblue"><a href="mailto:drdebashisha@kspgindia.com"></a>drdebashisha@kspgindia.com</p>
                 <p><button class="button">Contact</button></p>
             </div>
         </div>
@@ -95,12 +95,12 @@
 
     <div class="column">
         <div class="card">
-            <img src="img/profile/sarita.png" alt="Mike" style="width:100%">
+            <img src="img/profile/sarita.png" alt="Sarita Panda" style="width:100%">
             <div class="container">
-                <h5 align="center" style="color: #3189e1">Smt. Sarita Panda</h5>
+                <h5 align="center" style="color: #3189e1; padding-top: 2%">Smt. Sarita Panda</h5>
                 <p class="title" align="center" style="color: #e1395a"><strong>Co-Founder</strong></p>
-                <p>Some text that describes me lorem ipsum ipsum lorem.</p>
-                <p>example@example.com</p>
+                <p>Author, Health-Counselor, Social-Activist & Head of Business Development and Delivery</p>
+                <p style="color: darkblue"><a href="mailto:sarita@kspgindia.com"></a>sarita@kspgindia.com</p>
                 <p><button class="button">Contact</button></p>
             </div>
         </div>
