@@ -23,6 +23,7 @@ else {
     <th>Visitor No</th>
     <th>Date</th>
     <th>Time</th>
+    <th>Page Visited</th>
     <th>IP</th>
     <th>ISP</th>
     <th>Organisation</th>
@@ -40,6 +41,7 @@ else {
             echo "<td>" . $row['visitor_no'] . "</td>";
             echo "<td>" . $row['visit_date'] . "</td>";
             echo "<td>" . $row['visit_time'] . "</td>";
+            echo "<td>" . $row['page'] . "</td>";
             echo "<td>" . $row['ip'] . "</td>";
             echo "<td>" . $row['isp'] . "</td>";
             echo "<td>" . $row['org'] . "</td>";
