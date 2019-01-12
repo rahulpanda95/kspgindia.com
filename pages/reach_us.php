@@ -41,10 +41,7 @@
                             </div>
 
                         </div>
-                        <!-- Login with Facebook to post comments -->
-                        <div class="login-with-facebook my-5">
-                            <a href="https://www.facebook.com/kspgindia/" target="_blank">Follow us on Facebook to know more</a>
-                        </div>
+
                     </div>
 
                     <!-- Related Articles Area -->
@@ -68,6 +65,10 @@
                                             <p class="post-author">Mobile: <a href="mailto:drdebashisha@kspgindia.com">9437617602</a></p>
                                             <p class="post-date">Dr.Debashisha Panda, Co-Founder, KSPG India</p>
                                         </div>
+                                    </div>
+
+                                    <div class="login-with-facebook my-5">
+                                        <a href="https://www.google.com/maps/place/Utkal+Ashram+Rd,+Brahmapur,+Odisha+760001/@19.3094461,84.7938961,17z/data=!3m1!4b1!4m5!3m4!1s0x3a3d5074befaf47f:0xf5861c1b6cdfbff4!8m2!3d19.308983!4d84.7955136" target="_blank">Find us on Map</a>
                                     </div>
                                 </div>
                             </div>
