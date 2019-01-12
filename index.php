@@ -217,7 +217,7 @@
                     <!-- Single Blog Post -->
                     <div class="single-blog-post d-flex align-items-center mb-50">
                         <div class="post-thumb">
-                            <a href="#"><img src="img/bg-img/2.jpg" alt=""></a>
+                            <a href="#"><img src="img/bg-img/kspg_india_full_logo_transparent_background" alt="" height="72px" width="72px"></a>
                         </div>
                         <div class="post-data">
                             <a href="#" class="post-title">
