@@ -129,14 +129,14 @@
                                 <li><a href="#">Industries</a>
                                     <div class="megamenu">
                                         <ul class="single-mega cn-col-4">
-                                            <li><a href="https://kspgindia.com/index.php?page=ks_homemade_products"><p style="color: #2d5f9a">KS Home-made Products</p></a></li>
+                                            <li><a href="https://kspgindia.com/index.php?page=ks_homemade_products"><p style="color: #2d5f9a"><strong>KS Home-made Products</strong></p></a></li>
                                             <li><a href="https://kspgindia.com/index.php?page=ks_homemade_products">Products</a></li>
                                             <li><a href="https://kspgindia.com/index.php?page=ks_homemade_products">Health Tips</a></li>
                                             <li><a href="https://kspgindia.com/index.php?page=ks_homemade_products">Place Orders</a></li>
                                             <li><a href="https://kspgindia.com/index.php?page=ks_homemade_products">Enroll as Distributor</a></li>
                                         </ul>
                                         <ul class="single-mega cn-col-4">
-                                            <li><a href="https://kspgindia.com/index.php?page=home"><p style="color: #2d5f9a">KSPG Publication</p></a></li>
+                                            <li><a href="https://kspgindia.com/index.php?page=home"><p style="color: #2d5f9a"><strong>KSPG Publication</strong></p></a></li>
                                             <li><a href="https://kspgindia.com/index.php?page=home">Books</a></li>
                                             <li><a href="https://kspgindia.com/index.php?page=home">Author</a></li>
                                             <li><a href="https://kspgindia.com/index.php?page=home">Place Orders</a></li>
