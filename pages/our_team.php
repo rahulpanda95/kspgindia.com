@@ -65,7 +65,7 @@
     }
 </style>
 <body>
-<div class="row" style="width:800px; margin:0 auto;">
+<div class="row" style="margin:0 auto;">
     <div class="column">
         <div class="card">
             <img src="img1.jpg" alt="Jane" style="width:100%">
