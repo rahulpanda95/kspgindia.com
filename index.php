@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" xmlns="http://www.w3.org/1999/html">
 
 <head>
     <meta charset="UTF-8">
@@ -11,25 +11,40 @@
     <script type="text/javascript" src="http://code.jquery.com/jquery-1.8.2.js"></script>
     <!-- Title -->
     <title>KSPG India - Kushal Swadesh Pratistha Group</title>
-    <script type="text/javascript" language="javascript">
+    <script type="application/javascript"
+            $(function() {
 
-        var divCount=2;
-        var arrDiv=new Array();
-        message[0] = "::Welcome to KSPG India::";
-        message[1] = "KSPG India - Kushal Swadesh Pratistha Group";
+            var origTitle, animatedTitle, timer;
 
-        if (window.addEventListener)
-        {
-            window.addEventListener("load", Display, false)
-        }
-        else if (window.attachEvent)
-        {
-            window.attachEvent("onload", Display)
-        }
-        else if (document.getElementById)
-        {
-            window.onload=Display
-        }
+            function animateTitle(newTitle) {
+            var currentState = false;
+            origTitle = document.title;
+            animatedTitle = "Hey There! " + origTitle;
+            timer = setInterval(startAnimation, 2000);
+
+            function startAnimation() {
+
+            document.title = currentState ? origTitle : animatedTitle;
+            currentState = !currentState;
+            }
+            }
+
+            function restoreTitle() {
+            clearInterval(timer);
+            document.title = origTitle;
+            }
+
+
+            $(window).blur(function() {
+            animateTitle();
+            });
+
+
+            $(window).focus(function() {
+            restoreTitle();
+            });
+
+            });
     </script>
 
     <!-- Favicon -->
