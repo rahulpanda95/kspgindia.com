@@ -107,7 +107,7 @@
                 <nav class="classy-navbar justify-content-between" id="viralnewsNav">
 
                     <!-- Logo -->
-                    <a class="nav-brand" href="https://kspgindia.com/index.php?page=home"><img src="img/core-img/kspg_logo_1.png" alt="Logo"></a>
+                    <a class="nav-brand" href="https://kspgindia.com/index.php?page=home"><img src="img/core-img/kspg_india_logo_resiged.png" alt="Logo"></a>
 
                     <!-- Navbar Toggler -->
                     <div class="classy-navbar-toggler">
@@ -284,7 +284,7 @@ include ($_SERVER['DOCUMENT_ROOT']."/".$page.".php");?>
                     <div class="footer-widget-area">
                         <!-- Footer Logo -->
                         <div class="footer-logo">
-                            <a href="index.html"><img src="img/core-img/kspg_logo_1.png" alt=""></a>
+                            <a href="index.html"><img src="img/core-img/kspg_india_logo_resiged.png" alt=""></a>
                         </div>
                         <!-- Footer Nav -->
                         <div class="footer-nav">
