@@ -20,6 +20,7 @@
         .column {
             width: 100%;
             display: block;
+            padding-left: 10%;
         }
     }
 
