@@ -224,7 +224,7 @@
                                 <h6>KS Home-made Products Launch Event is scheduled on 20th January, 2019.</h6>
                             </a>
                             <div class="post-meta">
-                                <p class="post-date"><a href="https://www.facebook.com/kspgindia/posts/1757264187733598" target="_blank">See More</a></p>
+                                <p class="post-date"><a href="https://kspgindia.com/index.php?page=home">See More</a></p>
                             </div>
                         </div>
                     </div>
@@ -232,14 +232,14 @@
                     <!-- Single Blog Post -->
                     <div class="single-blog-post d-flex align-items-center mb-50">
                         <div class="post-thumb">
-                            <a href="#"><img src="img/bg-img/1.jpg" alt=""></a>
+                            <a href="#"><img src="img/core-img/kspg_india_full_logo_transparent_background.png" alt=""></a>
                         </div>
                         <div class="post-data">
                             <a href="#" class="post-title">
-                                <h6>Our Co-Founder, Smt. Sarita Panda, being awarded by the Government of Odisha for her contribution towards the development of the Society and upliftment of women in the eastern lands of our country.</h6>
+                                <h6>Welcome to our Official Website.</h6>
                             </a>
                             <div class="post-meta">
-                                <p class="post-date"><a href="https://www.facebook.com/kspgindia/posts/1757279781065372" target="_blank">See More</a></p>
+                                <p class="post-date"><a href="https://kspgindia.com/index.php?page=home">See More</a></p>
                             </div>
                         </div>
                     </div>
@@ -247,14 +247,14 @@
                     <!-- Single Blog Post -->
                     <div class="single-blog-post d-flex align-items-center mb-50">
                         <div class="post-thumb">
-                            <a href="#"><img src="img/bg-img/3.jpg" alt=""></a>
+                            <a href="#"><img src="img/core-img/kspg_india_full_logo_transparent_background.png" alt=""></a>
                         </div>
                         <div class="post-data">
                             <a href="#" class="post-title">
-                                <h6>KSPG India participates in the development of "Ganjam District Biju Pattnaik Senior Citizens Forum".</h6>
+                                <h6>Introducing KSPG Publications, a new line of affordable books on Healthcare, Fictional Stories, etc.</h6>
                             </a>
                             <div class="post-meta">
-                                <p class="post-date"><a href="https://www.facebook.com/kspgindia/posts/1757247864401897" target="_blank">See More</a></p>
+                                <p class="post-date"><a href="https://kspgindia.com/index.php?page=home">See More</a></p>
                             </div>
                         </div>
                     </div>
