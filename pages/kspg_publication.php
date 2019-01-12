@@ -162,11 +162,11 @@
                             </div>
                             <!-- Post Data -->
                             <div class="post-data">
-                                <a href="#" class="post-title">
-                                    <h6>Connect with us on LinkedIn for Collaborations and Opportunities</h6>
+                                <a href="https://www.kspgindia.com/index.php?page=kspg_publication" class="post-title">
+                                    <h6>Development of Children</h6>
                                 </a>
                                 <div class="post-meta">
-                                    <p class="post-author">KSPG India @ <a href="#">LinkedIn</a></p>
+                                    <p class="post-author">Top Seller @ <a href="https://www.kspgindia.com/index.php?page=kspg_publication">KSPG Publication</a></p>
                                 </div>
                             </div>
                         </div>
