@@ -121,7 +121,7 @@
                         <div class="single-blog-post style-4">
                             <!-- Post Thumb -->
                             <div class="post-thumb">
-                                <a href="#"><img src="img/bg-img/15.jpg" alt=""></a>
+                                <a href="#"><img src="img/bg-img/saunderya samaroha.png" alt="" width="200px" height="200px"></a>
                                 <span class="serial-number">01.</span>
                             </div>
                             <!-- Post Data -->
