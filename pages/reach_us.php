@@ -61,9 +61,9 @@
                                     </div>
                                     <!-- Post Data -->
                                     <div class="post-data">
-                                        <a href="#" class="post-catagory" style="background-color: #e1395a;">PUBLICATION</a>
+                                        <a href="#" class="post-catagory" style="background-color: #e1395a;">KSPG India Headquarters</a>
                                         <a href="#" class="post-title">
-                                            <h6>We welcome talented Authors to publish their piece of art with us.</h6>
+                                            <p>We welcome talented Authors to publish their piece of art with us.</p>
                                         </a>
                                         <div class="post-meta">
                                             <p class="post-author">To know more, write us at:<a href="mailto:drdebashisha@kspgindia.com">drdebashisha@kspgindia.com</a></p>
