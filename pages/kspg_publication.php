@@ -76,26 +76,7 @@
                                 </div>
                             </div>
 
-                            <!-- Single Post -->
-                            <div class="col-12">
-                                <div class="single-blog-post style-3 style-5 d-flex align-items-center mb-50">
-                                    <!-- Post Thumb -->
-                                    <div class="post-thumb">
-                                        <a href="#"><img src="img/bg-img/19.jpg" alt=""></a>
-                                    </div>
-                                    <!-- Post Data -->
-                                    <div class="post-data">
-                                        <a href="#" class="post-catagory" style="background-color: #6bc045;">HealthCare</a>
-                                        <a href="#" class="post-title">
-                                            <h6>Our presence is not felt with where we live, but is felt with what we Do.<br>Have we forget our duties towards the Society?</h6>
-                                        </a>
-                                        <div class="post-meta">
-                                            <p class="post-author">Represented By <a href="#">Dr.Debashisha Panda and Smt.Sarita Panda</a></p>
-                                            <p class="post-date">Co-Founders, KSPG India</p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
+                            
                         </div>
                     </div>
 
