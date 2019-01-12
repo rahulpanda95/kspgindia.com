@@ -55,7 +55,7 @@
         display: inline-block;
         padding: 8px;
         color: white;
-        background-color: #e1395a;
+        background-color: #3189e1;
         text-align: center;
         cursor: pointer;
         width: 100%;
