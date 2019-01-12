@@ -69,6 +69,18 @@
 <div class="row" style="margin-left: 2%; margin-right: 2%">
     <div class="column">
         <div class="card">
+            <img src="img/profile/rahul.png" alt="John" style="width:100%">
+            <div class="container">
+                <h2 align="center">Mr. Rahul Panda</h2>
+                <p class="title" align="center">Co-Founder</p>
+                <p>Some text that describes me lorem ipsum ipsum lorem.</p>
+                <p>example@example.com</p>
+                <p><button class="button">Contact</button></p>
+            </div>
+        </div>
+        
+    <div class="column">
+        <div class="card">
             <img src="img/profile/sarita.png" alt="Jane" style="width:100%">
             <div class="container">
                 <h2 align="center">Dr.Debashisha Panda</h2>
@@ -93,17 +105,7 @@
         </div>
     </div>
 
-    <div class="column">
-        <div class="card">
-            <img src="img/profile/rahul.png" alt="John" style="width:100%">
-            <div class="container">
-                <h2 align="center">Mr. Rahul Panda</h2>
-                <p class="title" align="center">Co-Founder</p>
-                <p>Some text that describes me lorem ipsum ipsum lorem.</p>
-                <p>example@example.com</p>
-                <p><button class="button">Contact</button></p>
-            </div>
-        </div>
+
     </div>
 </div>
 </body>
