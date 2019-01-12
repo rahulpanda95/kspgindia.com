@@ -144,7 +144,7 @@
                                             <li><a href="https://kspgindia.com/index.php?page=home">Enroll as Distributor</a></li>
                                         </ul>
                                         <ul class="single-mega cn-col-4">
-                                            <li><a href="https://kspgindia.com/index.php?page=home"><p style="color: #2d5f9a"><strong>KS Media Group</strong></p></a></li>
+                                            <li><a href="https://kspgindia.com/index.php?page=ks_media_group"><p style="color: #2d5f9a"><strong>KS Media Group</strong></p></a></li>
                                             <li><a href="https://youtube.com/c/kspgindia" target="_blank">YouTube Channel</a></li>
                                             <li><a href="https://www.youtube.com/watch?v=hqLSOHj6rRU&list=PLVc6F6db-kZBkGkj6ImYmdqD_6kshZHu5" target="_blank">Sarita Videos</a></li>
                                         </ul>
