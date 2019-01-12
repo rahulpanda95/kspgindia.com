@@ -49,7 +49,6 @@
 
                     <!-- Related Articles Area -->
                     <div class="related-articles-">
-                        <h4 class="mb-70">Publish your Books, Articles, Journals, etc. with Us</h4>
 
                         <div class="row">
                             <!-- Single Post -->
@@ -66,7 +65,7 @@
                                             <p><strong>13404, 26 Utkal Ashram Road<br>Subarao Square<br>Berhampur, Odisha.<br>PIN: 760001</strong></p>
                                         </a>
                                         <div class="post-meta">
-                                            <p class="post-author">Mobile:<a href="mailto:drdebashisha@kspgindia.com">9437617602</a></p>
+                                            <p class="post-author">Mobile: <a href="mailto:drdebashisha@kspgindia.com">9437617602</a></p>
                                             <p class="post-date">Dr.Debashisha Panda, Co-Founder, KSPG India</p>
                                         </div>
                                     </div>
