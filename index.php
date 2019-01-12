@@ -257,6 +257,21 @@
                             </div>
                         </div>
                     </div>
+
+                    <!-- Single Blog Post -->
+                    <div class="single-blog-post d-flex align-items-center mb-50">
+                        <div class="post-thumb">
+                            <a href="#"><img src="img/core-img/ks_media_group_with_border.png" alt=""></a>
+                        </div>
+                        <div class="post-data">
+                            <a href="https://kspgindia.com/index.php?page=ks_media_group" class="post-title">
+                                <h6 style="color: #e1395a">KS Media Group, our multimedia platform to motivate hidden talents in Artists.</h6>
+                            </a>
+                            <div class="post-meta">
+                                <p class="post-date"><a href="https://kspgindia.com/index.php?page=ks_media_group">See More</a></p>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
 
