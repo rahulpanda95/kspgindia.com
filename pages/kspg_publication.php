@@ -197,18 +197,7 @@
 
                     <!-- Latest Comments -->
                     <div class="latest-comments-widget">
-                        <h4>Our Leaders</h4>
-
-                        <!-- Single Comment Widget -->
-                        <div class="single-comments d-flex">
-                            <div class="comments-thumbnail">
-                                <img src="img/bg-img/t3.jpg" alt="">
-                            </div>
-                            <div class="comments-text">
-                                <a href="#"><span>Dr.Debashisha Panda</span> <br>Health-care Expert, Head of Production, Strategist & Specialist in Pharmacy</a>
-                                <p>Co-Founder, KSPG India</p>
-                            </div>
-                        </div>
+                        <h4>Authors</h4>
 
                         <!-- Single Comment Widget -->
                         <div class="single-comments d-flex">
@@ -221,16 +210,6 @@
                             </div>
                         </div>
 
-                        <!-- Single Comment Widget -->
-                        <div class="single-comments d-flex">
-                            <div class="comments-thumbnail">
-                                <img src="img/bg-img/t1.jpg" alt="">
-                            </div>
-                            <div class="comments-text">
-                                <a href="#"><span>Rahul Panda</span><br>Data Analyst, Expert in Systems Architecture & Head of Technology Support</a>
-                                <p>Co-Founder, KSPG India</p>
-                            </div>
-                        </div>
                     </div>
                 </div>
             </div>
