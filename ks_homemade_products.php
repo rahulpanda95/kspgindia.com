@@ -259,11 +259,6 @@
 
                         </div>
 
-<!--                        <!-- Add Widget -->-->
-<!--                        <div class="add-widget mb-70">-->
-<!--                            <a href="#"><img src="img/bg-img/add_1.jpg" alt=""></a>-->
-<!--                        </div>-->
-
                         <!-- Latest Comments -->
                         <div class="latest-comments-widget">
                             <h4>Our Leaders</h4>
