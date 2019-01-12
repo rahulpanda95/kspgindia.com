@@ -157,7 +157,7 @@
                         <div class="single-blog-post style-4">
                             <!-- Post Thumb -->
                             <div class="post-thumb">
-                                <a href="#"><img src="img/bg-img/Development of Children.jpg" alt="" height="200px" width="200px"></a>
+                                <a href="#"><img src="img/bg-img/Development of Children.png" alt="" height="200px" width="200px"></a>
                                 <span class="serial-number">03.</span>
                             </div>
                             <!-- Post Data -->
