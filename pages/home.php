@@ -380,7 +380,7 @@
 
                     <!-- Add Widget -->
                     <div class="add-widget mb-70">
-                        <a href="#"><img src="img/bg-img/add_1.jpg" alt=""></a>
+                        <a href="#"><img src="img/core-img/kspg_india_full_logo_transparent_background.png" alt=""></a>
                     </div>
 
                     <!-- Latest Comments -->
