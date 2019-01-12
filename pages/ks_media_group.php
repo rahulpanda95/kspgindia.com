@@ -24,13 +24,13 @@
                                 <div class="single-blog-post style-3 style-5 d-flex align-items-center mb-50">
                                     <!-- Post Thumb -->
                                     <div class="post-thumb">
-                                        <a href="#"><img src="img/core-img/kspg_media_group_with_border.png" alt="KSPG Publication"></a>
+                                        <a href="#"><img src="img/core-img/ks_media_group_with_border.png" alt="KSPG Publication"></a>
                                     </div>
                                     <!-- Post Data -->
                                     <div class="post-data">
-                                        <a href="#" class="post-catagory" style="background-color: #e1395a;">PUBLICATION</a>
+                                        <a href="#" class="post-catagory" style="background-color: #e1395a;">MEDIA GROUP</a>
                                         <a href="#" class="post-title">
-                                            <h6>We welcome talented Authors to publish their piece of art with us.</h6>
+                                            <h6>KSPG India Multimedia Platform.</h6>
                                         </a>
                                         <div class="post-meta">
                                             <p class="post-author">To know more, write us at:<a href="mailto:drdebashisha@kspgindia.com">drdebashisha@kspgindia.com</a></p>
