@@ -7,9 +7,30 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <!-- The above 4 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-
+    <!-- Java Script Library -->
+    <script type="text/javascript" src="http://code.jquery.com/jquery-1.8.2.js"></script>
     <!-- Title -->
     <title>KSPG India - Kushal Swadesh Pratistha Group</title>
+    <script type="text/javascript" language="javascript">
+
+        var divCount=2;
+        var arrDiv=new Array();
+        message[0] = "::Welcome to KSPG India::";
+        message[1] = "KSPG India - Kushal Swadesh Pratistha Group";
+
+        if (window.addEventListener)
+        {
+            window.addEventListener("load", Display, false)
+        }
+        else if (window.attachEvent)
+        {
+            window.attachEvent("onload", Display)
+        }
+        else if (document.getElementById)
+        {
+            window.onload=Display
+        }
+    </script>
 
     <!-- Favicon -->
     <link rel="icon" href="img/core-img/favicon.ico">
@@ -18,7 +39,6 @@
     <link rel="stylesheet" href="style.css">
 
     <!-- Blocking Mouse Right Click -->
-    <script type="text/javascript" src="http://code.jquery.com/jquery-1.8.2.js"></script>
     <script type="text/javascript">
         $(function()
         {
