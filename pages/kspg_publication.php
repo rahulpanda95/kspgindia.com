@@ -126,8 +126,8 @@
                             </div>
                             <!-- Post Data -->
                             <div class="post-data">
-                                <a href="https://www.youtube.com/channel/UCKRVduaQsWlVUsha6lxhnDw" target="_blank" class="post-title">
-                                    <h6>View, Like, Share and Subscribe to Informative Content by KSPG India on YouTube</h6>
+                                <a href="https://www.kspgindia.com/index.php?page=kspg_publication" target="_blank" class="post-title">
+                                    <h6>Saunderya Samahar</h6>
                                 </a>
                                 <div class="post-meta">
                                     <p class="post-author">KSPG India @ <a href="https://www.youtube.com/channel/UCKRVduaQsWlVUsha6lxhnDw" target="_blank">YouTube</a></p>
