@@ -15,6 +15,7 @@
         margin-left: 15px;
         margin-right: 15px;
         padding-left: 10px;
+        margin-top: 20px;
     }
 
     /* Display the columns below each other instead of side by side on small screens */
@@ -65,7 +66,7 @@
     }
 </style>
 <body>
-<div class="row" style="margin:0 auto;">
+<div class="row">
     <div class="column">
         <div class="card">
             <img src="img1.jpg" alt="Jane" style="width:100%">
