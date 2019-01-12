@@ -10,7 +10,7 @@
 <style>
     .column {
         float: left;
-        width: 30%;
+        width: 25%;
         margin-bottom: 16px;
         margin-left: 15px;
         margin-right: 15px;
