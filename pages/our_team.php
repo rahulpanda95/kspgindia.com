@@ -65,7 +65,7 @@
     }
 </style>
 <body>
-<div class="row" align="center">
+<div class="row" align="centre">
     <div class="column">
         <div class="card">
             <img src="img1.jpg" alt="Jane" style="width:100%">
