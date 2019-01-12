@@ -12,6 +12,7 @@
         float: left;
         width: 33.3%;
         margin-bottom: 16px;
+        margin-left: 20px;
         padding-left: 10px;
     }
 
