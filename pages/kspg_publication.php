@@ -21,8 +21,8 @@
                             <img src="img/core-img/kspg_publication_with_border.png" alt="KSPG Publication" align="center">
                         </div>
                         <div class="post-data">
-                            <a href="#" class="post-catagory cat-2" style="background-color: #6bc045;">HealthCare</a>
-                            <h2 class="post-title">Welcome to KS Homemade Products</h2>
+                            <a href="#" class="post-catagory cat-2" style="background-color: #e1395a">Publication</a>
+                            <h2 class="post-title">Welcome to KSPG Publication</h2>
                             <div class="post-meta">
 
                                 <!-- Post Details Meta Data -->
@@ -35,7 +35,7 @@
                                     <!-- View Comments -->
                                     <div class="view-comments">
                                         <p class="views">For more info, write us at;</p>
-                                        <a href="mailto:sarita@kspgindia.com" class="comments">sarita@kspgindia.com</a>
+                                        <a href="mailto:sarita@kspgindia.com" class="comments">drdebashisha@kspgindia.com</a>
                                     </div>
                                 </div>
 
@@ -98,63 +98,7 @@
                         </div>
                     </div>
 
-                    <!-- Comment Area Start -->
-                    <div class="comment_area clearfix" id="comments">
-                        <h4 class="title mb-70">Testimonials</h4>
 
-                        <ol>
-                            <!-- Single Comment Area -->
-                            <li class="single_comment_area">
-                                <!-- Comment Content -->
-                                <div class="comment-content d-flex">
-                                    <!-- Comment Author -->
-                                    <div class="comment-author">
-                                        <img src="img/bg-img/t1.jpg" alt="author">
-                                    </div>
-                                    <!-- Comment Meta -->
-                                    <div class="comment-meta">
-                                        <a href="#" class="post-author">Rahul Panda</a>
-                                        <a href="#" class="post-date">Co-Founder, KSPG India</a>
-                                        <p>Founded with the vision of "Better Health today for a Better India Tomorrow", I believe KS Homemade Products will keep on advancing for its mission with leadership of Sarita Panda (Co-Founder & Proprietor, KS Homemade Products).</p>
-                                    </div>
-                                </div>
-                                <ol class="children">
-                                    <li class="single_comment_area">
-                                        <!-- Comment Content -->
-                                        <div class="comment-content d-flex">
-                                            <!-- Comment Author -->
-                                            <div class="comment-author">
-                                                <img src="img/bg-img/t2.jpg" alt="author">
-                                            </div>
-                                            <!-- Comment Meta -->
-                                            <div class="comment-meta">
-                                                <a href="#" class="post-author">Smt.Sarita Panda</a>
-                                                <a href="#" class="post-date">Co-Founder, KSPG India</a>
-                                                <p></p>
-                                            </div>
-                                        </div>
-                                    </li>
-                                </ol>
-                            </li>
-
-                            <!-- Single Comment Area -->
-                            <li class="single_comment_area">
-                                <!-- Comment Content -->
-                                <div class="comment-content d-flex">
-                                    <!-- Comment Author -->
-                                    <div class="comment-author">
-                                        <img src="img/bg-img/t3.jpg" alt="author">
-                                    </div>
-                                    <!-- Comment Meta -->
-                                    <div class="comment-meta">
-                                        <a href="#" class="post-author">Dr.Debashisha Panda</a>
-                                        <a href="#" class="post-date">Co-Founder, KSPG India</a>
-                                        <p></p>
-                                    </div>
-                                </div>
-                            </li>
-                        </ol>
-                    </div>
 
                     <div class="post-a-comment-area">
                         <!-- <h4 class="mb-70">Leave a comment</h4> -->
@@ -188,20 +132,11 @@
             <div class="col-12 col-lg-4">
                 <div class="blog-sidebar-area">
 
-                    <!-- Newsletter Widget -->
-                    <div class="newsletter-widget mb-70">
-                        <h4>Connect with Us<br>for more Info</h4>
-                        <form action="#" method="post">
-                            <!-- <input type="text" name="text" placeholder="Name">
-                            <input type="email" name="email" placeholder="Email"> -->
-                            <button type="submit" formaction="mailto:sarita@kspgindia.com" class="btn w-100">Write us a Mail</button>
-                        </form>
-                        <h7 style="color:aliceblue;"><br>To be a part or for Collaborations,<br>*write us at: sarita@kspgindia.com</h7>
-                    </div>
+
 
                     <!-- Trending Articles Widget -->
                     <div class="treading-articles-widget mb-70">
-                        <h4>Don't Forget To</h4>
+                        <h4>Our Top Sellers</h4>
 
                         <!-- Single Trending Articles -->
                         <div class="single-blog-post style-4">
