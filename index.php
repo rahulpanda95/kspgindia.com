@@ -125,23 +125,22 @@
                         <!-- Nav Start -->
                         <div class="classynav">
                             <ul>
-                                <li class="active"><a href="about_us.html">Where We Stand</a></li>
+                                <li class="active"><a href="https://kspgindia.com/index.php?page=home">Where We Stand</a></li>
                                 <li><a href="#">Industries</a>
                                     <div class="megamenu">
                                         <ul class="single-mega cn-col-4">
                                             <li><a href="https://kspgindia.com/index.php?page=ks_homemade_products">KS Home-made Products</a></li>
-                                            <li><p>Section under Construction</p></li>
-                                            <!-- <li><a href="single-post.html">Single Article</a></li>
-                                            <li><a href="quize-article.html">Quize Article</a></li>
-                                            <li><a href="contact.html">Contact</a></li> -->
+                                            <li><a href="https://kspgindia.com/index.php?page=ks_homemade_products">Products</a></li>
+                                            <li><a href="https://kspgindia.com/index.php?page=ks_homemade_products">Health Tips</a></li>
+                                            <li><a href="https://kspgindia.com/index.php?page=ks_homemade_products">Place Orders</a></li>
+                                            <li><a href="https://kspgindia.com/index.php?page=ks_homemade_products">Enroll as Distributor</a></li>
                                         </ul>
                                         <ul class="single-mega cn-col-4">
-                                            <li><a href="#">KSPG Publication</a></li>
-                                            <li><p>Section under Construction</p></li>
-                                            <!-- <li><a href="catagory.html">Catagories</a></li>
-                                            <li><a href="single-post.html">Single Article</a></li>
-                                            <li><a href="quize-article.html">Quize Article</a></li>
-                                            <li><a href="contact.html">Contact</a></li> -->
+                                            <li><a href="https://kspgindia.com/index.php?page=home">KSPG Publication</a></li>
+                                            <li><a href="https://kspgindia.com/index.php?page=home">Books</a></li>
+                                            <li><a href="https://kspgindia.com/index.php?page=home">Author</a></li>
+                                            <li><a href="https://kspgindia.com/index.php?page=home">Place Orders</a></li>
+                                            <li><a href="https://kspgindia.com/index.php?page=home">Enroll as Distributor</a></li>
                                         </ul>
                                         <ul class="single-mega cn-col-4">
                                             <li><p>Section under Construction</p></li>
@@ -159,7 +158,7 @@
                                         </ul>
                                     </div>
                                 </li>
-                                <li><a href="index.html">Join Us</a></li>
+                                <li><a href="https://kspgindia.com/index.php?page=home">Our Team</a></li>
                                 <li><a href="#">Discover</a>
                                     <ul class="dropdown">
                                         <li><a href="#">Envision the Next</a>
