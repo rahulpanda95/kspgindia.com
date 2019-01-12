@@ -17,8 +17,7 @@
 
                     <!-- Related Articles Area -->
                     <div class="related-articles-">
-                        <h4 class="mb-70">Publish your Books, Articles, Journals, etc. with Us</h4>
-
+                        <h5 class="mb-70">Publish your Books, Articles, Journals, etc. with Us</h5>
                         <div class="row">
                             <!-- Single Post -->
                             <div class="col-12">
@@ -44,7 +43,7 @@
 
                         </div>
                     </div>
-                    
+
                     <!-- Single Featured Post -->
                     <div class="single-blog-post-details">
 
