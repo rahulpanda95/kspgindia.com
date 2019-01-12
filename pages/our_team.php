@@ -66,7 +66,8 @@
     }
 </style>
 <body>
-<h4 align="center" style="color: #e1395a"><u>Our Leaders</u></h4>
+<br>
+<h3 align="center" style="color: #e1395a"><u>Our Leaders</u></h3>
 <div class="row" style="margin-left: 10%; margin-right: 10%">
     <div class="column">
         <div class="card">
