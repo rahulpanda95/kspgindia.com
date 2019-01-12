@@ -121,7 +121,7 @@
                         <div class="single-blog-post style-4">
                             <!-- Post Thumb -->
                             <div class="post-thumb">
-                                <a href="#"><img src="img/bg-img/saunderya samaroha.png" alt="" width="200px" height="200px"></a>
+                                <a href="#"><img src="img/bg-img/saunderya samaroha.png" alt="Saunderya Samaroha at KSPG Publication" width="200px" height="200px"></a>
                                 <span class="serial-number">01.</span>
                             </div>
                             <!-- Post Data -->
@@ -130,7 +130,7 @@
                                     <h6>Saunderya Samahar</h6>
                                 </a>
                                 <div class="post-meta">
-                                    <p class="post-author">Top Seller @ <a href="https://www.youtube.com/channel/UCKRVduaQsWlVUsha6lxhnDw" target="_blank">KSPG Publication</a></p>
+                                    <p class="post-author">Top Seller @ <a href="https://www.kspgindia.com/index.php?page=kspg_publication" target="_blank">KSPG Publication</a></p>
                                 </div>
                             </div>
                         </div>
@@ -139,16 +139,16 @@
                         <div class="single-blog-post style-4">
                             <!-- Post Thumb -->
                             <div class="post-thumb">
-                                <a href="#"><img src="img/bg-img/16.jpg" alt=""></a>
+                                <a href="#"><img src="img/bg-img/jeevan Jyotshna.png" alt="Jeevan Jyotshna at KSPG Publication" width="200px" height="200px"></a>
                                 <span class="serial-number">02.</span>
                             </div>
                             <!-- Post Data -->
                             <div class="post-data">
-                                <a href="https://www.facebook.com/kspgindia/" target="_blank" class="post-title">
-                                    <h6>Visit us on our Facebook Page, be a part of our On-line Community</h6>
+                                <a href="https://www.kspgindia.com/index.php?page=kspg_publication" target="_blank" class="post-title">
+                                    <h6>Jeevan Jyotshna</h6>
                                 </a>
                                 <div class="post-meta">
-                                    <p class="post-author">KSPG India @ <a href="https://www.facebook.com/kspgindia/" target="_blank">Facebook</a></p>
+                                    <p class="post-author">Top Seller @ <a href="https://www.kspgindia.com/index.php?page=kspg_publication" target="_blank">KSPG Publication</a></p>
                                 </div>
                             </div>
                         </div>
