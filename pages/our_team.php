@@ -31,6 +31,7 @@
     /* Some left and right padding inside the container */
     .container {
         padding: 0 16px;
+        padding-left: 10px;
     }
 
     /* Clear floats */
