@@ -211,7 +211,7 @@ textarea:focus {
   font-size: 24px;
   height: 40px;
   line-height: 38px;
-  right: 60px;
+  left: 60px;
   text-align: center;
   width: 40px;
   -webkit-transition-duration: 500ms;
@@ -221,7 +221,7 @@ textarea:focus {
   @media only screen and (max-width: 767px) {
     #scrollUp {
       bottom: 30px;
-      left: 30px; } }
+      right: 30px; } }
 
 /* Button */
 .viral-btn {
