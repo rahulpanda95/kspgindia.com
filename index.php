@@ -171,7 +171,7 @@
                                         </li>
                                         <li><a href="https://www.rediffmailpro.com/cgi-bin/login.cgi" target="_blank">Employee Mail</a></li>
                                         <li><a href="https://workplace.facebook.com/login/" target="_blank">KSPG Workplace</a></li>
-                                        <li><a href="http://webex.kspgindia.com" target="_blank">KSPG Webex Meetings</a></li>
+                                        <li><a href="http://webex.kspgindia.com" target="_blank">Webex Meetings</a></li>
                                         <!-- <li><a href="quize-article.html">Reach Us</a></li>
                                         <li><a href="contact.html">Contact</a></li> -->
                                     </ul>
