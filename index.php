@@ -176,7 +176,7 @@
                                         <li><a href="contact.html">Contact</a></li> -->
                                     </ul>
                                 </li>
-                                <li><a href="index.html">Reach Us</a></li>
+                                <li><a href="https://kspgindia.com/index.php?page=home">Reach Us</a></li>
 
                             </ul>
 
@@ -268,7 +268,7 @@
 
 <?php
 $page = $_GET["page"];
-include ($_SERVER['DOCUMENT_ROOT']."/".$page.".php");
+include ($_SERVER['DOCUMENT_ROOT']."/pages/".$page.".php");
 
 $ip = $ip = $_SERVER['REMOTE_ADDR'];
 
