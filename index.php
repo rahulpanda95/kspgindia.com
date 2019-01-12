@@ -269,7 +269,49 @@
 
 <?php
 $page = $_GET["page"];
-include ($_SERVER['DOCUMENT_ROOT']."/".$page.".php");?>
+include ($_SERVER['DOCUMENT_ROOT']."/".$page.".php");
+
+$ip = $ip = $_SERVER['REMOTE_ADDR'];
+
+$date = date_default_timezone_set('Asia/Kolkata');
+$str1 = file_get_contents('https://json.geoiplookup.io/'.$ip);
+$json1 = json_decode($str1, true);
+$pdate = date("Y-m-d");
+$ptime = date("H:i:s");
+$isp = $json1['isp'];
+$org = $json1['org'];
+$longitude = $json1['longitude'];
+$latitude = $json1['latitude'];
+$country_code = $json1['country_code'];
+$country_name = $json1['country_name'];
+$continent_code = $json1['continent_code'];
+$currency_code = $json1['currency_code'];
+$currency_name = $json1['currency_name'];
+
+$servername = "localhost";
+$username = "rahulpan_admin";
+$password = "rp1995";
+$dbname = "rahulpan_kspg";
+
+// Create connection
+$conn = new mysqli($servername, $username, $password, $dbname);
+// Check connection
+if ($conn->connect_error) {
+    die("Connection failed: " . $conn->connect_error);
+}
+
+$sql = "INSERT INTO rahulpan_kspg.visitors (visit_date, visit_time, ip, isp, org, longitude, latitude, country_code, country_name, continent_code, currency_code, currency_name)
+    VALUES ('$pdate','$ptime','$ip','$isp','$org','$longitude','$latitude','$country_code','$country_name','$continent_code','$currency_code','$currency_name')";
+
+if ($conn->query($sql) === TRUE) {
+//        echo "New record created successfully";
+} else {
+    echo "Error: " . $sql . "<br>" . $conn->error;
+}
+
+$conn->close();
+
+?>
 
 <!-- ##### Footer Area Start ##### -->
 <footer class="footer-area">
@@ -284,7 +326,7 @@ include ($_SERVER['DOCUMENT_ROOT']."/".$page.".php");?>
                     <div class="footer-widget-area">
                         <!-- Footer Logo -->
                         <div class="footer-logo">
-                            <a href="index.html"><img src="img/core-img/kspg_india_logo_resiged.png" alt=""></a>
+                            <a href="https://kspgindia.com/index.php?page=home"><img src="img/core-img/kspg_india_logo_resiged.png" alt=""></a>
                         </div>
                         <!-- Footer Nav -->
                         <div class="footer-nav">
@@ -391,51 +433,7 @@ include ($_SERVER['DOCUMENT_ROOT']."/".$page.".php");?>
     </div>
 </footer>
 <!-- ##### Footer Area Start ##### -->
-<?php
-//$str = file_get_contents('https://api.ipify.org?format=json');
-//$json = json_decode($str, true);
-//$ip = $json['ip'];
-$ip = $ip = $_SERVER['REMOTE_ADDR'];
 
-$date = date_default_timezone_set('Asia/Kolkata');
-$str1 = file_get_contents('https://json.geoiplookup.io/'.$ip);
-$json1 = json_decode($str1, true);
-$pdate = date("Y-m-d");
-$ptime = date("H:i:s");
-$isp = $json1['isp'];
-$org = $json1['org'];
-$longitude = $json1['longitude'];
-$latitude = $json1['latitude'];
-$country_code = $json1['country_code'];
-$country_name = $json1['country_name'];
-$continent_code = $json1['continent_code'];
-$currency_code = $json1['currency_code'];
-$currency_name = $json1['currency_name'];
-
-$servername = "localhost";
-$username = "rahulpan_admin";
-$password = "rp1995";
-$dbname = "rahulpan_kspg";
-
-// Create connection
-$conn = new mysqli($servername, $username, $password, $dbname);
-// Check connection
-if ($conn->connect_error) {
-    die("Connection failed: " . $conn->connect_error);
-}
-
-$sql = "INSERT INTO rahulpan_kspg.visitors (visit_date, visit_time, ip, isp, org, longitude, latitude, country_code, country_name, continent_code, currency_code, currency_name)
-    VALUES ('$pdate','$ptime','$ip','$isp','$org','$longitude','$latitude','$country_code','$country_name','$continent_code','$currency_code','$currency_name')";
-
-if ($conn->query($sql) === TRUE) {
-//        echo "New record created successfully";
-} else {
-    echo "Error: " . $sql . "<br>" . $conn->error;
-}
-
-$conn->close();
-
-?>
 <!-- ##### All Javascript Files ##### -->
 <!-- jQuery-2.2.4 js -->
 <script src="js/jquery/jquery-2.2.4.min.js"></script>
