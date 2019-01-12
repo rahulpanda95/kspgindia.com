@@ -236,7 +236,7 @@
                         </div>
                         <div class="post-data">
                             <a href="#" class="post-title">
-                                <h6 style="color: #1e7e34;">Welcome to KSPG India Official Website. Click on "see more" to know about our Mission and Vision.</h6>
+                                <h6 style="color: #1e7e34;">Welcome to KSPG India Official Website. Our Mission and Vision are...</h6>
                             </a>
                             <div class="post-meta">
                                 <p class="post-date"><a href="https://kspgindia.com/index.php?page=home">See More</a></p>
@@ -251,7 +251,7 @@
                         </div>
                         <div class="post-data">
                             <a href="#" class="post-title">
-                                <h6 style="color: #5a6268">Introducing KSPG Publications, a new line of affordable books on Healthcare, Fictional Stories, etc.</h6>
+                                <h6 style="color: orangered">Introducing KSPG Publications, a new line of affordable books on Healthcare, Fictional Stories, etc.</h6>
                             </a>
                             <div class="post-meta">
                                 <p class="post-date"><a href="https://kspgindia.com/index.php?page=home">See More</a></p>
