@@ -249,11 +249,11 @@
                             <a href="#"><img src="img/core-img/kspg_publication_with_border.png" alt=""></a>
                         </div>
                         <div class="post-data">
-                            <a href="https://kspgindia.com/index.php?page=kspg_publications" class="post-title">
+                            <a href="https://kspgindia.com/index.php?page=kspg_publication" class="post-title">
                                 <h6 style="color: #e1395a">Introducing KSPG Publications, a new line of affordable books on Healthcare, Fictional Stories, etc.</h6>
                             </a>
                             <div class="post-meta">
-                                <p class="post-date"><a href="https://kspgindia.com/index.php?page=kspg_publications">See More</a></p>
+                                <p class="post-date"><a href="https://kspgindia.com/index.php?page=kspg_publication">See More</a></p>
                             </div>
                         </div>
                     </div>
