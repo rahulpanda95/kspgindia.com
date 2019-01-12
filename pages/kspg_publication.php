@@ -60,7 +60,7 @@
                                 <div class="single-blog-post style-3 style-5 d-flex align-items-center mb-50">
                                     <!-- Post Thumb -->
                                     <div class="post-thumb">
-                                        <a href="#"><img src="img/core-img/kspg_publication_with_border.png" alt="KSPG Publication" height="72px" width="72px"></a>
+                                        <a href="#"><img src="img/core-img/kspg_publication_with_border.png" alt="KSPG Publication" height="72" width="72"></a>
                                     </div>
                                     <!-- Post Data -->
                                     <div class="post-data">
