@@ -78,7 +78,8 @@
                 <p><button class="button">Contact</button></p>
             </div>
         </div>
-        
+    </div>
+    
     <div class="column">
         <div class="card">
             <img src="img/profile/sarita.png" alt="Jane" style="width:100%">
@@ -106,7 +107,6 @@
     </div>
 
 
-    </div>
 </div>
 </body>
 
