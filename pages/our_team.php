@@ -95,7 +95,7 @@
 
     <div class="column">
         <div class="card">
-            <img src="img/profile/sarita.png" alt="John" style="width:100%">
+            <img src="img/profile/rahul.png" alt="John" style="width:100%">
             <div class="container">
                 <h2 align="center">Mr. Rahul Panda</h2>
                 <p class="title" align="center">Co-Founder</p>
