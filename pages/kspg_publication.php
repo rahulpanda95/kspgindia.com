@@ -52,7 +52,7 @@
 
                     <!-- Related Articles Area -->
                     <div class="related-articles-">
-                        <h4 class="mb-70">Related Events</h4>
+                        <h4 class="mb-70">Publish your Books, Articles, Journals, etc. with Us</h4>
 
                         <div class="row">
                             <!-- Single Post -->
