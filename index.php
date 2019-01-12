@@ -143,14 +143,14 @@
                                             <li><a href="https://kspgindia.com/index.php?page=home">Enroll as Distributor</a></li>
                                         </ul>
                                         <ul class="single-mega cn-col-4">
-                                            <li><p>Section under Construction</p></li>
+                                            <li><p>Section to be disclosed soon</p></li>
                                             <!-- <li><a href="catagory.html">Catagories</a></li>
                                             <li><a href="single-post.html">Single Article</a></li>
                                             <li><a href="quize-article.html">Quize Article</a></li>
                                             <li><a href="contact.html">Contact</a></li> -->
                                         </ul>
                                         <ul class="single-mega cn-col-4">
-                                            <li><p>Section under Construction</p></li>
+                                            <li><p>Section to be disclosed soon</p></li>
                                             <!-- <li><a href="catagory.html">Catagories</a></li>
                                             <li><a href="single-post.html">Single Article</a></li>
                                             <li><a href="quize-article.html">Quize Article</a></li>
@@ -169,9 +169,9 @@
                                                 <li><a href="contact.html">Contact</a></li> -->
                                             </ul>
                                         </li>
-                                        <li><a href="https://www.rediffmailpro.com/cgi-bin/login.cgi" target="_blank">E-Mail</a></li>
-                                        <li><a href="https://workplace.facebook.com/login/" target="_blank">Workplace</a></li>
-                                        <li><a href="http://webex.kspgindia.com" target="_blank">Webex Meetings</a></li>
+                                        <li><a href="https://www.rediffmailpro.com/cgi-bin/login.cgi" target="_blank">Employee Mail</a></li>
+                                        <li><a href="https://workplace.facebook.com/login/" target="_blank">KSPG Workplace</a></li>
+                                        <li><a href="http://webex.kspgindia.com" target="_blank">KSPG Webex Meetings</a></li>
                                         <!-- <li><a href="quize-article.html">Reach Us</a></li>
                                         <li><a href="contact.html">Contact</a></li> -->
                                     </ul>
