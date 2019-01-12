@@ -63,7 +63,7 @@
                                     <div class="post-data">
                                         <a href="#" class="post-catagory" style="background-color: #e1395a;">KSPG India Headquarters</a>
                                         <a href="#" class="post-title">
-                                            <p>We welcome talented Authors to publish their piece of art with us.</p>
+                                            <p><strong>13404, 26 Utkal Ashram Road<br>Subarao Square<br>Berhampur, Odisha.<br>PIN: 760001</strong></p>
                                         </a>
                                         <div class="post-meta">
                                             <p class="post-author">To know more, write us at:<a href="mailto:drdebashisha@kspgindia.com">drdebashisha@kspgindia.com</a></p>
