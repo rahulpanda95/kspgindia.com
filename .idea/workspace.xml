@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c3d62e4d-e388-40a3-826b-891fb42b49c2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/kspg_publication.php" beforeDir="false" afterPath="$PROJECT_DIR$/pages/kspg_publication.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,10 +14,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.php">
+        <entry file="file://$PROJECT_DIR$/pages/kspg_publication.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="263" column="88" selection-start-line="263" selection-start-column="88" selection-end-line="263" selection-end-column="88" />
+            <state relative-caret-position="381">
+              <caret line="176" lean-forward="true" selection-start-line="176" selection-end-line="176" />
             </state>
           </provider>
         </entry>
@@ -42,11 +43,11 @@
         <option value="$PROJECT_DIR$/pages/ks_hmp_products.php" />
         <option value="$PROJECT_DIR$/pages/ks_hmp_health_tips.php" />
         <option value="$PROJECT_DIR$/pages/kspg_publication_books.php" />
-        <option value="$PROJECT_DIR$/pages/kspg_publication.php" />
         <option value="$PROJECT_DIR$/pages/ks_media_group.php" />
         <option value="$PROJECT_DIR$/pages/home.php" />
         <option value="$PROJECT_DIR$/pages/our_team.php" />
         <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/pages/kspg_publication.php" />
       </list>
     </option>
   </component>
@@ -84,7 +85,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547324694824" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547324889394" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -121,12 +122,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1547276121019</updated>
-      <workItem from="1547276122785" duration="22397000" />
+      <workItem from="1547276122785" duration="22507000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22397000" />
+    <option name="totallyTimeSpent" value="22507000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="808" extended-state="0" />
@@ -225,13 +226,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/kspg_publication.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="699">
-          <caret line="155" lean-forward="true" selection-end-line="201" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pages/home.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="359">
@@ -288,8 +282,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="263" column="88" selection-start-line="263" selection-start-column="88" selection-end-line="263" selection-end-column="88" />
+        <state relative-caret-position="294">
+          <caret line="140" column="107" selection-start-line="140" selection-start-column="107" selection-end-line="140" selection-end-column="107" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/kspg_publication.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="176" lean-forward="true" selection-start-line="176" selection-end-line="176" />
         </state>
       </provider>
     </entry>

@@ -138,7 +138,7 @@
                                         <ul class="single-mega cn-col-4">
                                             <li><a href="https://www.kspgindia.com/index.php?page=kspg_publication"><p style="color: #2d5f9a"><strong>KSPG Publication</strong></p></a></li>
                                             <li><a href="https://kspgindia.com/index.php?page=kspg_publication_books">Books</a></li>
-                                            <li><a href="https://kspgindia.com/index.php?page=home">Author</a></li>
+                                            <li><a href="https://kspgindia.com/index.php?page=home">Authors</a></li>
                                             <li><a href="https://kspgindia.com/index.php?page=home">Place Orders</a></li>
                                             <li><a href="https://kspgindia.com/index.php?page=home">Publish with Us</a></li>
                                             <li><a href="https://kspgindia.com/index.php?page=home">Enroll as Distributor</a></li>

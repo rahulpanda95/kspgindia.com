@@ -174,20 +174,8 @@
 
                     </div>
 
-                    <!-- Latest Comments -->
-                    <div class="latest-comments-widget">
-                        <h4>Authors</h4>
 
-                        <!-- Single Comment Widget -->
-                        <div class="single-comments d-flex">
-                            <div class="comments-thumbnail">
-                                <img src="img/bg-img/t2.jpg" alt="">
-                            </div>
-                            <div class="comments-text">
-                                <a href="#"><span>Smt.Sarita Panda</span><br>Author, Health-Counselor, Social-Activist & Head of Business Development and Delivery</a>
-                                <p>Co-Founder, KSPG India</p>
-                            </div>
-                        </div>
+
 
                     </div>
                 </div>
