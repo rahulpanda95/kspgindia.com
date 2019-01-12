@@ -12,7 +12,7 @@
         float: left;
         width: 33.3%;
         margin-bottom: 16px;
-        padding: 0 8px;
+        padding-left: 10px;
     }
 
     /* Display the columns below each other instead of side by side on small screens */
