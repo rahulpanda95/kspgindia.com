@@ -129,7 +129,7 @@
                                 <li><a href="#">Industries</a>
                                     <div class="megamenu">
                                         <ul class="single-mega cn-col-4">
-                                            <li><a href="ks_homemade_products.html">KS Home-made Products</a></li>
+                                            <li><a href="https://kspgindia.com/index.php?page=ks_homemade_products">KS Home-made Products</a></li>
                                             <li><p>Section under Construction</p></li>
                                             <!-- <li><a href="single-post.html">Single Article</a></li>
                                             <li><a href="quize-article.html">Quize Article</a></li>
@@ -291,7 +291,7 @@ include ($_SERVER['DOCUMENT_ROOT']."/".$page.".php");?>
                             <ul>
                                 <li class="active"><a href="#">Homepage</a></li>
                                 <li><a href="http://inbox.kspgindia.com" target="_blank">E-Mail</a></li>
-                                <li><a href="ks_homemade_products.html">K.S. Home-made Products</a></li>
+                                <li><a href="ks_homemade_products.php">K.S. Home-made Products</a></li>
                                 <li><a href="https://workplace.facebook.com/login/" target="_blank">Workplace</a></li>
                                 <li><a href="#">KSPG Publication</a></li>
                                 <li><a href="http://webex.kspgindia.com" target="_blank">Webex Meetings</a></li>
