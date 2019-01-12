@@ -66,7 +66,7 @@
                                             <p><strong>13404, 26 Utkal Ashram Road<br>Subarao Square<br>Berhampur, Odisha.<br>PIN: 760001</strong></p>
                                         </a>
                                         <div class="post-meta">
-                                            <p class="post-author">To know more, write us at:<a href="mailto:drdebashisha@kspgindia.com">drdebashisha@kspgindia.com</a></p>
+                                            <p class="post-author">Mobile:<a href="mailto:drdebashisha@kspgindia.com">9437617602</a></p>
                                             <p class="post-date">Dr.Debashisha Panda, Co-Founder, KSPG India</p>
                                         </div>
                                     </div>
