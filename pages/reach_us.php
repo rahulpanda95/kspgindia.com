@@ -5,10 +5,8 @@ if(isset($_POST['submit'])){
     $name = $_POST['name'];
     $subject = "Form submission";
     $subject2 = "Copy of your Feedback submission - KSPG India";
-    $message = "Name: ".$name ."\nEmail-ID: ".$from."\nDate(IST): ".$pdate."\nTime(IST): ".$ptime ."\n\nWrote the following; " . "\n\n" . $_POST['message'];
+    $message = "Name: ".$name ."\nEmail-ID: ".$from."\n\nWrote the following; " . "\n\n" . $_POST['message'];
     $message2 = "Dear ".$name."\n\nThank you for writing us at KSPG India.\nHere is a copy of your message;\n\n". $_POST['message']."\n\nThis is an automated mail.\nWe will reach back to you shortly on this...";
-    $pdate = date("Y-m-d");
-    $ptime = date("H:i:s");
 
     $headers = "From:" . $from;
     $headers2 = "From:" . $to;
