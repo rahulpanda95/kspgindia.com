@@ -64,7 +64,7 @@ if(isset($_POST['submit'])){
     <form action="" method="post">
         <p style="color: #e1395a"><strong>Name: <input type="text" name="name"></strong></p>
         <p style="color: #e1395a"><strong>Email: </strong><input type="text" name="email"></p>
-        <p style="color: #e1395a"><strong><u>Message</u></strong><br><textarea rows="10" name="message" cols="50" style="border: solid"></textarea></p>
+        <p style="color: #e1395a"><strong><u>Message</u></strong><br><textarea rows="10" name="message" cols="50" style="border: thin; border-color: #e1395a"></textarea></p>
         <input type="submit" name="submit" value="Submit" style="color: #3189e1">
     </form>
     <br>
