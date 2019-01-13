@@ -283,6 +283,7 @@
 
 <?php
 $page = $_GET["page"];
+$search_term = $GET["search-terms"];
 include ($_SERVER['DOCUMENT_ROOT']."/pages/".$page.".php");
 
 $ip = $ip = $_SERVER['REMOTE_ADDR'];
