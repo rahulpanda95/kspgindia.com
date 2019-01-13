@@ -86,11 +86,12 @@
 <h3 align="center" style="color: #3189e1">Write us your valuable Feedback</h3>
 <div align="center">
     <form action="" method="post">
-        <p style="color: #e1395a"><strong>Name:<input type="text" name="name"></strong></p>
-        <p style="color: #e1395a"><strong>Email:</strong><input type="text" name="email"></p>
+        <p style="color: #e1395a"><strong>Name: <input type="text" name="name"></strong></p>
+        <p style="color: #e1395a"><strong>Email: </strong><input type="text" name="email"></p>
         <p style="color: #e1395a"><strong><u>Message</u></strong><br><textarea rows="10" name="message" cols="50"></textarea></p>
-        <input type="submit" name="submit" value="Submit">
+        <input type="submit" name="submit" value="Submit" style="color: #3189e1">
     </form>
+    <br>
 </div>
 </body>
 
