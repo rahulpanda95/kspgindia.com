@@ -12,7 +12,7 @@ if(isset($_POST['submit'])){
     $headers2 = "From:" . $to;
     mail($to,$subject,$message,$headers);
     mail($from,$subject2,$message2,$headers2); // sends a copy of the message to the sender
-    echo "Mail Sent. Thank you " . $name . ", we will contact you shortly.";
+    echo "<h4 style='color: #e1395a' align='center'>We have received your message. Thank you " . $name . ", we will contact you shortly.</h4>";
     // You can also use header('Location: thank_you.php'); to redirect to another page.
 }
 ?>
