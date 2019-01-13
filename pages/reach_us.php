@@ -5,8 +5,8 @@ if(isset($_POST['submit'])){
     $name = $_POST['name'];
     $subject = "Form submission";
     $subject2 = "Copy of your form submission";
-    $message = "<strong>Name: </strong>".$name ."\n<strong>Email-ID: </strong>".$from."\n<strong>Wrote the following:</strong>" . "\n\n" . $_POST['message'];
-    $message2 = "Here is a copy of your message " . $name . "\n\n" . $_POST['message'];
+    $message = "Name: ".$name ."\n>Email-ID: ".$from."\nWrote the following; " . "\n\n" . $_POST['message'];
+    $message2 = "Dear ".$name."\nThank you for writing us at KSPG India.\nHere is a copy of your message;\n\n". $_POST['message']."\n\nWe will reach back to you shortly on this...";
 
     $headers = "From:" . $from;
     $headers2 = "From:" . $to;
