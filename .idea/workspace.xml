@@ -24,8 +24,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pages/reach_us.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="81" selection-start-line="14" selection-start-column="81" selection-end-line="14" selection-end-column="81" />
+            <state relative-caret-position="105">
+              <caret line="7" column="126" selection-start-line="7" selection-start-column="126" selection-end-line="7" selection-end-column="126" />
               <folding>
                 <element signature="n#style#0;n#h4#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#h3#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -140,12 +140,12 @@
       <option name="presentableId" value="Default" />
       <updated>1547276121019</updated>
       <workItem from="1547276122785" duration="23387000" />
-      <workItem from="1547349411959" duration="1407000" />
+      <workItem from="1547349411959" duration="1652000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24794000" />
+    <option name="totallyTimeSpent" value="25039000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="808" extended-state="0" />
@@ -292,8 +292,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/reach_us.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="81" selection-start-line="14" selection-start-column="81" selection-end-line="14" selection-end-column="81" />
+        <state relative-caret-position="105">
+          <caret line="7" column="126" selection-start-line="7" selection-start-column="126" selection-end-line="7" selection-end-column="126" />
           <folding>
             <element signature="n#style#0;n#h4#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h3#0;n#body#0;n#html#0;n#!!top" expanded="true" />
