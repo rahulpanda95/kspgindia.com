@@ -26,64 +26,23 @@ if (!isset($_SESSION["email"])) {
     <!-- Custom styles for this template -->
     <style type="text/css">
 
-        body {
-            padding-top: 40px;
-            padding-bottom: 40px;
-            background-color: #eee;
-        }
-
-        .form-signin {
-            max-width: 330px;
-            padding: 15px;
-            margin: 0 auto;
-        }
-        .form-signin .form-signin-heading,
-        .form-signin .checkbox {
-            margin-bottom: 10px;
-            text-align: center;
-        }
-        .form-signin .checkbox {
-            font-weight: normal;
-        }
-        .form-signin .form-control {
-            position: relative;
-            height: auto;
-            -webkit-box-sizing: border-box;
-            -moz-box-sizing: border-box;
-            box-sizing: border-box;
-            padding: 10px;
-            font-size: 16px;
-        }
-        .form-signin .form-control:focus {
-            z-index: 2;
-        }
-        .form-signin input[type="email"] {
-            margin-bottom: -1px;
-            border-bottom-right-radius: 0;
-            border-bottom-left-radius: 0;
-        }
-        .form-signin input[type="password"] {
-            margin-bottom: 10px;
-            border-top-left-radius: 0;
-            border-top-right-radius: 0;
-        }
-        .center {
-            display: block;
-            margin-left: auto;
-            margin-right: auto;
+        button {
+            line-height: 12px;
+            width: 18px;
+            font-size: 8pt;
+            font-family: tahoma;
+            margin-top: 1px;
+            margin-right: 2px;
         }
 
 
     </style>
 </head>
 <body>
+<button onclick="window.location.href='logout.php'" name="logout" >Log Out</button>
 <h1 class="text-center">Welcome <?php echo $_SESSION["email"]; ?></h1>
 <p class="text-center"><a href="logout.php" >Click Here to logout</a></p>
-<button onclick="window.location.href='logout.php'" name="logout">Log Out</button>
 
-<div class="container" size="500px">
-    <button onclick="window.location.href='logout.php'" name="logout">Log Out</button>
-</div>
 
 <!-- jQuery -->
 <!--<script src="//code.jquery.com/jquery.js"></script>-->
