@@ -1,0 +1,30 @@
+[15-Jan-2019 06:54:08 Etc/GMT] PHP Notice:  Undefined index: uname in /home/rahulpan/public_html/kspgindia.com/utkarsh/process.php on line 12
+[15-Jan-2019 06:54:08 Etc/GMT] PHP Stack trace:
+[15-Jan-2019 06:54:08 Etc/GMT] PHP   1. {main}() /home/rahulpan/public_html/kspgindia.com/utkarsh/process.php:0
+[15-Jan-2019 06:54:08 Etc/GMT] PHP Notice:  Undefined index: password in /home/rahulpan/public_html/kspgindia.com/utkarsh/process.php on line 12
+[15-Jan-2019 06:54:08 Etc/GMT] PHP Stack trace:
+[15-Jan-2019 06:54:08 Etc/GMT] PHP   1. {main}() /home/rahulpan/public_html/kspgindia.com/utkarsh/process.php:0
+[15-Jan-2019 06:54:08 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/rahulpan/public_html/kspgindia.com/utkarsh/process.php on line 15
+[15-Jan-2019 06:54:08 Etc/GMT] PHP Stack trace:
+[15-Jan-2019 06:54:08 Etc/GMT] PHP   1. {main}() /home/rahulpan/public_html/kspgindia.com/utkarsh/process.php:0
+[15-Jan-2019 06:54:08 Etc/GMT] PHP   2. mysqli_fetch_assoc() /home/rahulpan/public_html/kspgindia.com/utkarsh/process.php:15
+[15-Jan-2019 06:54:26 Etc/GMT] PHP Notice:  Undefined index: uname in /home/rahulpan/public_html/kspgindia.com/utkarsh/process.php on line 12
+[15-Jan-2019 06:54:26 Etc/GMT] PHP Stack trace:
+[15-Jan-2019 06:54:26 Etc/GMT] PHP   1. {main}() /home/rahulpan/public_html/kspgindia.com/utkarsh/process.php:0
+[15-Jan-2019 06:54:26 Etc/GMT] PHP Notice:  Undefined index: password in /home/rahulpan/public_html/kspgindia.com/utkarsh/process.php on line 12
+[15-Jan-2019 06:54:26 Etc/GMT] PHP Stack trace:
+[15-Jan-2019 06:54:26 Etc/GMT] PHP   1. {main}() /home/rahulpan/public_html/kspgindia.com/utkarsh/process.php:0
+[15-Jan-2019 06:54:26 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/rahulpan/public_html/kspgindia.com/utkarsh/process.php on line 15
+[15-Jan-2019 06:54:26 Etc/GMT] PHP Stack trace:
+[15-Jan-2019 06:54:26 Etc/GMT] PHP   1. {main}() /home/rahulpan/public_html/kspgindia.com/utkarsh/process.php:0
+[15-Jan-2019 06:54:26 Etc/GMT] PHP   2. mysqli_fetch_assoc() /home/rahulpan/public_html/kspgindia.com/utkarsh/process.php:15
+[15-Jan-2019 06:59:05 Etc/GMT] PHP Notice:  Undefined index: uname in /home/rahulpan/public_html/kspgindia.com/utkarsh/process.php on line 12
+[15-Jan-2019 06:59:05 Etc/GMT] PHP Stack trace:
+[15-Jan-2019 06:59:05 Etc/GMT] PHP   1. {main}() /home/rahulpan/public_html/kspgindia.com/utkarsh/process.php:0
+[15-Jan-2019 06:59:05 Etc/GMT] PHP Notice:  Undefined index: password in /home/rahulpan/public_html/kspgindia.com/utkarsh/process.php on line 12
+[15-Jan-2019 06:59:05 Etc/GMT] PHP Stack trace:
+[15-Jan-2019 06:59:05 Etc/GMT] PHP   1. {main}() /home/rahulpan/public_html/kspgindia.com/utkarsh/process.php:0
+[15-Jan-2019 06:59:05 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/rahulpan/public_html/kspgindia.com/utkarsh/process.php on line 15
+[15-Jan-2019 06:59:05 Etc/GMT] PHP Stack trace:
+[15-Jan-2019 06:59:05 Etc/GMT] PHP   1. {main}() /home/rahulpan/public_html/kspgindia.com/utkarsh/process.php:0
+[15-Jan-2019 06:59:05 Etc/GMT] PHP   2. mysqli_fetch_assoc() /home/rahulpan/public_html/kspgindia.com/utkarsh/process.php:15
