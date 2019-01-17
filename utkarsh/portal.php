@@ -69,17 +69,11 @@ if (!isset($_SESSION["email"])) {
                         </div>
 
                         <!-- Nav Start -->
-                        <div class="classynav">
+                        <div class="classynav" style="color: #3189e1">
                             <ul>
-                                <li  style="color: #3189e1"><a href="#">Welcome - <?php echo $_SESSION["email"]; ?></a></li>
+                                <li class="active"><a href="#">Welcome - <?php echo $_SESSION["email"]; ?></a></li>
                                 <li><a href="#">Attendance</a></li>
                             </ul>
-
-                            <!-- Search Button -->
-                            <div class="search-btn">
-                                <i id="searchbtn" class="fa fa-search" aria-hidden="true"></i>
-                            </div>
-
 
 
                             <!-- Video Post Button -->
