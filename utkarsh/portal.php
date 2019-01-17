@@ -79,7 +79,10 @@ if (!isset($_SESSION["email"])) {
 <body>
 <h1 class="text-center">Welcome <?php echo $_SESSION["email"]; ?></h1>
 <p class="text-center"><a href="logout.php" >Click Here to logout</a></p>
-<button class="btn btn-lg btn-primary btn-block" onclick="window.location.href='logout.php'" name="logout">Log Out</button>
+
+<div class="container">
+    <button class="btn btn-lg btn-primary btn-block" onclick="window.location.href='logout.php'" name="logout">Log Out</button>
+</div>
 
 <!-- jQuery -->
 <!--<script src="//code.jquery.com/jquery.js"></script>-->
