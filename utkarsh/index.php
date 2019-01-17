@@ -1,42 +1,49 @@
 <?php
-ob_start();
+
 session_start();
+// If Session not set send user to login page
+if (isset($_SESSION["email"])) {
+    header("Location:Home.php");
+}
 ?>
-
-<?
-// error_reporting(E_ALL);
-// ini_set("display_errors", 1);
-?>
-
-<html lang = "en">
-
+<!DOCTYPE html>
+<html lang="en">
 <head>
-    <title>Tutorialspoint.com</title>
-    <link href = "css/bootstrap.min.css" rel = "stylesheet">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <title>Signin Form Using PHP - Webclasses.in</title>
 
-    <style>
+    <!-- Bootstrap core CSS -->
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <style type="text/css">
+
         body {
             padding-top: 40px;
             padding-bottom: 40px;
-            background-color: #ADABAB;
+            background-color: #eee;
         }
 
         .form-signin {
             max-width: 330px;
             padding: 15px;
             margin: 0 auto;
-            color: #017572;
         }
-
         .form-signin .form-signin-heading,
         .form-signin .checkbox {
             margin-bottom: 10px;
         }
-
         .form-signin .checkbox {
             font-weight: normal;
         }
-
         .form-signin .form-control {
             position: relative;
             height: auto;
@@ -46,76 +53,45 @@ session_start();
             padding: 10px;
             font-size: 16px;
         }
-
         .form-signin .form-control:focus {
             z-index: 2;
         }
-
         .form-signin input[type="email"] {
             margin-bottom: -1px;
             border-bottom-right-radius: 0;
             border-bottom-left-radius: 0;
-            border-color:#017572;
         }
-
         .form-signin input[type="password"] {
             margin-bottom: 10px;
             border-top-left-radius: 0;
             border-top-right-radius: 0;
-            border-color:#017572;
         }
 
-        h2{
-            text-align: center;
-            color: #017572;
-        }
+
     </style>
 
 </head>
 
 <body>
 
-<h2>Enter Username and Password</h2>
-<div class = "container form-signin">
+<div class="container">
 
-    <?php
-    $msg = '';
-
-    if (isset($_POST['login']) && !empty($_POST['username'])
-        && !empty($_POST['password'])) {
-
-        if ($_POST['username'] == 'tutorialspoint' &&
-            $_POST['password'] == '1234') {
-            $_SESSION['valid'] = true;
-            $_SESSION['timeout'] = time();
-            $_SESSION['username'] = 'tutorialspoint';
-
-            echo 'You have entered valid use name and password';
-        }else {
-            $msg = 'Wrong username or password';
-        }
-    }
-    ?>
-</div> <!-- /container -->
-
-<div class = "container">
-
-    <form class = "form-signin" role = "form"
-          action = "<?php echo htmlspecialchars($_SERVER['PHP_SELF']);
-          ?>" method = "post">
-        <h4 class = "form-signin-heading"><?php echo $msg; ?></h4>
-        <input type = "text" class = "form-control"
-               name = "username" placeholder = "username = tutorialspoint"
-               required autofocus></br>
-        <input type = "password" class = "form-control"
-               name = "password" placeholder = "password = 1234" required>
-        <button class = "btn btn-lg btn-primary btn-block" type = "submit"
-                name = "login">Login</button>
+    <form class="form-signin" method="POST" action="login_script.php">
+        <h2 class="form-signin-heading">Please sign in</h2>
+        <label for="inputEmail" class="sr-only">Email address</label>
+        <input type="email" name="email" id="inputEmail" class="form-control" placeholder="Email address" required autofocus>
+        <label for="inputPassword" class="sr-only">Password</label>
+        <input type="password" name="password" id="inputPassword" class="form-control" placeholder="Password" required>
+        <p class="pull-right"><a href="register.php"> Click Here To Register</a></p>
+        <button class="btn btn-lg btn-primary btn-block" type="submit" name="submit">Sign in</button>
     </form>
 
-    Click here to clean <a href = "logout.php" tite = "Logout">Session.
+</div> <!-- /container -->
 
-</div>
 
+<!-- jQuery -->
+<script src="//code.jquery.com/jquery.js"></script>
+<!-- Bootstrap JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
 </body>
 </html>
