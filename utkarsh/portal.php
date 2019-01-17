@@ -9,13 +9,16 @@ if (!isset($_SESSION["email"])) {
 <!DOCTYPE html>
 <html lang="">
 <head>
-    <meta charset="utf-8">
+    <meta charset="UTF-8">
+    <meta name="description" content="">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <script type="text/javascript" src="http://code.jquery.com/jquery-1.8.2.js"></script>
     <title>Utkarsh - KSPG India</title>
+    <!-- Favicon -->
+    <link rel="icon" href="img/core-img/favicon.ico">
     <!-- Bootstrap CSS -->
-<!--    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">-->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
     <link rel="stylesheet" href="style.css">
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -42,38 +45,6 @@ if (!isset($_SESSION["email"])) {
 </head>
 <body>
 <header class="header-area">
-
-    <!-- Top Header Area -->
-    <div class="top-header-area">
-        <div class="container">
-            <div class="row">
-                <div class="col-12">
-                    <div class="top-header-content d-flex align-items-center justify-content-between">
-                        <!-- Breaking News Area -->
-                        <div class="top-breaking-news-area">
-                            <div id="breakingNewsTicker" class="ticker">
-                                <ul>
-                                    <li><a href="#">Hello Dear Friend</a></li>
-                                    <li><a href="#">Welcome to our website!</a></li>
-                                    <li><a href="#">Introducing Kushal Swadesh Pratistha Group - KSPG India</a></li>
-                                </ul>
-                            </div>
-                        </div>
-
-                        <!-- Social Info Area-->
-                        <div class="top-social-info-area">
-                            <a href="#"><i class="fa fa-google-plus" aria-hidden="true"></i></a>
-                            <a href="#"><i class="fa fa-pinterest" aria-hidden="true"></i></a>
-                            <a href="https://www.facebook.com/kspgindia/" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a>
-                            <a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <!-- Navbar Area -->
     <div class="viral-news-main-menu" id="stickyMenu">
         <div class="classy-nav-container breakpoint-off">
             <div class="container">
@@ -180,7 +151,7 @@ if (!isset($_SESSION["email"])) {
     </div>
 </header>
 <!-- ##### Header Area End ##### -->
-
+<div>
 <button onclick="window.location.href='logout.php'" name="logout" >Log Out</button>
 <h1 class="text-center">Welcome <?php echo $_SESSION["email"]; ?></h1>
 <p class="text-center"><a href="logout.php" >Click Here to logout</a></p>
@@ -192,5 +163,6 @@ if (!isset($_SESSION["email"])) {
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
 <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
 <script src="Hello World"></script>
+</div>
 </body>
 </html>
