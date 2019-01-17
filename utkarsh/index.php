@@ -40,6 +40,7 @@ if (isset($_SESSION["email"])) {
         .form-signin .form-signin-heading,
         .form-signin .checkbox {
             margin-bottom: 10px;
+            text-align: center;
         }
         .form-signin .checkbox {
             font-weight: normal;
@@ -66,6 +67,11 @@ if (isset($_SESSION["email"])) {
             border-top-left-radius: 0;
             border-top-right-radius: 0;
         }
+        .center {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+        }
 
 
     </style>
@@ -74,15 +80,16 @@ if (isset($_SESSION["email"])) {
 
 <body>
 
-<div class="container">
+<img class="center" src="https://kspgindia.com/img/core-img/kspg_India_resized" alt="KSPG India">
+<h2 align="center">Utkarsh - The Awakening</h2>
 
+<div class="container">
     <form class="form-signin" method="POST" action="login_script.php">
-        <h2 class="form-signin-heading">Utkarsh Portal</h2>
         <label for="inputEmail" class="sr-only">Enter you E-mail ID here</label>
         <input type="email" name="email" id="inputEmail" class="form-control" placeholder="Email address" required autofocus>
         <label for="inputPassword" class="sr-only">Enter Password Here</label>
         <input type="password" name="password" id="inputPassword" class="form-control" placeholder="Password" required>
-        <button class="btn btn-lg btn-primary btn-block" type="submit" name="submit">Sign in</button>
+        <button class="btn btn-lg btn-primary btn-block" type="submit" name="submit">Log in</button>
     </form>
 
 </div> <!-- /container -->
