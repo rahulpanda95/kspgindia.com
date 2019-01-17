@@ -14,7 +14,7 @@ if (isset($_SESSION["email"])) {
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="">
     <meta name="author" content="">
-    <title>Signin Form Using PHP - Webclasses.in</title>
+    <title>Utkarsh Portal - KSPG India</title>
 
     <!-- Bootstrap core CSS -->
     <!-- Bootstrap CSS -->
@@ -77,10 +77,10 @@ if (isset($_SESSION["email"])) {
 <div class="container">
 
     <form class="form-signin" method="POST" action="login_script.php">
-        <h2 class="form-signin-heading">Please sign in</h2>
-        <label for="inputEmail" class="sr-only">Email address</label>
+        <h2 class="form-signin-heading">Utkarsh Portal</h2>
+        <label for="inputEmail" class="sr-only">Enter you E-mail ID here</label>
         <input type="email" name="email" id="inputEmail" class="form-control" placeholder="Email address" required autofocus>
-        <label for="inputPassword" class="sr-only">Password</label>
+        <label for="inputPassword" class="sr-only">Enter Password Here</label>
         <input type="password" name="password" id="inputPassword" class="form-control" placeholder="Password" required>
         <button class="btn btn-lg btn-primary btn-block" type="submit" name="submit">Sign in</button>
     </form>
