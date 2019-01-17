@@ -4,6 +4,7 @@ session_start();
 if (!isset($_SESSION["email"])) {
     header("Location:index.php");
 }
+header("Refresh:0");
 
 ?>
 <!DOCTYPE html>
