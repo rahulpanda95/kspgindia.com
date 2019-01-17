@@ -17,11 +17,13 @@ if (isset($_POST["submit"])) {
 
     } else {
         // Fetch user details
-        $result = mysqli_query($dbconx,"SELECT email FROM rahulpan_kspg.emp_credentials WHERE email='$email' and password = '$password' LIMIT 1");
+        $result = mysqli_query($dbconx,"SELECT empid,email FROM rahulpan_kspg.emp_credentials WHERE email='$email' and password = '$password' LIMIT 1");
         if (mysqli_num_rows($result)>0) {
             // Create Sessions and redirect user to homepage
             $_SESSION["email"] = $email;
-
+            $_SESSION["empid"] = $empid;
+            $result2 = mysqli_query($dbconx,"SELECT Name FROM rahulpan_kspg.emp_loyalty WHERE empid='$empid' LIMIT 1");
+            $_SESSION["Name"] = $Name;
             header("Location:portal.php");
         } else {
             echo "User Not Found Try Again";
