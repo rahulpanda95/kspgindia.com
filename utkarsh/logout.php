@@ -2,5 +2,5 @@
 session_start();
 unset($_SESSION["email"]);
 session_destroy();
-header("Location:Login.php");
+header("Location:login.php");
 ?>
