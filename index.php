@@ -158,7 +158,7 @@
                                         </ul>
                                     </div>
                                 </li>
-                                <li><a href="https://kspgindia.com/index.php?page=our_team">Our Team</a></li>
+                                <li><a href="https://kspgindia.com/our_team">Our Team</a></li>
                                 <li><a href="#">Discover</a>
                                     <ul class="dropdown">
                                         <li><a href="#">Envision the Next</a>
@@ -176,7 +176,7 @@
                                         <li><a href="contact.html">Contact</a></li> -->
                                     </ul>
                                 </li>
-                                <li><a href="https://www.kspgindia.com/index.php?page=reach_us">Reach Us</a></li>
+                                <li><a href="https://www.kspgindia.com/reach_us">Reach Us</a></li>
 
                             </ul>
 
