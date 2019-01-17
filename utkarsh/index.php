@@ -3,7 +3,7 @@
 session_start();
 // If Session not set send user to login page
 if (isset($_SESSION["email"])) {
-    header("Location:Home.php");
+    header("Location:home.php");
 }
 ?>
 <!DOCTYPE html>
