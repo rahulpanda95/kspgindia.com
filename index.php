@@ -285,7 +285,10 @@
 $page = $_GET["page"];
 $search_term = $GET["search-terms"];
 include ($_SERVER['DOCUMENT_ROOT']."/pages/".$page.".php");
-
+if(empty($_REQUEST['page']))
+{
+    include ($_SERVER['DOCUMENT_ROOT']."/pages/home.php");
+}
 $ip = $ip = $_SERVER['REMOTE_ADDR'];
 
 $date = date_default_timezone_set('Asia/Kolkata');

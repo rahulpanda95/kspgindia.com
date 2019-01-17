@@ -1,51 +1,120 @@
-<!DOCTYPE html>
-<html lang="en">
+<?php
+ob_start();
+session_start();
+?>
+
+<?
+// error_reporting(E_ALL);
+// ini_set("display_errors", 1);
+?>
+
+<html lang = "en">
+
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link rel="stylesheet" href="css/bootstrap.css">
-    <title>Utkarsh - KSPG India</title>
+    <title>Tutorialspoint.com</title>
+    <link href = "css/bootstrap.min.css" rel = "stylesheet">
+
+    <style>
+        body {
+            padding-top: 40px;
+            padding-bottom: 40px;
+            background-color: #ADABAB;
+        }
+
+        .form-signin {
+            max-width: 330px;
+            padding: 15px;
+            margin: 0 auto;
+            color: #017572;
+        }
+
+        .form-signin .form-signin-heading,
+        .form-signin .checkbox {
+            margin-bottom: 10px;
+        }
+
+        .form-signin .checkbox {
+            font-weight: normal;
+        }
+
+        .form-signin .form-control {
+            position: relative;
+            height: auto;
+            -webkit-box-sizing: border-box;
+            -moz-box-sizing: border-box;
+            box-sizing: border-box;
+            padding: 10px;
+            font-size: 16px;
+        }
+
+        .form-signin .form-control:focus {
+            z-index: 2;
+        }
+
+        .form-signin input[type="email"] {
+            margin-bottom: -1px;
+            border-bottom-right-radius: 0;
+            border-bottom-left-radius: 0;
+            border-color:#017572;
+        }
+
+        .form-signin input[type="password"] {
+            margin-bottom: 10px;
+            border-top-left-radius: 0;
+            border-top-right-radius: 0;
+            border-color:#017572;
+        }
+
+        h2{
+            text-align: center;
+            color: #017572;
+        }
+    </style>
+
 </head>
-<body style="background:#CCC;">
 
-<div class="container">
-    <div class="row">
-        <div class="col-lg-6 m-auto">
-            <div class="card bg-dark mt-5">
-                <div class="card-title bg-primary text-white mt-5">
-                    <h3 class="text-center py-3">Login Form in PHP </h3>
-                </div>
+<body>
 
-                <?php
-                if(@$_GET['Empty']==true)
-                {
-                    ?>
-                    <div class="alert-light text-danger text-center py-3"><?php echo $_GET['Empty'] ?></div>
-                    <?php
-                }
-                ?>
+<h2>Enter Username and Password</h2>
+<div class = "container form-signin">
 
+    <?php
+    $msg = '';
 
-                <?php
-                if(@$_GET['Invalid']==true)
-                {
-                    ?>
-                    <div class="alert-light text-danger text-center py-3"><?php echo $_GET['Invalid'] ?></div>
-                    <?php
-                }
-                ?>
+    if (isset($_POST['login']) && !empty($_POST['username'])
+        && !empty($_POST['password'])) {
 
-                <div class="card-body">
-                    <form action="process.php" method="post">
-                        <input type="text" name="UName" placeholder=" User Name" class="form-control mb-3">
-                        <input type="password" name="Password" placeholder=" Password" class="form-control mb-3">
-                        <button class="btn btn-success mt-3" name="Login">Login</button>
-                    </form>
-                </div>
-            </div>
-        </div>
-    </div>
+        if ($_POST['username'] == 'tutorialspoint' &&
+            $_POST['password'] == '1234') {
+            $_SESSION['valid'] = true;
+            $_SESSION['timeout'] = time();
+            $_SESSION['username'] = 'tutorialspoint';
+
+            echo 'You have entered valid use name and password';
+        }else {
+            $msg = 'Wrong username or password';
+        }
+    }
+    ?>
+</div> <!-- /container -->
+
+<div class = "container">
+
+    <form class = "form-signin" role = "form"
+          action = "<?php echo htmlspecialchars($_SERVER['PHP_SELF']);
+          ?>" method = "post">
+        <h4 class = "form-signin-heading"><?php echo $msg; ?></h4>
+        <input type = "text" class = "form-control"
+               name = "username" placeholder = "username = tutorialspoint"
+               required autofocus></br>
+        <input type = "password" class = "form-control"
+               name = "password" placeholder = "password = 1234" required>
+        <button class = "btn btn-lg btn-primary btn-block" type = "submit"
+                name = "login">Login</button>
+    </form>
+
+    Click here to clean <a href = "logout.php" tite = "Logout">Session.
+
 </div>
 
 </body>
