@@ -2794,3 +2794,21 @@
 [17-Jan-2019 13:24:38 Etc/GMT] PHP Notice:  Undefined variable: GET in /home/rahulpan/public_html/kspgindia.com/index.php on line 286
 [17-Jan-2019 13:24:38 Etc/GMT] PHP Stack trace:
 [17-Jan-2019 13:24:38 Etc/GMT] PHP   1. {main}() /home/rahulpan/public_html/kspgindia.com/index.php:0
+[17-Jan-2019 13:28:50 Etc/GMT] PHP Notice:  Undefined variable: GET in /home/rahulpan/public_html/kspgindia.com/index.php on line 286
+[17-Jan-2019 13:28:50 Etc/GMT] PHP Stack trace:
+[17-Jan-2019 13:28:50 Etc/GMT] PHP   1. {main}() /home/rahulpan/public_html/kspgindia.com/index.php:0
+[17-Jan-2019 13:28:56 Etc/GMT] PHP Notice:  Undefined index: page in /home/rahulpan/public_html/kspgindia.com/index.php on line 285
+[17-Jan-2019 13:28:56 Etc/GMT] PHP Stack trace:
+[17-Jan-2019 13:28:56 Etc/GMT] PHP   1. {main}() /home/rahulpan/public_html/kspgindia.com/index.php:0
+[17-Jan-2019 13:28:56 Etc/GMT] PHP Notice:  Undefined variable: GET in /home/rahulpan/public_html/kspgindia.com/index.php on line 286
+[17-Jan-2019 13:28:56 Etc/GMT] PHP Stack trace:
+[17-Jan-2019 13:28:56 Etc/GMT] PHP   1. {main}() /home/rahulpan/public_html/kspgindia.com/index.php:0
+[17-Jan-2019 13:29:07 Etc/GMT] PHP Notice:  Undefined variable: GET in /home/rahulpan/public_html/kspgindia.com/index.php on line 286
+[17-Jan-2019 13:29:07 Etc/GMT] PHP Stack trace:
+[17-Jan-2019 13:29:07 Etc/GMT] PHP   1. {main}() /home/rahulpan/public_html/kspgindia.com/index.php:0
+[17-Jan-2019 13:29:10 Etc/GMT] PHP Notice:  Undefined variable: GET in /home/rahulpan/public_html/kspgindia.com/index.php on line 286
+[17-Jan-2019 13:29:10 Etc/GMT] PHP Stack trace:
+[17-Jan-2019 13:29:10 Etc/GMT] PHP   1. {main}() /home/rahulpan/public_html/kspgindia.com/index.php:0
+[17-Jan-2019 13:29:12 Etc/GMT] PHP Notice:  Undefined variable: GET in /home/rahulpan/public_html/kspgindia.com/index.php on line 286
+[17-Jan-2019 13:29:12 Etc/GMT] PHP Stack trace:
+[17-Jan-2019 13:29:12 Etc/GMT] PHP   1. {main}() /home/rahulpan/public_html/kspgindia.com/index.php:0
