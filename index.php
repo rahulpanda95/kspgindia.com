@@ -108,7 +108,7 @@
                 <nav class="classy-navbar justify-content-between" id="viralnewsNav">
 
                     <!-- Logo -->
-                    <a class="nav-brand" href="https://kspgindia.com/index.php?page=home"><img src="img/core-img/kspg_india_logo.png" alt="KSPG India Logo" height="100" width="100"></a>
+                    <a class="nav-brand" href="https://kspgindia.com/"><img src="img/core-img/kspg_india_logo.png" alt="KSPG India Logo" height="100" width="100"></a>
 
                     <!-- Navbar Toggler -->
                     <div class="classy-navbar-toggler">
@@ -126,26 +126,26 @@
                         <!-- Nav Start -->
                         <div class="classynav">
                             <ul>
-                                <li class="active"><a href="https://kspgindia.com/index.php?page=home">Where We Stand</a></li>
+                                <li class="active"><a href="https://kspgindia.com/">Where We Stand</a></li>
                                 <li><a href="#">Industries</a>
                                     <div class="megamenu">
                                         <ul class="single-mega cn-col-4">
-                                            <li><a href="https://kspgindia.com/index.php?page=ks_homemade_products"><p style="color: #2d5f9a"><strong>KS Home-made Products</strong></p></a></li>
-                                            <li><a href="https://kspgindia.com/index.php?page=ks_hmp_products">Products</a></li>
-                                            <li><a href="https://kspgindia.com/index.php?page=ks_hmp_health_tips">Health Tips</a></li>
-                                            <li><a href="https://kspgindia.com/index.php?page=ks_homemade_products">Place Orders</a></li>
-                                            <li><a href="https://kspgindia.com/index.php?page=ks_homemade_products">Enroll as Distributor</a></li>
+                                            <li><a href="https://kspgindia.com/ks_homemade_products"><p style="color: #2d5f9a"><strong>KS Home-made Products</strong></p></a></li>
+                                            <li><a href="https://kspgindia.com/ks_hmp_products">Products</a></li>
+                                            <li><a href="https://kspgindia.com/ks_hmp_health_tips">Health Tips</a></li>
+                                            <li><a href="https://kspgindia.com/ks_homemade_products">Place Orders</a></li>
+                                            <li><a href="https://kspgindia.com/ks_homemade_products">Enroll as Distributor</a></li>
                                         </ul>
                                         <ul class="single-mega cn-col-4">
-                                            <li><a href="https://www.kspgindia.com/index.php?page=kspg_publication"><p style="color: #2d5f9a"><strong>KSPG Publication</strong></p></a></li>
-                                            <li><a href="https://kspgindia.com/index.php?page=kspg_publication_books">Books</a></li>
-                                            <li><a href="https://kspgindia.com/index.php?page=home">Authors</a></li>
-                                            <li><a href="https://kspgindia.com/index.php?page=home">Place Orders</a></li>
-                                            <li><a href="https://kspgindia.com/index.php?page=home">Publish with Us</a></li>
-                                            <li><a href="https://kspgindia.com/index.php?page=home">Enroll as Distributor</a></li>
+                                            <li><a href="https://www.kspgindia.com/kspg_publication"><p style="color: #2d5f9a"><strong>KSPG Publication</strong></p></a></li>
+                                            <li><a href="https://kspgindia.com/kspg_publication_books">Books</a></li>
+                                            <li><a href="https://kspgindia.com/">Authors</a></li>
+                                            <li><a href="https://kspgindia.com/">Place Orders</a></li>
+                                            <li><a href="https://kspgindia.com/">Publish with Us</a></li>
+                                            <li><a href="https://kspgindia.com/">Enroll as Distributor</a></li>
                                         </ul>
                                         <ul class="single-mega cn-col-4">
-                                            <li><a href="https://kspgindia.com/index.php?page=ks_media_group"><p style="color: #2d5f9a"><strong>KS Media Group</strong></p></a></li>
+                                            <li><a href="https://kspgindia.com/ks_media_group"><p style="color: #2d5f9a"><strong>KS Media Group</strong></p></a></li>
                                             <li><a href="https://youtube.com/c/kspgindia" target="_blank">YouTube Channel</a></li>
                                             <li><a href="https://www.youtube.com/watch?v=hqLSOHj6rRU&list=PLVc6F6db-kZBkGkj6ImYmdqD_6kshZHu5" target="_blank">Sarita Videos</a></li>
                                         </ul>
@@ -344,7 +344,7 @@ $conn->close();
                     <div class="footer-widget-area">
                         <!-- Footer Logo -->
                         <div class="footer-logo">
-                            <a href="https://kspgindia.com/index.php?page=home"><img src="img/core-img/kspg_india_logo.png" alt="KSPG India Logo" height="75" width="75"></a>
+                            <a href="https://kspgindia.com/"><img src="img/core-img/kspg_india_logo.png" alt="KSPG India Logo" height="75" width="75"></a>
                         </div>
                         <!-- Footer Nav -->
                         <div class="footer-nav">
@@ -359,7 +359,7 @@ $conn->close();
                                 <li><a href="https://www.facebook.com/kspgindia/" target="_blank">Facebook</a></li>
                                 <li><a href="#">Career</a></li>
                                 <li><a href="https://www.linkedin.com/company/kspgindia" target="_blank">LinkedIn</a></li>
-                                <li><a href="https://www.kspgindia.com/index.php?page=reach_us">Reach Us</a></li>
+                                <li><a href="https://www.kspgindia.com/reach_us">Reach Us</a></li>
                                 <li><a href="#">Events</a></li>
                             </ul>
                         </div>
