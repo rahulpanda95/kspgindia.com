@@ -27,12 +27,13 @@ if (!isset($_SESSION["email"])) {
     <style type="text/css">
 
         button {
-            line-height: 12px;
-            width: 500px;
+            line-height: 14px;
+            width: 200px;
+            height: 50px;
             font-size: 8pt;
             font-family: tahoma;
-            margin-top: 1px;
-            margin-left: 2px;
+            margin-top: 10px;
+            margin-right: 5%;
         }
 
 
