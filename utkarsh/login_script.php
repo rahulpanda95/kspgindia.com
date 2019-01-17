@@ -22,7 +22,7 @@ if (isset($_POST["submit"])) {
             // Create Sessions and redirect user to homepage
             $_SESSION["email"] = $email;
 
-            header("Location:home.php");
+            header("Location:portal.php");
         } else {
             echo "User Not Found Try Again";
             exit();
