@@ -21,9 +21,6 @@ if (isset($_POST["submit"])) {
         if (mysqli_num_rows($result)>0) {
             // Create Sessions and redirect user to homepage
             $_SESSION["email"] = $email;
-            $_SESSION["empid"] = $empid;
-            $result2 = mysqli_query($dbconx,"SELECT Name FROM rahulpan_kspg.emp_loyalty WHERE empid='$empid' LIMIT 1");
-            $_SESSION["Name"] = $Name;
             header("Location:portal.php");
         } else {
             echo "User Not Found Try Again";

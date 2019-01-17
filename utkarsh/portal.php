@@ -44,6 +44,7 @@ if (!isset($_SESSION["email"])) {
     </style>
 </head>
 <body>
+
 <header class="header-area">
     <div class="viral-news-main-menu" id="stickyMenu">
         <div class="classy-nav-container breakpoint-off">
@@ -70,7 +71,7 @@ if (!isset($_SESSION["email"])) {
                         <!-- Nav Start -->
                         <div class="classynav">
                             <ul>
-                                <li class="active"><a href="#">Profile - <?php echo $_SESSION["empid"]; ?></a></li>
+                                <li class="active"><a href="#">Profile - <?php echo $_SESSION["email"]; ?></a></li>
                                 <li><a href="#">Attendance</a></li>
                             </ul>
 
@@ -97,9 +98,7 @@ if (!isset($_SESSION["email"])) {
 <!-- ##### Header Area End ##### -->
 <div>
 <!--<button onclick="window.location.href='logout.php'" name="logout" >Log Out</button>-->
-<h1 class="text-center">Welcome <?php echo $_SESSION["email"]; ?></h1>
-    <h1 class="text-center">Welcome <?php echo $_SESSION["empid"]; ?></h1>
-    <h1 class="text-center">Welcome <?php echo $_SESSION["Name"]; ?></h1>
+<!--<h1 class="text-center">Welcome --><?php //echo $_SESSION["email"]; ?><!--</h1>-->
 <!--<p class="text-center"><a href="logout.php" >Click Here to logout</a></p>-->
 
 
