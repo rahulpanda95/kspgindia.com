@@ -82,7 +82,6 @@ if (isset($_SESSION["email"])) {
         <input type="email" name="email" id="inputEmail" class="form-control" placeholder="Email address" required autofocus>
         <label for="inputPassword" class="sr-only">Password</label>
         <input type="password" name="password" id="inputPassword" class="form-control" placeholder="Password" required>
-        <p class="pull-right"><a href="register.php"> Click Here To Register</a></p>
         <button class="btn btn-lg btn-primary btn-block" type="submit" name="submit">Sign in</button>
     </form>
 
