@@ -71,7 +71,7 @@ if (!isset($_SESSION["email"])) {
                         <!-- Nav Start -->
                         <div class="classynav">
                             <ul>
-                                <li class="active"><a href="#">Profile - <?php echo $_SESSION["email"]; ?></a></li>
+                                <li class="active" style="color: #3189e1"><a href="#">Welcome - <?php echo $_SESSION["email"]; ?></a></li>
                                 <li><a href="#">Attendance</a></li>
                             </ul>
 
