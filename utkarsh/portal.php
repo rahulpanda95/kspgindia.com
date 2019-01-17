@@ -98,6 +98,8 @@ if (!isset($_SESSION["email"])) {
 <div>
 <!--<button onclick="window.location.href='logout.php'" name="logout" >Log Out</button>-->
 <h1 class="text-center">Welcome <?php echo $_SESSION["email"]; ?></h1>
+    <h1 class="text-center">Welcome <?php echo $_SESSION["empid"]; ?></h1>
+    <h1 class="text-center">Welcome <?php echo $_SESSION["Name"]; ?></h1>
 <!--<p class="text-center"><a href="logout.php" >Click Here to logout</a></p>-->
 
 
