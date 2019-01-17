@@ -14,7 +14,7 @@
 
 
     <!-- Favicon -->
-    <link rel="icon" href="https://kspgindia.com">
+    <link rel="icon" href="img/core-img/favicon.ico">
 
     <!-- Core Stylesheet -->
     <link rel="stylesheet" href="style.css">
