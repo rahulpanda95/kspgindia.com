@@ -70,58 +70,8 @@ if (!isset($_SESSION["email"])) {
                         <!-- Nav Start -->
                         <div class="classynav">
                             <ul>
-                                <li class="active"><a href="https://kspgindia.com/">Where We Stand</a></li>
-                                <li><a href="#">Industries</a>
-                                    <div class="megamenu">
-                                        <ul class="single-mega cn-col-4">
-                                            <li><a href="https://kspgindia.com/ks_homemade_products"><p style="color: #2d5f9a"><strong>KS Home-made Products</strong></p></a></li>
-                                            <li><a href="https://kspgindia.com/ks_hmp_products">Products</a></li>
-                                            <li><a href="https://kspgindia.com/ks_hmp_health_tips">Health Tips</a></li>
-                                            <li><a href="https://kspgindia.com/ks_homemade_products">Place Orders</a></li>
-                                            <li><a href="https://kspgindia.com/ks_homemade_products">Enroll as Distributor</a></li>
-                                        </ul>
-                                        <ul class="single-mega cn-col-4">
-                                            <li><a href="https://www.kspgindia.com/kspg_publication"><p style="color: #2d5f9a"><strong>KSPG Publication</strong></p></a></li>
-                                            <li><a href="https://kspgindia.com/kspg_publication_books">Books</a></li>
-                                            <li><a href="https://kspgindia.com/">Authors</a></li>
-                                            <li><a href="https://kspgindia.com/">Place Orders</a></li>
-                                            <li><a href="https://kspgindia.com/">Publish with Us</a></li>
-                                            <li><a href="https://kspgindia.com/">Enroll as Distributor</a></li>
-                                        </ul>
-                                        <ul class="single-mega cn-col-4">
-                                            <li><a href="https://kspgindia.com/ks_media_group"><p style="color: #2d5f9a"><strong>KS Media Group</strong></p></a></li>
-                                            <li><a href="https://youtube.com/c/kspgindia" target="_blank">YouTube Channel</a></li>
-                                            <li><a href="https://www.youtube.com/watch?v=hqLSOHj6rRU&list=PLVc6F6db-kZBkGkj6ImYmdqD_6kshZHu5" target="_blank">Sarita Videos</a></li>
-                                        </ul>
-                                        <ul class="single-mega cn-col-4">
-                                            <li><p>Section to be disclosed soon</p></li>
-                                            <!-- <li><a href="catagory.html">Catagories</a></li>
-                                            <li><a href="single-post.html">Single Article</a></li>
-                                            <li><a href="quize-article.html">Quize Article</a></li>
-                                            <li><a href="contact.html">Contact</a></li> -->
-                                        </ul>
-                                    </div>
-                                </li>
-                                <li><a href="https://kspgindia.com/our_team">Our Team</a></li>
-                                <li><a href="#">Discover</a>
-                                    <ul class="dropdown">
-                                        <li><a href="#">Envision the Next</a>
-                                            <ul class="dropdown">
-                                                <li><p>Section under Construction</p></li>
-                                                <!-- <li><a href="single-post.html">Single Article</a></li>
-                                                <li><a href="quize-article.html">Quize Article</a></li>
-                                                <li><a href="contact.html">Contact</a></li> -->
-                                            </ul>
-                                        </li>
-                                        <li><a href="https://www.rediffmailpro.com/cgi-bin/login.cgi" target="_blank">Employee Mail</a></li>
-                                        <li><a href="https://workplace.facebook.com/login/" target="_blank">KSPG Workplace</a></li>
-                                        <li><a href="http://webex.kspgindia.com" target="_blank">Webex Meetings</a></li>
-                                        <!-- <li><a href="quize-article.html">Reach Us</a></li>
-                                        <li><a href="contact.html">Contact</a></li> -->
-                                    </ul>
-                                </li>
-                                <li><a href="https://www.kspgindia.com/reach_us">Reach Us</a></li>
-
+                                <li class="active"><a href="#">Profile</a></li>
+                                <li><a href="#">Attendance</a></li>
                             </ul>
 
                             <!-- Search Button -->
@@ -139,7 +89,7 @@ if (!isset($_SESSION["email"])) {
 
                             <!-- Video Post Button -->
                             <div class="add-post-button">
-                                <a href="logout.php" target="_blank" class="btn add-post-btn">Log Out</a>
+                                <a href="logout.php" class="btn add-post-btn">Log Out</a>
                             </div>
 
                         </div>
@@ -152,9 +102,9 @@ if (!isset($_SESSION["email"])) {
 </header>
 <!-- ##### Header Area End ##### -->
 <div>
-<button onclick="window.location.href='logout.php'" name="logout" >Log Out</button>
+<!--<button onclick="window.location.href='logout.php'" name="logout" >Log Out</button>-->
 <h1 class="text-center">Welcome <?php echo $_SESSION["email"]; ?></h1>
-<p class="text-center"><a href="logout.php" >Click Here to logout</a></p>
+<!--<p class="text-center"><a href="logout.php" >Click Here to logout</a></p>-->
 
 
 <!-- jQuery -->
