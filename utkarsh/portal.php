@@ -70,7 +70,7 @@ if (!isset($_SESSION["email"])) {
                         <!-- Nav Start -->
                         <div class="classynav">
                             <ul>
-                                <li class="active"><a href="#">Profile</a></li>
+                                <li class="active"><a href="#">Profile - <?php echo $_SESSION["email"]; ?></a></li>
                                 <li><a href="#">Attendance</a></li>
                             </ul>
 
@@ -79,7 +79,7 @@ if (!isset($_SESSION["email"])) {
                                 <i id="searchbtn" class="fa fa-search" aria-hidden="true"></i>
                             </div>
 
-                            
+
 
                             <!-- Video Post Button -->
                             <div class="add-post-button">
