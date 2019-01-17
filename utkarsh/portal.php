@@ -81,7 +81,7 @@ if (!isset($_SESSION["email"])) {
 <p class="text-center"><a href="logout.php" >Click Here to logout</a></p>
 
 <div class="container" size="500px">
-    <button class="btn btn-lg btn-primary btn-block" onclick="window.location.href='logout.php'" name="logout">Log Out</button>
+    <button onclick="window.location.href='logout.php'" name="logout">Log Out</button>
 </div>
 
 <!-- jQuery -->
