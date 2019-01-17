@@ -217,14 +217,14 @@
                     <!-- Single Blog Post -->
                     <div class="single-blog-post d-flex align-items-center mb-50">
                         <div class="post-thumb">
-                            <a href="https://kspgindia.com/index.php?page=ks_homemade_products"><img src="img/core-img/ks_home_made_products with_border.png" alt="" height="72px" width="72px"></a>
+                            <a href="https://kspgindia.com/ks_homemade_products"><img src="img/core-img/ks_home_made_products with_border.png" alt="" height="72px" width="72px"></a>
                         </div>
                         <div class="post-data">
-                            <a href="https://kspgindia.com/index.php?page=ks_homemade_products" class="post-title">
+                            <a href="https://kspgindia.com/ks_homemade_products" class="post-title">
                                 <h6 style="color: #005cbf">KS Home-made Products Launch Event is scheduled on 20th January, 2019.</h6>
                             </a>
                             <div class="post-meta">
-                                <p class="post-date"><a href="https://kspgindia.com/index.php?page=ks_homemade_products">See More</a></p>
+                                <p class="post-date"><a href="https://kspgindia.com/ks_homemade_products">See More</a></p>
                             </div>
                         </div>
                     </div>
@@ -232,14 +232,14 @@
                     <!-- Single Blog Post -->
                     <div class="single-blog-post d-flex align-items-center mb-50">
                         <div class="post-thumb">
-                            <a href="https://kspgindia.com/index.php?page=home"><img src="img/core-img/kspg_india_full_logo_transparent_background.png" alt="KSPG India Logo"></a>
+                            <a href="https://kspgindia.com/home"><img src="img/core-img/kspg_india_full_logo_transparent_background.png" alt="KSPG India Logo"></a>
                         </div>
                         <div class="post-data">
-                            <a href="https://kspgindia.com/index.php?page=home" class="post-title">
+                            <a href="https://kspgindia.com/home" class="post-title">
                                 <h6 style="color: #1e7e34;">Welcome to KSPG India Official Website. Our Mission and Vision are...</h6>
                             </a>
                             <div class="post-meta">
-                                <p class="post-date"><a href="https://kspgindia.com/index.php?page=home">See More</a></p>
+                                <p class="post-date"><a href="https://kspgindia.com/home">See More</a></p>
                             </div>
                         </div>
                     </div>
@@ -247,14 +247,14 @@
                     <!-- Single Blog Post -->
                     <div class="single-blog-post d-flex align-items-center mb-50">
                         <div class="post-thumb">
-                            <a href="https://kspgindia.com/index.php?page=kspg_publication"><img src="img/core-img/kspg_publication_with_border.png" alt=""></a>
+                            <a href="https://kspgindia.com/kspg_publication"><img src="img/core-img/kspg_publication_with_border.png" alt=""></a>
                         </div>
                         <div class="post-data">
-                            <a href="https://kspgindia.com/index.php?page=kspg_publication" class="post-title">
+                            <a href="https://kspgindia.com/kspg_publication" class="post-title">
                                 <h6 style="color: #e1395a">Introducing KSPG Publications, a new line of affordable books on Healthcare, Fictional Stories, etc.</h6>
                             </a>
                             <div class="post-meta">
-                                <p class="post-date"><a href="https://kspgindia.com/index.php?page=kspg_publication">See More</a></p>
+                                <p class="post-date"><a href="https://kspgindia.com/kspg_publication">See More</a></p>
                             </div>
                         </div>
                     </div>
@@ -262,14 +262,14 @@
                     <!-- Single Blog Post -->
                     <div class="single-blog-post d-flex align-items-center mb-50">
                         <div class="post-thumb">
-                            <a href="https://kspgindia.com/index.php?page=ks_media_group"><img src="img/core-img/ks_media_group_with_border.png" alt=""></a>
+                            <a href="https://kspgindia.com/ks_media_group"><img src="img/core-img/ks_media_group_with_border.png" alt=""></a>
                         </div>
                         <div class="post-data">
-                            <a href="https://kspgindia.com/index.php?page=ks_media_group" class="post-title">
+                            <a href="https://kspgindia.com/ks_media_group" class="post-title">
                                 <h6 style="color: #e1720d">KS Media Group, our multimedia platform to motivate hidden talents in Artists.</h6>
                             </a>
                             <div class="post-meta">
-                                <p class="post-date"><a href="https://kspgindia.com/index.php?page=ks_media_group">See More</a></p>
+                                <p class="post-date"><a href="https://kspgindia.com/ks_media_group">See More</a></p>
                             </div>
                         </div>
                     </div>

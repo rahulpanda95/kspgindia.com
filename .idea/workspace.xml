@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c3d62e4d-e388-40a3-826b-891fb42b49c2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.htaccess" beforeDir="false" afterPath="$PROJECT_DIR$/.htaccess" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
@@ -16,8 +17,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="356">
-              <caret line="25" column="49" lean-forward="true" selection-start-line="25" selection-start-column="49" selection-end-line="25" selection-end-column="49" />
+            <state relative-caret-position="-53">
+              <caret line="271" column="84" selection-start-line="271" selection-start-column="84" selection-end-line="271" selection-end-column="84" />
             </state>
           </provider>
         </entry>
@@ -27,6 +28,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>li</find>
+      <find>favi</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -53,6 +55,7 @@
         <option value="$PROJECT_DIR$/utkarsh/config.php" />
         <option value="$PROJECT_DIR$/utkarsh/logout.php" />
         <option value="$PROJECT_DIR$/utkarsh/index.php" />
+        <option value="$PROJECT_DIR$/.htaccess" />
         <option value="$PROJECT_DIR$/index.php" />
       </list>
     </option>
@@ -68,8 +71,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -86,6 +87,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -133,18 +136,20 @@
       <workItem from="1547349411959" duration="3180000" />
       <workItem from="1547532326326" duration="956000" />
       <workItem from="1547535329666" duration="692000" />
-      <workItem from="1547724480095" duration="1145000" />
+      <workItem from="1547724480095" duration="1471000" />
+      <workItem from="1547728117085" duration="472000" />
+      <workItem from="1547731218660" duration="146000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29360000" />
+    <option name="totallyTimeSpent" value="30304000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="808" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2639485" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27110156" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -308,10 +313,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="44" lean-forward="true" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="356">
-          <caret line="25" column="49" lean-forward="true" selection-start-line="25" selection-start-column="49" selection-end-line="25" selection-end-column="49" />
+        <state relative-caret-position="-53">
+          <caret line="271" column="84" selection-start-line="271" selection-start-column="84" selection-end-line="271" selection-end-column="84" />
         </state>
       </provider>
     </entry>
