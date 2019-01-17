@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c3d62e4d-e388-40a3-826b-891fb42b49c2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/utkarsh/home.php" beforeDir="false" afterPath="$PROJECT_DIR$/utkarsh/home.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utkarsh/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/utkarsh/index.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,8 +16,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/utkarsh/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="370">
-              <caret line="83" column="119" selection-start-line="83" selection-start-column="119" selection-end-line="83" selection-end-column="119" />
+            <state relative-caret-position="75">
+              <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -25,8 +25,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/utkarsh/login_script.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="33" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="33" />
+            <state relative-caret-position="315">
+              <caret line="21" column="60" lean-forward="true" selection-start-line="21" selection-start-column="60" selection-end-line="21" selection-end-column="60" />
             </state>
           </provider>
         </entry>
@@ -35,7 +35,7 @@
         <entry file="file://$PROJECT_DIR$/utkarsh/home.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
-              <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+              <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -89,8 +89,8 @@
         <option value="$PROJECT_DIR$/.htaccess" />
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/utkarsh/logout.php" />
-        <option value="$PROJECT_DIR$/utkarsh/index.php" />
         <option value="$PROJECT_DIR$/utkarsh/login_script.php" />
+        <option value="$PROJECT_DIR$/utkarsh/index.php" />
         <option value="$PROJECT_DIR$/utkarsh/home.php" />
       </list>
     </option>
@@ -129,7 +129,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547733105419" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547733284455" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -173,12 +173,12 @@
       <workItem from="1547535329666" duration="692000" />
       <workItem from="1547724480095" duration="1471000" />
       <workItem from="1547728117085" duration="472000" />
-      <workItem from="1547731218660" duration="1524000" />
+      <workItem from="1547731218660" duration="1703000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31682000" />
+    <option name="totallyTimeSpent" value="31861000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="808" extended-state="0" />
@@ -360,22 +360,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/utkarsh/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="370">
-          <caret line="83" column="119" selection-start-line="83" selection-start-column="119" selection-end-line="83" selection-end-column="119" />
+        <state relative-caret-position="75">
+          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/utkarsh/login_script.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="33" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="33" />
+        <state relative-caret-position="315">
+          <caret line="21" column="60" lean-forward="true" selection-start-line="21" selection-start-column="60" selection-end-line="21" selection-end-column="60" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/utkarsh/home.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
-          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
         </state>
       </provider>
     </entry>
