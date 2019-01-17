@@ -139,7 +139,7 @@ if (!isset($_SESSION["email"])) {
 
                             <!-- Video Post Button -->
                             <div class="add-post-button">
-                                <a href="https://www.facebook.com/kspgindia/" target="_blank" class="btn add-post-btn">KSPG India @Facebook</a>
+                                <a href="logout.php" target="_blank" class="btn add-post-btn">Log Out</a>
                             </div>
 
                         </div>
