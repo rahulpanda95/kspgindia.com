@@ -70,7 +70,7 @@ if (!isset($_SESSION["email"])) {
                         <!-- Nav Start -->
                         <div class="classynav">
                             <ul>
-                                <li class="active"><a href="#">Profile - <?php echo $_SESSION["Name"]; ?></a></li>
+                                <li class="active"><a href="#">Profile - <?php echo $_SESSION["empid"]; ?></a></li>
                                 <li><a href="#">Attendance</a></li>
                             </ul>
 
