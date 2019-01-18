@@ -89,7 +89,7 @@ if (isset($_SESSION["email"])) {
         <input type="email" name="email" id="inputEmail" class="form-control" placeholder="Email address" required autofocus>
         <label for="inputPassword" class="sr-only">Enter Password Here</label>
         <input type="password" name="password" id="inputPassword" class="form-control" placeholder="Password" required>
-        <button class="btn add-post-btn" type="submit" name="submit">Log in</button>
+        <div align="center"><button class="btn add-post-btn" type="submit" name="submit">Log in</button></div>
     </form>
 
 </div> <!-- /container -->
