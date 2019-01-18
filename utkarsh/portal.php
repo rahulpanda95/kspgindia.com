@@ -55,10 +55,10 @@ if (!isset($_SESSION["email"])) {
                     <!-- Logo -->
                     <a class="nav-brand" href="https://kspgindia.com/"><img src="../img/core-img/kspg_india_logo.png" alt="KSPG India Logo" height="100" width="100"></a>
 
-<!--                    <!-- Navbar Toggler -->-->
-<!--                    <div class="classy-navbar-toggler">-->
-<!--                        <span class="navbarToggler"><span></span><span></span><span></span></span>-->
-<!--                    </div>-->
+                    <!-- Navbar Toggler -->
+                    <div class="classy-navbar-toggler">
+                        <span class="navbarToggler"><span></span><span></span><span></span></span>
+                    </div>
 
                     <!-- Menu -->
                     <div class="classy-menu">
@@ -69,7 +69,7 @@ if (!isset($_SESSION["email"])) {
                         </div>
 
                         <!-- Nav Start -->
-                        <div class="classynav" style="color: #3189e1">
+                        <div class="classynav">
                             <ul>
                                 <li class="active"><a href="#">Welcome - <?php echo $_SESSION["email"]; ?></a></li>
                                 <li><a href="#">Attendance</a></li>
