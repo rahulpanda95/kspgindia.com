@@ -93,7 +93,7 @@ if (!isset($_SESSION["email"])) {
 <!--<button onclick="window.location.href='logout.php'" name="logout" >Log Out</button>-->
 <!--<h1 class="text-center">Welcome --><?php //echo $_SESSION["email"]; ?><!--</h1>-->
 <!--<p class="text-center"><a href="logout.php" >Click Here to logout</a></p>-->
-    <nav class="navbar navbar-inverse">
+    <nav class="navbar navbar-default">
         <div class="container-fluid">
             <div class="navbar-header">
                 <a class="navbar-brand" href="#">WebSiteName</a>
