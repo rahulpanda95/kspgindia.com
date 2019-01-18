@@ -68,7 +68,7 @@ if (!isset($_SESSION["email"])) {
 
                         <!-- Nav Start -->
                         <div class="classynav">
-                            <h4>Welcome - <?php echo $_SESSION["email"]; ?></h4>
+                            <h4>Welcome - <?php echo $_SESSION["email"]; ?></h4><span></span><span></span><span></span></span>
 <!--                            <ul>-->
 <!--                                <li class="active"><a href="#">Welcome - --><?php //echo $_SESSION["email"]; ?><!--</a></li>-->
 <!--                                <li><a href="#">Attendance</a></li>-->
