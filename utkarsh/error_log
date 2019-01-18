@@ -31,3 +31,33 @@
 [17-Jan-2019 14:06:30 Etc/GMT] PHP Notice:  Undefined index: email in /home/rahulpan/public_html/kspgindia.com/utkarsh/portal.php on line 28
 [17-Jan-2019 14:06:30 Etc/GMT] PHP Stack trace:
 [17-Jan-2019 14:06:30 Etc/GMT] PHP   1. {main}() /home/rahulpan/public_html/kspgindia.com/utkarsh/portal.php:0
+[17-Jan-2019 14:22:32 Etc/GMT] PHP Notice:  Undefined index: email in /home/rahulpan/public_html/kspgindia.com/utkarsh/portal.php on line 27
+[17-Jan-2019 14:22:32 Etc/GMT] PHP Stack trace:
+[17-Jan-2019 14:22:32 Etc/GMT] PHP   1. {main}() /home/rahulpan/public_html/kspgindia.com/utkarsh/portal.php:0
+[17-Jan-2019 23:43:10 Etc/GMT] PHP Notice:  Undefined variable: empid in /home/rahulpan/public_html/kspgindia.com/utkarsh/login_script.php on line 24
+[17-Jan-2019 23:43:10 Etc/GMT] PHP Stack trace:
+[17-Jan-2019 23:43:10 Etc/GMT] PHP   1. {main}() /home/rahulpan/public_html/kspgindia.com/utkarsh/login_script.php:0
+[17-Jan-2019 23:43:10 Etc/GMT] PHP Notice:  Undefined variable: empid in /home/rahulpan/public_html/kspgindia.com/utkarsh/login_script.php on line 25
+[17-Jan-2019 23:43:10 Etc/GMT] PHP Stack trace:
+[17-Jan-2019 23:43:10 Etc/GMT] PHP   1. {main}() /home/rahulpan/public_html/kspgindia.com/utkarsh/login_script.php:0
+[17-Jan-2019 23:43:10 Etc/GMT] PHP Notice:  Undefined variable: Name in /home/rahulpan/public_html/kspgindia.com/utkarsh/login_script.php on line 26
+[17-Jan-2019 23:43:10 Etc/GMT] PHP Stack trace:
+[17-Jan-2019 23:43:10 Etc/GMT] PHP   1. {main}() /home/rahulpan/public_html/kspgindia.com/utkarsh/login_script.php:0
+[17-Jan-2019 23:44:46 Etc/GMT] PHP Notice:  Undefined variable: empid in /home/rahulpan/public_html/kspgindia.com/utkarsh/login_script.php on line 24
+[17-Jan-2019 23:44:46 Etc/GMT] PHP Stack trace:
+[17-Jan-2019 23:44:46 Etc/GMT] PHP   1. {main}() /home/rahulpan/public_html/kspgindia.com/utkarsh/login_script.php:0
+[17-Jan-2019 23:44:46 Etc/GMT] PHP Notice:  Undefined variable: empid in /home/rahulpan/public_html/kspgindia.com/utkarsh/login_script.php on line 25
+[17-Jan-2019 23:44:46 Etc/GMT] PHP Stack trace:
+[17-Jan-2019 23:44:46 Etc/GMT] PHP   1. {main}() /home/rahulpan/public_html/kspgindia.com/utkarsh/login_script.php:0
+[17-Jan-2019 23:44:46 Etc/GMT] PHP Notice:  Undefined variable: Name in /home/rahulpan/public_html/kspgindia.com/utkarsh/login_script.php on line 26
+[17-Jan-2019 23:44:46 Etc/GMT] PHP Stack trace:
+[17-Jan-2019 23:44:46 Etc/GMT] PHP   1. {main}() /home/rahulpan/public_html/kspgindia.com/utkarsh/login_script.php:0
+[17-Jan-2019 23:47:08 Etc/GMT] PHP Notice:  Undefined variable: empid in /home/rahulpan/public_html/kspgindia.com/utkarsh/login_script.php on line 24
+[17-Jan-2019 23:47:08 Etc/GMT] PHP Stack trace:
+[17-Jan-2019 23:47:08 Etc/GMT] PHP   1. {main}() /home/rahulpan/public_html/kspgindia.com/utkarsh/login_script.php:0
+[17-Jan-2019 23:47:08 Etc/GMT] PHP Notice:  Undefined variable: empid in /home/rahulpan/public_html/kspgindia.com/utkarsh/login_script.php on line 25
+[17-Jan-2019 23:47:08 Etc/GMT] PHP Stack trace:
+[17-Jan-2019 23:47:08 Etc/GMT] PHP   1. {main}() /home/rahulpan/public_html/kspgindia.com/utkarsh/login_script.php:0
+[17-Jan-2019 23:47:08 Etc/GMT] PHP Notice:  Undefined variable: Name in /home/rahulpan/public_html/kspgindia.com/utkarsh/login_script.php on line 26
+[17-Jan-2019 23:47:08 Etc/GMT] PHP Stack trace:
+[17-Jan-2019 23:47:08 Etc/GMT] PHP   1. {main}() /home/rahulpan/public_html/kspgindia.com/utkarsh/login_script.php:0
