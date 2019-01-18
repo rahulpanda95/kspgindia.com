@@ -68,10 +68,10 @@ if (!isset($_SESSION["email"])) {
 
                         <!-- Nav Start -->
                         <div class="classynav">
-<!--                            <ul>-->
+                            <ul>
                                 <li class="active"><a href="#">Welcome - <?php echo $_SESSION["email"]; ?></a></li>
                                 <li><a href="#">Attendance</a></li>
-<!--                            </ul>-->
+                            </ul>
 
 
                             <!-- Video Post Button -->
