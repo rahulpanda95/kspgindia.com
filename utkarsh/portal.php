@@ -60,14 +60,15 @@ if (!isset($_SESSION["email"])) {
 
                     <!-- Menu -->
                     <div class="classy-menu">
-                        <h4>Welcome - <?php echo $_SESSION["email"]; ?></h4>
+
                         <!-- close btn -->
-<!--                        <div class="classycloseIcon">-->
-<!--                            <div class="cross-wrap"><span class="top"></span><span class="bottom"></span></div>-->
-<!--                        </div>-->
+                        <div class="classycloseIcon">
+                            <div class="cross-wrap"><span class="top"></span><span class="bottom"></span></div>
+                        </div>
 
                         <!-- Nav Start -->
-<!--                        <div class="classynav">-->
+                        <div class="classynav">
+                            <h4>Welcome - <?php echo $_SESSION["email"]; ?></h4>
 <!--                            <ul>-->
 <!--                                <li class="active"><a href="#">Welcome - --><?php //echo $_SESSION["email"]; ?><!--</a></li>-->
 <!--                                <li><a href="#">Attendance</a></li>-->
