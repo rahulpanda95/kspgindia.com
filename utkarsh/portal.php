@@ -45,59 +45,82 @@ if (!isset($_SESSION["email"])) {
 </head>
 <body>
 
-<header class="header-area">
-    <div class="viral-news-main-menu" id="stickyMenu">
-        <div class="classy-nav-container breakpoint-off">
-            <div class="container">
-                <!-- Menu -->
-                <nav class="classy-navbar justify-content-between" id="viralnewsNav">
-
-                    <!-- Logo -->
-                    <a class="nav-brand" href="#"><img src="../img/core-img/kspg_india_logo.png" alt="KSPG India Logo" height="100" width="100"></a>
-
-                    <!-- Navbar Toggler -->
-                    <div class="classy-navbar-toggler">
-                        <span class="navbarToggler"><span></span><span></span><span></span></span>
-                    </div>
-
-                    <!-- Menu -->
-                    <div class="classy-menu">
-
-                        <!-- close btn -->
-                        <div class="classycloseIcon">
-                            <div class="cross-wrap"><span class="top"></span><span class="bottom"></span></div>
-                        </div>
-
-                        <!-- Nav Start -->
-                        <div class="classynav">
-                            <ul>
-                                <li class="active"><a href="#">Welcome - <?php echo $_SESSION["email"]; ?></a></li>
-                            </ul>
-
-
-                            <!-- Video Post Button -->
-                            <div class="add-post-button">
-                                <a href="logout.php" class="btn add-post-btn">Log Out</a>
-                            </div>
-
-                        </div>
-                        <!-- Nav End -->
-                    </div>
-                </nav>
-            </div>
-        </div>
-    </div>
-</header>
+<!--<header class="header-area">-->
+<!--    <div class="viral-news-main-menu" id="stickyMenu">-->
+<!--        <div class="classy-nav-container breakpoint-off">-->
+<!--            <div class="container">-->
+<!--                <!-- Menu -->-->
+<!--                <nav class="classy-navbar justify-content-between" id="viralnewsNav">-->
+<!---->
+<!--                    <!-- Logo -->-->
+<!--                    <a class="nav-brand" href="#"><img src="../img/core-img/kspg_india_logo.png" alt="KSPG India Logo" height="100" width="100"></a>-->
+<!---->
+<!--                    <!-- Navbar Toggler -->-->
+<!--                    <div class="classy-navbar-toggler">-->
+<!--                        <span class="navbarToggler"><span></span><span></span><span></span></span>-->
+<!--                    </div>-->
+<!---->
+<!--                    <!-- Menu -->-->
+<!--                    <div class="classy-menu">-->
+<!---->
+<!--                        <!-- close btn -->-->
+<!--                        <div class="classycloseIcon">-->
+<!--                            <div class="cross-wrap"><span class="top"></span><span class="bottom"></span></div>-->
+<!--                        </div>-->
+<!---->
+<!--                        <!-- Nav Start -->-->
+<!--                        <div class="classynav">-->
+<!--                            <ul>-->
+<!--                                <li class="active"><a href="#">Welcome - --><?php //echo $_SESSION["email"]; ?><!--</a></li>-->
+<!--                            </ul>-->
+<!---->
+<!---->
+<!--                            <!-- Video Post Button -->-->
+<!--                            <div class="add-post-button">-->
+<!--                                <a href="logout.php" class="btn add-post-btn">Log Out</a>-->
+<!--                            </div>-->
+<!---->
+<!--                        </div>-->
+<!--                        <!-- Nav End -->-->
+<!--                    </div>-->
+<!--                </nav>-->
+<!--            </div>-->
+<!--        </div>-->
+<!--    </div>-->
+<!--</header>-->
 <!-- ##### Header Area End ##### -->
-<div class="h-divider">
+<!--<div class="h-divider">-->
 <!--<button onclick="window.location.href='logout.php'" name="logout" >Log Out</button>-->
 <!--<h1 class="text-center">Welcome --><?php //echo $_SESSION["email"]; ?><!--</h1>-->
 <!--<p class="text-center"><a href="logout.php" >Click Here to logout</a></p>-->
+    <nav class="navbar navbar-inverse">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <a class="navbar-brand" href="#">WebSiteName</a>
+            </div>
+            <ul class="nav navbar-nav">
+                <li class="active"><a href="#">Home</a></li>
+                <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Page 1 <span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="#">Page 1-1</a></li>
+                        <li><a href="#">Page 1-2</a></li>
+                        <li><a href="#">Page 1-3</a></li>
+                    </ul>
+                </li>
+                <li><a href="#">Page 2</a></li>
+                <li><a href="#">Page 3</a></li>
+            </ul>
+        </div>
+    </nav>
 
+    <div class="container">
+        <h3>Navbar With Dropdown</h3>
+        <p>This example adds a dropdown menu for the "Page 1" button in the navigation bar.</p>
+    </div>
 <!-- jQuery -->
-<script src="//code.jquery.com/jquery.js"></script>
+<!--<script src="//code.jquery.com/jquery.js"></script>-->
 <!-- Bootstrap JavaScript -->
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+<!--<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>-->
 <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
 <script src="Hello World"></script>
 </div>
