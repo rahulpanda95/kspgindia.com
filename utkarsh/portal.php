@@ -19,7 +19,7 @@ if (!isset($_SESSION["email"])) {
     <link rel="icon" href="img/core-img/favicon.ico">
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
-    <link rel="stylesheet" href="../style.css">
+    <link rel="stylesheet" href="style.css">
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
@@ -68,10 +68,9 @@ if (!isset($_SESSION["email"])) {
 
                         <!-- Nav Start -->
                         <div class="classynav">
-                            <h4>Welcome - <?php echo $_SESSION["email"]; ?></h4><span></span><span></span><span></span></span>
 <!--                            <ul>-->
-<!--                                <li class="active"><a href="#">Welcome - --><?php //echo $_SESSION["email"]; ?><!--</a></li>-->
-<!--                                <li><a href="#">Attendance</a></li>-->
+                                <li class="active"><a href="#">Welcome - <?php echo $_SESSION["email"]; ?></a></li>
+                                <li><a href="#">Attendance</a></li>
 <!--                            </ul>-->
 
 
