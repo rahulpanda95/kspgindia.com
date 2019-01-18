@@ -356,10 +356,10 @@ textarea:focus {
       .header-area .viral-news-main-menu .classy-navbar .classynav ul li a {
         font-weight: 700; }
         .header-area .viral-news-main-menu .classy-navbar .classynav ul li a:hover, .header-area .viral-news-main-menu .classy-navbar .classynav ul li a:focus {
-          color: #e20378;
+          color: #3189e1;
           font-weight: 700; }
       .header-area .viral-news-main-menu .classy-navbar .classynav ul li.active a {
-        color: #e20378; }
+        color: #3189e1; }
       .header-area .viral-news-main-menu .classy-navbar .classynav > ul > li > a {
         text-transform: uppercase;
         padding: 12px 12px 11px;

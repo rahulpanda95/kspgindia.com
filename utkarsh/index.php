@@ -22,7 +22,7 @@ if (isset($_SESSION["email"])) {
 
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
-    <link rel="stylesheet" href="../style.css">
+    <link rel="stylesheet" href="style.css">
     <!-- Custom styles for this template -->
     <style type="text/css">
 
