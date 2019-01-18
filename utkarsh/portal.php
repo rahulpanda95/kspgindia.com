@@ -62,16 +62,16 @@ if (!isset($_SESSION["email"])) {
                     <div class="classy-menu">
                         <h4>Welcome - <?php echo $_SESSION["email"]; ?></h4>
                         <!-- close btn -->
-                        <div class="classycloseIcon">
-                            <div class="cross-wrap"><span class="top"></span><span class="bottom"></span></div>
-                        </div>
+<!--                        <div class="classycloseIcon">-->
+<!--                            <div class="cross-wrap"><span class="top"></span><span class="bottom"></span></div>-->
+<!--                        </div>-->
 
                         <!-- Nav Start -->
-                        <div class="classynav">
-                            <ul>
-                                <li class="active"><a href="#">Welcome - <?php echo $_SESSION["email"]; ?></a></li>
-                                <li><a href="#">Attendance</a></li>
-                            </ul>
+<!--                        <div class="classynav">-->
+<!--                            <ul>-->
+<!--                                <li class="active"><a href="#">Welcome - --><?php //echo $_SESSION["email"]; ?><!--</a></li>-->
+<!--                                <li><a href="#">Attendance</a></li>-->
+<!--                            </ul>-->
 
 
                             <!-- Video Post Button -->
