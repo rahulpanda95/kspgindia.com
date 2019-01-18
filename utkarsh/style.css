@@ -330,7 +330,7 @@ textarea:focus {
             .header-area .top-header-area .top-header-content .top-social-info-area a {
               padding: 0 3px; } }
           .header-area .top-header-area .top-header-content .top-social-info-area a:hover, .header-area .top-header-area .top-header-content .top-social-info-area a:focus {
-            color: #e20378; }
+            color: #3189e1; }
   .header-area .viral-news-main-menu {
     position: relative;
     width: 100%;
@@ -436,7 +436,7 @@ textarea:focus {
         transition-duration: 500ms;
         border-radius: 0 5px 5px 0; }
         .header-area .viral-search-form form button:hover {
-          background-color: #e20378;
+          background-color: #0d5fe1;
           color: #fff; }
     .header-area .viral-search-form.active {
       opacity: 1;
