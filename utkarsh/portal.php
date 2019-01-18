@@ -30,14 +30,12 @@ if (!isset($_SESSION["email"])) {
     <!-- Custom styles for this template -->
     <style type="text/css">
 
-        button {
-            line-height: 14px;
-            width: 200px;
-            height: 50px;
-            font-size: 8pt;
-            font-family: tahoma;
-            margin-top: 10px;
-            margin-right: 5%;
+        .h-divider{
+            margin-top:5px;
+            margin-bottom:5px;
+            height:1px;
+            width:100%;
+            border-top:4px solid #e12f54;
         }
 
 
@@ -90,7 +88,7 @@ if (!isset($_SESSION["email"])) {
     </div>
 </header>
 <!-- ##### Header Area End ##### -->
-<div>
+<div class="h-divider">
 <!--<button onclick="window.location.href='logout.php'" name="logout" >Log Out</button>-->
 <!--<h1 class="text-center">Welcome --><?php //echo $_SESSION["email"]; ?><!--</h1>-->
 <!--<p class="text-center"><a href="logout.php" >Click Here to logout</a></p>-->
