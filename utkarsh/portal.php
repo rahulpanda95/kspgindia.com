@@ -110,11 +110,11 @@ if (!isset($_SESSION["email"])) {
                 <li><a href="#">Page 2</a></li>
                 <li><a href="#">Page 3</a></li>
             </ul>
-        </div>
-        <div class="pull-right">
-            <ul class="nav navbar-nav">
-                <li><button type="submit" class="btn navbar-btn btn-danger" name="logout" id="logout"  value="Log Out" onclick="window.location.href='logout.php'" name="logout">Log Out</button></li>
-            </ul>
+            <div class="pull-right">
+                <ul class="nav navbar-nav">
+                    <li><button type="submit" class="btn navbar-btn btn-danger" name="logout" id="logout"  value="Log Out" onclick="window.location.href='logout.php'" name="logout">Log Out</button></li>
+                </ul>
+            </div>
         </div>
     </nav>
 
