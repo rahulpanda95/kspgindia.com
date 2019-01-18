@@ -49,39 +49,39 @@ if (!isset($_SESSION["email"])) {
 <!--    <div class="viral-news-main-menu" id="stickyMenu">-->
 <!--        <div class="classy-nav-container breakpoint-off">-->
 <!--            <div class="container">-->
-<!--                <!-- Menu -->-->
+                <!-- Menu -->
 <!--                <nav class="classy-navbar justify-content-between" id="viralnewsNav">-->
 <!---->
-<!--                    <!-- Logo -->-->
+                    <!-- Logo -->
 <!--                    <a class="nav-brand" href="#"><img src="../img/core-img/kspg_india_logo.png" alt="KSPG India Logo" height="100" width="100"></a>-->
 <!---->
-<!--                    <!-- Navbar Toggler -->-->
+                    <!-- Navbar Toggler -->
 <!--                    <div class="classy-navbar-toggler">-->
 <!--                        <span class="navbarToggler"><span></span><span></span><span></span></span>-->
 <!--                    </div>-->
 <!---->
-<!--                    <!-- Menu -->-->
+                    <!-- Menu -->
 <!--                    <div class="classy-menu">-->
 <!---->
-<!--                        <!-- close btn -->-->
+                        <!-- close btn -->
 <!--                        <div class="classycloseIcon">-->
 <!--                            <div class="cross-wrap"><span class="top"></span><span class="bottom"></span></div>-->
 <!--                        </div>-->
 <!---->
-<!--                        <!-- Nav Start -->-->
+                        <!-- Nav Start -->
 <!--                        <div class="classynav">-->
 <!--                            <ul>-->
 <!--                                <li class="active"><a href="#">Welcome - --><?php //echo $_SESSION["email"]; ?><!--</a></li>-->
 <!--                            </ul>-->
 <!---->
 <!---->
-<!--                            <!-- Video Post Button -->-->
+                            <!-- Video Post Button -->
 <!--                            <div class="add-post-button">-->
 <!--                                <a href="logout.php" class="btn add-post-btn">Log Out</a>-->
 <!--                            </div>-->
 <!---->
 <!--                        </div>-->
-<!--                        <!-- Nav End -->-->
+                        <!-- Nav End -->
 <!--                    </div>-->
 <!--                </nav>-->
 <!--            </div>-->
