@@ -135,7 +135,6 @@ if (!isset($_SESSION["email"])) {
 
 
 <!-- Footer -->
-<div style="background-color: #e1e1e8">
 <section id="footer">
     <div class="container-fluid">
         <div class="row text-center text-xs-center text-sm-left text-md-left">
@@ -191,7 +190,6 @@ if (!isset($_SESSION["email"])) {
         </div>
     </div>
 </section>
-</div>
 <!-- ./Footer -->
 
 </body>
