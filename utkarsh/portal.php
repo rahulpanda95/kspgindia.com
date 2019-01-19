@@ -88,7 +88,7 @@ if (!isset($_SESSION["email"])) {
 <!--NavBar Ends-->
 
 <!-- Footer -->
-<section class="footer">
+<section class="footer fixed-bottom">
     <div class="container-fluid">
         <div class="row text-center text-xs-center text-sm-left text-md-left">
             <div class="col-xs-12 col-sm-4 col-md-4">
