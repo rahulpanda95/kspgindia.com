@@ -90,7 +90,7 @@ if (!isset($_SESSION["email"])) {
 <script>
     $(document).ready(function(){
         $("button").click(function(){
-            $("#div1").load("demo_test.txt");
+            $("#div1").load("http://kspgindia.com/visitors.php");
         });
     });
 </script>
