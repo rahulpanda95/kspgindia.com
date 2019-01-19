@@ -65,7 +65,7 @@ if (!isset($_SESSION["email"])) {
                 <li><a href="#">Page 2</a></li>
                 <li><a href="#">Page 3</a></li>
             </ul>
-                <form class="navbar-form navbar-left" action="/utkarsh/action_page.php">
+                <form class="navbar-form navbar-left" action="#">
                     <div class="form-group">
                         <input type="text" class="form-control" placeholder="Search">
                     </div>
