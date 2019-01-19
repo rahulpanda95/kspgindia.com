@@ -146,7 +146,7 @@ if (!isset($_SESSION["email"])) {
 </div>
 
 <!-- Footer -->
-<section id="footer" style="background-color: #e84341">
+<section id="footer">
     <div class="container">
         <div class="row text-center text-xs-center text-sm-left text-md-left">
             <div class="col-xs-12 col-sm-4 col-md-4">
