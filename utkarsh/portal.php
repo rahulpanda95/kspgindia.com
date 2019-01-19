@@ -40,6 +40,7 @@ if (!isset($_SESSION["email"])) {
 </head>
 <body>
 
+
 <!--NavBar Starts-->
     <nav class="navbar navbar-default">
         <div class="container-fluid">
@@ -64,7 +65,7 @@ if (!isset($_SESSION["email"])) {
                 <li><a href="#">Page 2</a></li>
                 <li><a href="#">Page 3</a></li>
             </ul>
-                <form class="navbar-form navbar-left" action="/action_page.php">
+                <form class="navbar-form navbar-left" action="/utkarsh/action_page.php">
                     <div class="form-group">
                         <input type="text" class="form-control" placeholder="Search">
                     </div>
@@ -87,7 +88,6 @@ if (!isset($_SESSION["email"])) {
 </div>
 <!--NavBar Ends-->
 
-<hr style="color: #0b4f7b; display: block; border-width: 4px;">
 <!-- Footer -->
 <section class="footer fixed-bottom">
     <div class="container-fluid">
