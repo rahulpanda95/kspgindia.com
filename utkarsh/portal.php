@@ -122,13 +122,14 @@ if (!isset($_SESSION["email"])) {
                     </div>
                     <button type="submit" class="btn btn-default">Submit</button>
                 </form>
-            </div>
-            <div class="pull-right">
-                <ul class="nav navbar-nav">
+                <div class="pull-right">
+                    <ul class="nav navbar-nav">
 
-                    <li><button type="submit" class="btn navbar-btn btn-danger" name="logout" id="logout"  value="Log Out" onclick="window.location.href='logout.php'" name="logout">Log Out</button></li>
-                </ul>
+                        <li><button type="submit" class="btn navbar-btn btn-danger" name="logout" id="logout"  value="Log Out" onclick="window.location.href='logout.php'" name="logout">Log Out</button></li>
+                    </ul>
+                </div>
             </div>
+
         </div>
     </nav>
 
