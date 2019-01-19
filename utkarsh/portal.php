@@ -93,9 +93,14 @@ if (!isset($_SESSION["email"])) {
 <!--<button onclick="window.location.href='logout.php'" name="logout" >Log Out</button>-->
 <!--<h1 class="text-center">Welcome --><?php //echo $_SESSION["email"]; ?><!--</h1>-->
 <!--<p class="text-center"><a href="logout.php" >Click Here to logout</a></p>-->
-    <nav class="navbar navbar-default">
+    <nav class="navbar navbar-default navbar-fixed-top">
         <div class="container-fluid">
             <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
                 <a class="navbar-brand" href="#">KSPG India - Utkarsh</a>
             </div>
             <ul class="nav navbar-nav">
@@ -110,6 +115,12 @@ if (!isset($_SESSION["email"])) {
                 <li><a href="#">Page 2</a></li>
                 <li><a href="#">Page 3</a></li>
             </ul>
+            <form class="navbar-form navbar-left" action="/action_page.php">
+                <div class="form-group">
+                    <input type="text" class="form-control" placeholder="Search">
+                </div>
+                <button type="submit" class="btn btn-default">Submit</button>
+            </form>
             <div class="pull-right">
                 <ul class="nav navbar-nav">
                     <li><button type="submit" class="btn navbar-btn btn-danger" name="logout" id="logout"  value="Log Out" onclick="window.location.href='logout.php'" name="logout">Log Out</button></li>
