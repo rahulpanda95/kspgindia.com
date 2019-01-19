@@ -40,16 +40,6 @@ if (!isset($_SESSION["email"])) {
 </head>
 <body>
 
-<!--Click Scripts Start-->
-<script>
-    $('.script-btn').on('click',function(){
-        $('.script-body').load('../visitors.php',function(){
-            $('#myModal').modal({show:true});
-        });
-    });
-</script>
-<!--Click Scrits End-->
-
 <!--NavBar Starts-->
     <nav class="navbar navbar-default">
         <div class="container-fluid">
@@ -63,7 +53,7 @@ if (!isset($_SESSION["email"])) {
             </div>
             <div class="collapse navbar-collapse" id="myNavbar">
             <ul class="nav navbar-nav">
-                <li class="active"><a href="#"><button id="script-btn">Home</button></a></li>
+                <li class="active"><a href="#">Home</a></li>
                 <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Page 1 <span class="caret"></span></a>
                     <ul class="dropdown-menu">
                         <li><a href="#">Page 1-1</a></li>
@@ -97,9 +87,6 @@ if (!isset($_SESSION["email"])) {
 </div>
 <!--NavBar Ends-->
 
-<div class="script-body container-fluid">
-
-</div>
 <!-- Footer -->
 <section class="footer fixed-bottom">
     <div class="container-fluid">
