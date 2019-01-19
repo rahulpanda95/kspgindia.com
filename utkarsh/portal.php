@@ -103,6 +103,7 @@ if (!isset($_SESSION["email"])) {
                 </button>
                 <a class="navbar-brand" href="#">KSPG India - Utkarsh</a>
             </div>
+            <div class="collapse navbar-collapse" id="myNavbar">
             <ul class="nav navbar-nav">
                 <li class="active"><a href="#">Home</a></li>
                 <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Page 1 <span class="caret"></span></a>
@@ -115,6 +116,7 @@ if (!isset($_SESSION["email"])) {
                 <li><a href="#">Page 2</a></li>
                 <li><a href="#">Page 3</a></li>
             </ul>
+            </div>
             <form class="navbar-form navbar-left" action="/action_page.php">
                 <div class="form-group">
                     <input type="text" class="form-control" placeholder="Search">
