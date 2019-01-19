@@ -87,6 +87,7 @@ if (!isset($_SESSION["email"])) {
 </div>
 <!--NavBar Ends-->
 
+<hr style="color: #0b4f7b">
 <!-- Footer -->
 <section class="footer fixed-bottom">
     <div class="container-fluid">
