@@ -53,7 +53,7 @@ if (!isset($_SESSION["email"])) {
             </div>
             <div class="collapse navbar-collapse" id="myNavbar">
             <ul class="nav navbar-nav">
-                <li class="active"><a href="#">Home</a></li>
+                <li class="active"><a href="#"><button>Home</button></a></li>
                 <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Page 1 <span class="caret"></span></a>
                     <ul class="dropdown-menu">
                         <li><a href="#">Page 1-1</a></li>
@@ -85,8 +85,18 @@ if (!isset($_SESSION["email"])) {
     <h3>Navbar With Dropdown</h3>
     <p>This example adds a dropdown menu for the "Page 1" button in the navigation bar.</p>
 </div>
-<!--NavBar Ends-->
 
+<!--Button Scripts Start-->
+<script>
+    $(document).ready(function(){
+        $("button").click(function(){
+            $("#div1").load("demo_test.txt");
+        });
+    });
+</script>
+<!--Button Scripts End-->
+<!--NavBar Ends-->
+<div id="div1"><h2>Let jQuery AJAX Change This Text</h2></div>
 <!-- Footer -->
 <section class="footer fixed-bottom">
     <div class="container-fluid">
@@ -137,7 +147,7 @@ if (!isset($_SESSION["email"])) {
         <div class="row">
             <div class="col-xs-12 col-sm-12 col-md-12 mt-2 mt-sm-2 text-center text-white">
                 <p><u><a href="https://www.kspgindia.com/" target="_blank">KSPG India</a></u> is a Registered MSP/ISO of Kushal Swadesh Pratistha Group</p>
-                <p class="h6">&copy All right Reversed.<a class="text-green ml-2" href="https://www.kspgindia.com" target="_blank">KSPG Technology Support Group</a></p>
+                <p class="h6">&copy All right Reversed. <a class="text-green ml-2" href="https://www.kspgindia.com" target="_blank">KSPG Technology Support Group</a></p>
             </div>
             </hr>
         </div>
