@@ -80,8 +80,8 @@ if (isset($_SESSION["email"])) {
 
 <body>
 
-<img class="center" src="https://kspgindia.com/img/core-img/kspg_India_resized" alt="KSPG India">
-<br><h2 align="center">Utkarsh - The Awakening</h2>
+<img class="center" src="../img/core-img/kspg_india_logo.png" alt="KSPG India">
+<br><h2 align="center" style="color: #0b4f7b">Utkarsh - The Awakening</h2>
 
 <div class="container">
     <form class="form-signin" method="POST" action="login_script.php">
